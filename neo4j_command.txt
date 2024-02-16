@@ -1,0 +1,56 @@
+CREATE CONSTRAINT condition_index IF NOT EXISTS FOR (c:Condition) REQUIRE c.id IS UNIQUE
+;
+CREATE CONSTRAINT medicine_index IF NOT EXISTS FOR (m:Medicine) REQUIRE m.name IS UNIQUE
+;
+CREATE CONSTRAINT action_index IF NOT EXISTS FOR (t:Action) REQUIRE t.id IS UNIQUE
+;
+CREATE CONSTRAINT structure_index IF NOT EXISTS FOR (s:Structure) REQUIRE s.id IS UNIQUE
+;
+CREATE CONSTRAINT therapeutic_index IF NOT EXISTS FOR (s:Therapeutic) REQUIRE s.id IS UNIQUE
+;
+
+CALL apoc.load.jsonArray("file:///condition.jsonl") YIELD value MERGE (c:Condition {name: value.name, id: value.ID})
+;
+CALL apoc.load.jsonArray("file:///drug_details_4.jsonl") YIELD value MERGE (c:Medicine {name: value.name, UMLS_id: value.UMLS_ID, RXNORM_id: value.RXNORM_id, side_effects: value.side_effects})
+;
+CALL apoc.load.jsonArray("file:///actions.jsonl") YIELD value MERGE (c:Action {name: value.name, id: value.ID})
+;
+CALL apoc.load.jsonArray("file:///structures.jsonl") YIELD value MERGE (c:Structure {name: value.name, id: value.ID})
+;
+CALL apoc.load.jsonArray("file:///therapeutics.jsonl") YIELD value MERGE (c:Therapeutic {name: value.name, id: value.ID})
+;
+
+
+
+LOAD CSV WITH HEADERS FROM 'file:///INTERACTS_WITH.tsv' AS row FIELDTERMINATOR '\t'  MERGE (p1:Medicine {name: row.from}) MERGE (p2:Medicine {name: row.to}) MERGE (p1)-[r:INTERACTS_WITH {severity: row.effect}]->(p2)
+;
+
+LOAD CSV WITH HEADERS FROM 'file:///MAY_TREAT.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Medicine {name: row.from}) MERGE (p2:Condition {id: row.to}) MERGE (p1)-[r:MAY_TREAT]->(p2)
+;
+
+LOAD CSV WITH HEADERS FROM 'file:///MAY_PREVENT.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Medicine {name: row.from}) MERGE (p2:Condition {id: row.to}) MERGE (p1)-[r:MAY_PREVENT]->(p2)
+;
+
+LOAD CSV WITH HEADERS FROM 'file:///CONTRAINDICATED_WITH_DISEASE.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Medicine {name: row.from}) MERGE (p2:Condition {id: row.to}) MERGE (p1)-[r:CONTRAINDICATED_WITH_DISEASE]->(p2)
+;
+
+LOAD CSV WITH HEADERS FROM 'file:///HAS_MECHANISM_OF_ACTION.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Medicine {name: row.from}) MERGE (p2:Action {id: row.to}) MERGE (p1)-[r:HAS_MECHANISM_OF_ACTION]->(p2)
+;
+
+LOAD CSV WITH HEADERS FROM 'file:///HAS_STRUCTURAL_CLASS.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Medicine {name: row.from}) MERGE (p2:Structure {id: row.to}) MERGE (p1)-[r:HAS_STRUCTURAL_CLASS]->(p2)
+;
+
+LOAD CSV WITH HEADERS FROM 'file:///HAS_THERAPEUTIC_CLASS.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Medicine {name: row.from}) MERGE (p2:Therapeutic {id: row.to}) MERGE (p1)-[r:HAS_THERAPEUTIC_CLASS]->(p2)
+;
+
+MATCH  (m1:Medicine) -[:MAY_TREAT]->(n:Condition) <-[:MAY_TREAT]-(m2:Medicine) -[:INTERACTS_WITH]->(m1) RETURN * LIMIT 25
+
+MATCH  (m1:Medicine) -[:MAY_TREAT]->(n:Condition) <-[:MAY_TREAT]-(m2:Medicine) -[:INTERACTS_WITH]->(m1) WHERE size(apoc.coll.intersection(m1.side_effects, m2.side_effects)) > 0 RETURN * LIMIT 25
+
+
+MATCH (n)
+DETACH DELETE n;
+
+
+SHOW CONSTRAINT;
+

@@ -1,0 +1,499 @@
+{"name": "Nepafenac", "side_effects": ["Stickiness", "Decreased vision", "Application site irritation", "Foreign body sensation in eyes", "Increased intraocular pressure"]}
+{"name": "Mesalazine", "side_effects": ["Abdominal pain", "Hair loss", "Diarrhea", "Rash", "Rectal discomfort", "Vomiting", "Headache", "Itching", "Flatulence", "Nausea", "Stomach pain/epigastric pain"]}
+{"name": "Human Rabies Immunoglobulin", "side_effects": ["Anaphylactic reaction", "Soreness", "Nephrotic syndrome", "Injection site stiffness", "Tenderness", "Pain", "Angioedema (swelling of deeper layers of skin)"]}
+{"name": "Eletriptan", "side_effects": ["Flushing (sense of warmth in the face, ears, neck and trunk)", "Throat pain", "Dryness in mouth", "Nausea", "Neck pain", "Weakness", "Jaw pain", "Sleepiness", "Heaviness", "Dizziness"]}
+{"name": "Glimepiride", "side_effects": ["Nausea", "Weakness", "Hypoglycemia (low blood glucose level)", "Headache", "Dizziness"]}
+{"name": "Warfarin", "side_effects": ["Bleeding"]}
+{"name": "Fenofibrate", "side_effects": ["Back pain", "Increased creatine phosphokinase cpk level in blood", "Abdominal pain", "Diarrhea", "Vomiting", "Headache", "Inflammation of the nose", "Flatulence", "Nausea", "Increased liver enzymes"]}
+{"name": "Neomycin", "side_effects": ["Nausea", "Diarrhea", "Vomiting", "Application site reactions (burning, irritation, itching and redness)"]}
+{"name": "Famciclovir", "side_effects": ["Elevated levels of serum amylase", "Fatigue", "Abdominal pain", "Diarrhea", "Rash", "Vomiting", "Headache", "Fever", "Itching", "Abnormal liver function tests", "Increased lipase in the blood", "Skin rash", "Nausea", "Stomach pain", "Dizziness"]}
+{"name": "Mycophenolate mofetil", "side_effects": ["Fungal infection", "High blood pressure", "Diarrhea", "Vomiting", "Decreased white blood cell count (neutrophils)", "Viral infection", "Anemia (low number of red blood cells)", "Skin cancer", "Nausea", "Convulsion", "Tumor", "Bacterial infection", "Low blood platelets", "Weight loss", "Tremors", "Hypercholesterolemia (high cholesterol)", "Abdominal pain", "Headache", "Electrolyte imbalance", "Gout"]}
+{"name": "Methylphenidate", "side_effects": ["Abdominal pain", "Insomnia (difficulty in sleeping)", "Nervousness", "Headache"]}
+{"name": "Griseofulvin", "side_effects": ["Skin rash", "Nausea", "Diarrhea", "Headache", "Dizziness"]}
+{"name": "Ketotifen", "side_effects": ["Conjunctival inflammation", "Sedation", "Sleep disturbance", "Eye irritation", "Insomnia (difficulty in sleeping)", "Nervousness", "Irritation", "Punctate keratitis", "Hyperactivity", "Agitation"]}
+{"name": "Oxazepam", "side_effects": ["Tremors", "Lethargy", "Nausea", "Edema (swelling)", "Slurred speech", "Rash", "Altered libido", "Dizziness"]}
+{"name": "Pneumococcal Polysaccharide Vaccine", "side_effects": ["Injection site redness", "Weakness", "Muscle pain", "Tiredness", "Headache"]}
+{"name": "Chromium", "side_effects": []}
+{"name": "Loperamide", "side_effects": ["Constipation", "Nausea", "Stomach pain", "Headache"]}
+{"name": "Finasteride", "side_effects": ["Ejaculation disorder", "Decreased libido", "Erectile dysfunction"]}
+{"name": "Cilostazol", "side_effects": ["Bleeding disorder", "Abdominal pain", "Abnormal stool", "Diarrhea", "Headache", "Inflammation of the nose", "Palpitations", "Edema (swelling)", "Increased heart rate", "Dizziness"]}
+{"name": "Theophylline", "side_effects": ["Upset stomach", "Nausea", "Restlessness", "Vomiting", "Headache"]}
+{"name": "Methylprednisolone", "side_effects": ["Increased risk of infection", "Weight gain", "Sweating", "Reduction in bone density", "Headache", "Behavioral changes", "Mood changes", "Upset stomach", "Nausea", "Edema (swelling)", "Thinning of skin", "Dizziness"]}
+{"name": "Tenofovir disoproxil fumarate", "side_effects": ["Depression", "Insomnia (difficulty in sleeping)", "Increased transaminase level in blood", "Fatigue", "Abdominal pain", "Diarrhea", "Decreased phosphate level in blood", "Rash", "Vomiting", "Pain", "Headache", "Fever", "Itching", "Flatulence", "Nausea", "Weakness", "Dizziness"]}
+{"name": "Benazepril", "side_effects": []}
+{"name": "Silymarin", "side_effects": ["Back pain", "Hair loss", "Diarrhea", "Bloating", "Rash", "Itching", "Loss of appetite", "Upset stomach", "Nausea", "Stomach pain", "Indigestion", "Dizziness"]}
+{"name": "Iron", "side_effects": ["Dark colored stool", "Constipation", "Injection site reactions (pain, swelling, redness)", "Nausea", "Diarrhea", "Vomiting"]}
+{"name": "Flupenthixol", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Muscle stiffness", "Tremors", "Weight gain", "Orthostatic hypotension (sudden lowering of blood pressure on standing)", "Sleepiness", "Urinary retention", "Abnormality of voluntary movements", "Constipation", "Dryness in mouth", "Increased prolactin level in blood"]}
+{"name": "Selegiline", "side_effects": ["Joint pain", "Depression", "Insomnia (difficulty in sleeping)", "Flu-like symptoms", "Cough", "Peripheral edema", "Indigestion"]}
+{"name": "Etoposide", "side_effects": ["Decreased blood cells (red cells, white cells, and platelets)", "Low blood platelets", "Rash", "Anemia (low number of red blood cells)", "Liver damage", "Nausea", "Hair loss", "Stomatitis (Inflammation of the mouth)", "Diarrhea", "Decreased white blood cell count", "Vomiting"]}
+{"name": "Aspirin", "side_effects": ["Increased bleeding tendency", "Heartburn", "Upset stomach", "Nausea", "Vomiting"]}
+{"name": "Valproic Acid", "side_effects": []}
+{"name": "Folic Acid", "side_effects": ["Weight loss", "Flatulence", "Abdominal distension", "Nausea"]}
+{"name": "Insulin detemir", "side_effects": ["Hypoglycemia (low blood glucose level)", "Injection site allergic reaction", "Lipodystrophy (skin thickening or pits at the injection site)"]}
+{"name": "Phenytoin", "side_effects": ["Tremors", "Confusion", "Nervousness", "Vertigo", "Slurred speech", "Rash", "Vomiting", "Headache", "Constipation", "Nausea", "Altered walking", "Dizziness"]}
+{"name": "Rotavirus vaccine", "side_effects": ["Fever", "Loss of appetite", "Cough", "Irritability", "Vomiting"]}
+{"name": "Dalteparin", "side_effects": ["Injection site bruising", "Bleeding", "Bruise", "Injection site hematoma", "Increased liver enzymes", "Injection site reaction", "Nosebleeds", "Hemorrhagic complications"]}
+{"name": "Phytomenadione", "side_effects": ["Injection site reactions (pain, swelling, redness)"]}
+{"name": "Atorvastatin", "side_effects": ["Abdominal pain", "Diarrhea", "Joint pain", "Abnormal liver function tests", "Nausea", "Dyspepsia", "Urinary tract infection", "Pain in extremities", "Indigestion", "Nasopharyngitis (inflammation of the throat and nasal passages)"]}
+{"name": "Beclometasone", "side_effects": ["Throat irritation", "Hoarseness of voice", "Application site irritation", "Abnormal taste", "Nasal irritation", "Dry throat", "Nosebleeds", "Nasal dryness", "Application site burning", "Sore tongue", "Nasopharyngeal irritation", "Pharyngitis", "Thrush"]}
+{"name": "Naproxen", "side_effects": ["Heartburn", "Bruise", "Nausea", "Abdominal pain", "Edema (swelling)", "Rash", "Vomiting", "Indigestion", "Headache"]}
+{"name": "Magaldrate", "side_effects": []}
+{"name": "Orciprenaline", "side_effects": ["Tremors", "Palpitations", "Insomnia (difficulty in sleeping)", "Restlessness", "Headache"]}
+{"name": "Mizolastine", "side_effects": ["Dizziness", "Sleepiness"]}
+{"name": "Chloramphenicol", "side_effects": ["Nausea", "Taste change", "Diarrhea", "Vomiting"]}
+{"name": "Pramipexole", "side_effects": ["Constipation", "Hallucination", "Dryness in mouth", "Fatigue", "Nausea", "Muscle spasm", "Sleepiness", "Peripheral edema", "Dizziness"]}
+{"name": "Silodosin", "side_effects": ["Retrograde ejaculation", "Dizziness", "Orthostatic hypotension (sudden lowering of blood pressure on standing)", "Nasal congestion (stuffy nose)", "Blurred vision", "Diarrhea", "Tiredness", "Nasopharyngitis (inflammation of the throat and nasal passages)", "Headache"]}
+{"name": "Amiodarone", "side_effects": ["Congestive cardiac failure", "Lung damage", "Tachycardia", "Increased liver enzymes"]}
+{"name": "Calcitriol", "side_effects": ["Blisters on skin", "Injection site reactions (pain, swelling, redness)", "Itching"]}
+{"name": "Zuclopenthixol", "side_effects": ["Constipation", "Tremors", "Weight gain", "Orthostatic hypotension (sudden lowering of blood pressure on standing)", "Dryness in mouth", "Urinary retention", "Increased prolactin level in blood", "Sleepiness", "Abnormality of voluntary movements"]}
+{"name": "Valethamate", "side_effects": ["Constipation", "Dryness in mouth", "Difficulty in swallowing", "Dilatation of pupil", "Blurred vision", "Urinary retention", "Increased heart rate"]}
+{"name": "Midazolam", "side_effects": ["Sedation", "Injection site reactions (pain, swelling, redness)", "Hiccup", "Nausea", "Cough", "Vomiting", "Drowsiness", "Headache"]}
+{"name": "Insulin Glulisine", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Lipodystrophy (skin thickening or pits at the injection site)", "Itching", "Hypoglycemia (low blood glucose level)", "Upper respiratory tract infection", "Allergic reaction", "Rash"]}
+{"name": "Levosalbutamol", "side_effects": ["Sore throat", "Tremors", "Accidental injury", "Vomiting", "Pain", "Headache", "Muscle cramp", "Bronchitis inflammation of the airways", "Palpitations", "Nasal congestion (stuffy nose)", "Chest pain", "Pharyngitis", "Increased heart rate", "Dizziness"]}
+{"name": "Erythromycin", "side_effects": ["Allergy", "Nausea", "Abdominal pain", "Diarrhea", "Vomiting"]}
+{"name": "Rifampicin", "side_effects": ["Fever", "Low blood platelets", "Nausea", "Vomiting", "Headache", "Dizziness"]}
+{"name": "Ethinyl Estradiol", "side_effects": []}
+{"name": "Timolol", "side_effects": ["Stinging in the eyes", "Burning eyes"]}
+{"name": "Adefovir", "side_effects": []}
+{"name": "Zolmitriptan", "side_effects": ["Heaviness", "Fatigue", "Peripheral neuropathy (tingling and numbness of feet and hand)", "Taste change", "Feeling of cold", "Flushing (sense of warmth in the face, ears, neck and trunk)", "Dryness in mouth", "Nausea", "Tightness sensation", "Drowsiness", "Dizziness"]}
+{"name": "Potassium Citrate", "side_effects": ["Abdominal pain", "Nausea", "Paralysis", "Diarrhea", "Allergic reaction", "Vomiting"]}
+{"name": "Demeclocycline", "side_effects": []}
+{"name": "Fosphenytoin", "side_effects": []}
+{"name": "Butorphanol", "side_effects": ["Constipation", "Injection site reactions (pain, swelling, redness)", "Nausea", "Sleepiness", "Vomiting", "Headache", "Dizziness"]}
+{"name": "Hydroxyzine", "side_effects": ["Sedation", "Constipation", "Loss of appetite", "Upset stomach", "Nausea", "Diarrhea", "Vomiting"]}
+{"name": "Bezafibrate", "side_effects": []}
+{"name": "Acetazolamide", "side_effects": ["Excitement", "Flushing (sense of warmth in the face, ears, neck and trunk)", "Frequent urge to urinate", "Loss of appetite", "Taste change", "Numbness of extremity", "Diarrhea", "Tingling sensation of extremity", "Tiredness", "Feeling sick", "Headache", "Dizziness"]}
+{"name": "Fosaprepitant", "side_effects": []}
+{"name": "Fluconazole", "side_effects": ["Eye irritation", "Ear discomfort", "Nausea", "Stinging in the eyes", "Stomach pain", "Application site reactions (burning, irritation, itching and redness)", "Headache"]}
+{"name": "Heparin", "side_effects": ["Bleeding", "Erythema (skin redness)", "Skin rash"]}
+{"name": "Zinc acetate", "side_effects": ["Decreased copper level", "Dizziness", "Loss of appetite", "Decreased cholesterol level in blood", "Stomach cramp", "Nausea", "Weakness", "Diarrhea", "Vomiting", "Headache"]}
+{"name": "Freeze-dried Live Attenuated Hepatitis A Vaccine", "side_effects": ["Sore throat", "Feeling of discomfort", "Fatigue", "Abdominal pain", "Vomiting", "Tenderness", "Pain", "Headache", "Anaphylactic reaction", "Fever", "Flushing (sense of warmth in the face, ears, neck and trunk)", "Loss of appetite", "Nausea", "Convulsion", "Erythema (skin redness)"]}
+{"name": "Ketoconazole", "side_effects": ["Dryness", "Hair discoloration", "Abdominal pain", "Diarrhea", "Vomiting", "Application site reactions (burning, irritation, itching and redness)", "Adrenal insufficiency", "Headache", "Abnormal liver function", "Application site burning", "Abnormal hair texture", "Itching", "Application site redness", "Abnormal liver function tests", "Nausea", "Skin peeling", "Stomach pain", "Increased liver enzymes"]}
+{"name": "Pneumococcal 13 valent Conjugate Vaccine", "side_effects": ["Sleep deprivation", "Injection site reactions (pain, swelling, redness)", "Limitations of arm movement", "Decreased appetite", "Hypersomnia excessive sleepiness", "Chills", "Irritation", "Diarrhea", "Sleepiness", "Rash", "Tiredness", "Vomiting", "Fever", "Irritability"]}
+{"name": "Mifepristone", "side_effects": ["Uterine bleeding", "Infection following abortion", "Nausea", "Diarrhea", "Uterine cramps", "Vomiting"]}
+{"name": "Linagliptin", "side_effects": ["Constipation", "Hypoglycemia (low blood glucose level)", "Cough", "Diarrhea", "Vomiting", "Nasopharyngitis (inflammation of the throat and nasal passages)"]}
+{"name": "Benzydamine", "side_effects": ["No common side effects seen"]}
+{"name": "Ondansetron", "side_effects": ["Constipation", "Fatigue", "Diarrhea", "Injection site pain", "Headache"]}
+{"name": "Fenticonazole", "side_effects": ["Vaginal burning sensation", "Irritation", "Itching", "Erythema (skin redness)"]}
+{"name": "Linezolid", "side_effects": ["Decreased blood cells (red cells, white cells, and platelets)", "Decreased blood pressure", "Nausea", "Diarrhea", "Vomiting", "Headache"]}
+{"name": "Salbutamol", "side_effects": ["Muscle cramp", "Respiratory tract inflammation", "Respiratory tract infection", "Tremors", "Palpitations", "Nervousness", "Cough", "Increased heart rate", "Headache"]}
+{"name": "Verapamil", "side_effects": ["Nausea", "Constipation", "Hypotension low blood pressure", "Headache", "Dizziness"]}
+{"name": "Evening Primrose Oil", "side_effects": ["Nausea", "Upset stomach", "Diarrhea", "Headache"]}
+{"name": "Deflazacort", "side_effects": ["Frequent urge to urinate", "Weight gain", "Facial swelling", "Cough", "Cushing syndrome", "Common cold", "Increased appetite", "Upper respiratory tract infection", "Abnormal hair growth", "Obesity", "Nasopharyngitis (inflammation of the throat and nasal passages)"]}
+{"name": "Glibenclamide", "side_effects": ["Nausea", "Dizziness", "Hypoglycemia (low blood glucose level)", "Headache"]}
+{"name": "Dextromethorphan Hydrobromide", "side_effects": ["Respiratory depression", "Excitement", "Confusion", "Nausea", "Convulsion", "Diarrhea", "Sleepiness", "Rash", "Vomiting", "Dizziness"]}
+{"name": "Enalapril", "side_effects": ["Increased potassium level in blood", "Dizziness", "Fatigue", "Weakness", "Cough", "Decreased blood pressure"]}
+{"name": "Niacinamide", "side_effects": ["Hepatobiliary disorder", "Sore throat", "Dry hair", "Stiffness of face", "Heartburn", "Fatigue", "Nausea", "Blockade of portal blood vessels", "Portal vein fibrosis", "Liver toxicity", "Disorientation (alteration of mental status)", "Headache"]}
+{"name": "Dapagliflozin", "side_effects": ["Dyslipidemia", "Nausea", "Urinary tract infection", "Polyuria", "Fungal infection of vagina", "Vomiting", "Genital fungal infection", "Nasopharyngitis (inflammation of the throat and nasal passages)"]}
+{"name": "Terbinafine", "side_effects": ["Abnormal liver enzyme", "Abdominal pain", "Taste change", "Diarrhea", "Rash", "Application site reactions (burning, irritation, itching and redness)", "Headache", "Itching", "Flatulence", "Nausea", "Skin peeling", "Indigestion"]}
+{"name": "Ergotamine", "side_effects": ["Nausea", "Leg pain", "Vomiting", "Muscle pain"]}
+{"name": "Desvenlafaxine", "side_effects": ["Anxiety", "Constipation", "Insomnia (difficulty in sleeping)", "Decreased appetite", "Nausea", "Increased sweating", "Vomiting", "Sexual dysfunction", "Dizziness"]}
+{"name": "Safinamide", "side_effects": ["Joint pain", "Depression", "Insomnia (difficulty in sleeping)", "Flu-like symptoms", "Cough", "Peripheral edema", "Indigestion"]}
+{"name": "Raloxifene", "side_effects": ["Joint pain", "Hot flashes", "Sweating", "Flu-like symptoms", "Leg cramps", "Peripheral edema"]}
+{"name": "Disopyramide", "side_effects": []}
+{"name": "Amiloride", "side_effects": []}
+{"name": "Methylcobalamin", "side_effects": ["Nasal discomfort", "Vomiting", "Loss of appetite", "Headache"]}
+{"name": "Enclomiphene", "side_effects": ["Hot flashes", "Enlarged Ovary", "Metrorrhagia (menstrual bleeding at irregular intervals)", "Enlarged ovary", "Nausea", "Breast discomfort", "Bloating", "Vomiting", "Headache"]}
+{"name": "Nadifloxacin", "side_effects": ["Application site reactions (burning, irritation, itching and redness)"]}
+{"name": "Valganciclovir", "side_effects": ["Fever", "Low blood platelets", "Tremors", "Insomnia (difficulty in sleeping)", "Anemia (low number of red blood cells)", "Diarrhea", "Decreased white blood cell count", "Vomiting"]}
+{"name": "Xylometazoline", "side_effects": ["Dry nose", "Nausea", "Burning sensation", "Irritation", "Headache"]}
+{"name": "Tetracycline", "side_effects": ["Nausea", "Vomiting", "Diarrhea", "Photosensitivity"]}
+{"name": "Sildenafil", "side_effects": ["Muscle pain", "Blurred vision", "Diarrhea", "Rash", "Nosebleeds", "Headache", "Flushing (sense of warmth in the face, ears, neck and trunk)", "Stiffness", "Nasal congestion (stuffy nose)", "Upset stomach", "Sinus inflammation", "Nausea", "Nasal inflammation", "Indigestion", "Dizziness"]}
+{"name": "Mebendazole", "side_effects": ["Sore throat", "Fever", "Bleeding", "Loss of appetite", "Abdominal pain", "Nausea", "Hair loss", "Vomiting", "Headache", "Dizziness"]}
+{"name": "Cholestyramine", "side_effects": []}
+{"name": "Pancreatin", "side_effects": ["Stomach pain", "Diarrhea", "Bloating"]}
+{"name": "Repaglinide", "side_effects": ["Back pain", "Joint pain", "Abdominal pain", "Nausea", "Hypoglycemia (low blood glucose level)", "Upper respiratory tract infection", "Sinus inflammation", "Diarrhea", "Headache"]}
+{"name": "Dapoxetine", "side_effects": ["Tremors", "Drowsiness", "Insomnia (difficulty in sleeping)", "Fatigue", "Increased sweating", "Vomiting", "Headache", "Agitation", "Eye pain", "Dizziness", "Nausea", "Restlessness", "Indigestion", "Erectile dysfunction"]}
+{"name": "Amantadine", "side_effects": ["Hallucination", "Balance disorder (loss of balance)", "Insomnia (difficulty in sleeping)", "Orthostatic hypotension (sudden lowering of blood pressure on standing)", "Blurred vision", "Constipation", "Dryness in mouth", "Nausea", "Peripheral edema", "Dizziness"]}
+{"name": "Cilnidipine", "side_effects": ["Tremors", "Fatigue", "Abdominal pain", "Muscle pain", "Sleepiness", "Rash", "Decreased blood pressure", "Headache", "Eye pain", "Flushing (sense of warmth in the face, ears, neck and trunk)", "Itching", "Palpitations", "Nausea", "Edema (swelling)", "Dizziness"]}
+{"name": "Danazol", "side_effects": ["Sore throat", "Hoarseness of voice", "Swelling", "Acne", "Weight gain", "Voice change", "Abnormal hair growth on a women face and body", "Hair loss", "Itchy scalp"]}
+{"name": "Cyclophosphamide", "side_effects": ["Blood in urine", "Fever", "Nausea", "Hair loss", "Diarrhea", "Vomiting", "Decreased white blood cell count (neutrophils)"]}
+{"name": "Glucosamine Sulfate Potassium Chloride", "side_effects": ["No common side effects seen"]}
+{"name": "Fexofenadine", "side_effects": ["Nausea", "Drowsiness", "Headache", "Dizziness"]}
+{"name": "Tamsulosin", "side_effects": ["Retrograde ejaculation", "Orthostatic hypotension (sudden lowering of blood pressure on standing)", "Infection", "Nausea", "Abdominal pain", "Ejaculation disorder", "Headache", "Dizziness"]}
+{"name": "Acarbose", "side_effects": ["Flatulence", "Gastrointestinal discomfort"]}
+{"name": "Nimodipine", "side_effects": ["Muscle cramp", "Decreased blood pressure", "Stomach discomfort", "Nausea", "Edema (swelling)", "Rash", "Increased heart rate", "Headache"]}
+{"name": "Tramadol", "side_effects": ["Constipation", "Nausea", "Sleepiness", "Vomiting", "Dizziness"]}
+{"name": "Aprepitant", "side_effects": []}
+{"name": "Sulfadiazine", "side_effects": ["Nausea", "Vomiting", "Diarrhea", "Allergic reaction"]}
+{"name": "Orlistat", "side_effects": ["Soft stools", "Oily evacuation", "Abdominal pain", "Increased urge to pass bowels", "Bowel incontinence", "Diarrhea", "Fat in stool", "Abdominal cramp", "Oily spotting", "Increased bowel movements", "Flatulence", "Flatus with discharge"]}
+{"name": "Palonosetron", "side_effects": ["Constipation", "Diarrhea", "Sleepiness", "Headache", "Dizziness"]}
+{"name": "Triamcinolone", "side_effects": ["Joint pain", "Injection site reactions (pain, swelling, redness)", "Contact dermatitis", "Increased risk of infection", "Skin discoloration", "Infection", "Application site irritation", "Upset stomach", "Bacterial infection", "Reduction in bone density", "Headache"]}
+{"name": "Salmonella Typhi Vaccine", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Fever", "Nausea", "Tiredness", "Headache"]}
+{"name": "Nitroglycerin", "side_effects": ["Lightheadedness", "Flushing (sense of warmth in the face, ears, neck and trunk)", "Limited data available", "Decreased blood pressure", "Weakness", "Paresthesia (tingling or pricking sensation)", "Blurred vision", "Increased heart rate", "Headache", "Dizziness"]}
+{"name": "Menadione", "side_effects": ["Injection site reactions (pain, swelling, redness)"]}
+{"name": "Ofloxacin", "side_effects": ["Eye discomfort", "Injection site reactions (pain, swelling, redness)", "Insomnia (difficulty in sleeping)", "Application site irritation", "Phlebitis", "Rash", "Headache", "Vaginal inflammation", "Genital itching", "Itching", "Nausea", "Dizziness"]}
+{"name": "Felodipine", "side_effects": []}
+{"name": "Rabies vaccine, Human", "side_effects": ["Joint pain", "Swelling of lymph nodes", "Injection site swelling", "Injection site redness", "Pain"]}
+{"name": "Rivastigmine", "side_effects": ["Depression", "Weight loss", "Fatigue", "Abdominal pain", "Fainting", "Rash", "Vomiting", "Application site reactions (burning, irritation, itching and redness)", "Delirium acute confusional state", "Fever", "Loss of appetite", "Nausea", "Weakness", "Urinary tract infection", "Indigestion"]}
+{"name": "Co-trimoxazole", "side_effects": ["Nausea", "Vomiting", "Skin rash", "Allergic reaction"]}
+{"name": "Quinidine", "side_effects": []}
+{"name": "Atenolol", "side_effects": ["Gastrointestinal disturbance", "Slow heart rate", "Fatigue", "Cold extremities"]}
+{"name": "Isosorbide Dinitrate", "side_effects": ["Nausea", "Lightheadedness", "Dizziness", "Headache"]}
+{"name": "Clozapine", "side_effects": ["Increased white blood cell count eosinophils", "Tachycardia", "Weight gain", "Seizure", "Visual impairment", "Decreased white blood cell count", "Fainting", "Increased sweating", "Decreased blood pressure", "Constipation", "Fever", "Extrapyramidal symptoms", "Anticholinergic effects", "Increased liver enzymes", "Drowsiness", "Excessive salivation", "Dizziness"]}
+{"name": "Equine Rabies Immunoglobulin", "side_effects": ["Acute toxicity", "Upset stomach", "Nausea", "Rash"]}
+{"name": "Ertapenem", "side_effects": ["Insomnia (difficulty in sleeping)", "Abdominal pain", "Diarrhea", "Rash", "Disorientation alteration of mental status", "Vomiting", "Arrhythmia (irregular heartbeats)", "Headache", "Vaginal inflammation", "Breathlessness", "Infusion site inflammation", "Infusion site reaction", "Nausea", "Edema (swelling)", "Dizziness"]}
+{"name": "Clopidogrel", "side_effects": ["Bleeding", "Bruise", "Gastrointestinal bleeding", "Abdominal pain", "Hematoma", "Dyspepsia", "Diarrhea", "Nosebleeds"]}
+{"name": "Pethidine", "side_effects": ["Constipation", "Nausea", "Sleepiness", "Vomiting", "Headache", "Dizziness"]}
+{"name": "L-Methyl Folate", "side_effects": ["Excitement", "Flatulence", "Confusion", "Gastrointestinal discomfort", "Loss of appetite", "Hyperactivity", "Impaired judgment", "Taste change", "Nausea", "Irritation", "Bitter taste", "Sleep disorder", "Impaired concentration"]}
+{"name": "Bromfenac", "side_effects": ["Eye pain", "Eye irritation", "Decreased vision", "Increased sensitivity to light", "Change in color vision", "Blurred vision", "Burning sensation", "Sore eye", "Teary eyes"]}
+{"name": "Ketorolac", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Stinging sensation", "Application site irritation", "Burning sensation", "Diarrhea", "Indigestion", "Vomiting", "Heartburn", "Loss of appetite", "Nausea", "Visual disturbance", "Stomach pain/epigastric pain", "Drowsiness", "Dizziness"]}
+{"name": "Propyl Thiouracil", "side_effects": ["Skin rash", "Nausea", "Paresthesia (tingling or pricking sensation)", "Hair loss", "Pain", "Headache"]}
+{"name": "Penicillin G", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Nausea", "Diarrhea", "Allergic reaction", "Rash", "Vomiting"]}
+{"name": "Vitamin A", "side_effects": ["No common side effects seen"]}
+{"name": "Idoxuridine", "side_effects": []}
+{"name": "Gabapentin", "side_effects": ["Nystagmus (involuntary eye movement)", "Impaired coordination", "Fever", "Viral infection", "Fatigue", "Nausea", "Sleepiness", "Peripheral edema", "Vomiting", "Dizziness"]}
+{"name": "Moxonidine", "side_effects": ["Back pain", "Insomnia (difficulty in sleeping)", "Diarrhea", "Vertigo", "Sleepiness", "Rash", "Vomiting", "Headache", "Dryness in mouth", "Weakness", "Nausea", "Dizziness"]}
+{"name": "Terfenadine", "side_effects": []}
+{"name": "Inactivated influenza vaccine", "side_effects": ["Weakness", "Injection site reactions (pain, swelling, redness)", "Injection site allergic reaction", "Headache"]}
+{"name": "Divalproex", "side_effects": ["Deafness", "Decreased sodium level in blood", "Weight gain", "Double vision", "Hypersensitivity", "Hair loss", "Blurred vision", "Diarrhea", "Sleepiness", "Vomiting", "Anemia (low number of red blood cells)", "Weakness", "Nausea", "Pain during periods", "Dizziness", "Gastrointestinal disturbance", "Weight loss", "Tremors", "Decreased body temperature", "Liver injury", "Abdominal pain", "Paresthesia (tingling or pricking sensation)", "Increase in body weight", "Headache", "Urinary incontinence", "Infection", "Flu-like symptoms"]}
+{"name": "Balsalazide", "side_effects": ["Joint pain", "Respiratory tract infection", "Nausea", "Abdominal pain", "Diarrhea", "Vomiting", "Headache"]}
+{"name": "Betahistine", "side_effects": ["Nausea", "Stomach pain", "Bloating", "Indigestion", "Headache"]}
+{"name": "Oxyphenbutazone", "side_effects": []}
+{"name": "Vitamin C", "side_effects": ["Injection site reactions (pain, swelling, redness)"]}
+{"name": "Budesonide", "side_effects": ["Fungal infection", "Throat irritation", "Respiratory tract infection", "Depression", "Increased risk of infection", "Muscle weakness", "Nasal irritation", "Cushing syndrome", "Difficulty in swallowing", "Fungal infection of oropharynx", "Nausea", "Irritability", "Fungal infection of mouth", "Osteoporosis", "Muscle twitching", "Abdominal pain", "Muscle pain", "Euphoria feeling of intense excitement and happiness", "Nosebleeds", "Headache", "Joint pain", "Constipation", "Dyspepsia"]}
+{"name": "Ropinirole", "side_effects": ["Hallucination", "Confusion", "Sleepiness", "Fainting", "Abnormality of voluntary movements", "Vomiting", "Headache", "Viral infection", "Weakness", "Nausea", "Edema (swelling)", "Indigestion", "Dizziness"]}
+{"name": "Gentamicin", "side_effects": ["Burning sensation", "Balance disorder (loss of balance)", "Hearing loss", "Kidney damage", "Injection site pain", "Application site irritation"]}
+{"name": "Efavirenz", "side_effects": ["Depression", "Difficulty in paying attention", "Decreased appetite", "Fatigue", "Diarrhea", "Sleepiness", "Rash", "Vomiting", "Pain", "Abnormal dreams", "Fever", "Nausea", "Increased liver enzymes", "Allergic reaction", "Dizziness", "Insomnia (difficulty in sleeping)", "Abdominal pain", "Increased triglyceride level in blood", "Agranulocytosis (deficiency of granulocytes in the blood)", "Headache", "Anxiety", "Itching"]}
+{"name": "Inactivated Japanese Encephalitis virus protein", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Fever", "Fatigue", "Nausea", "Muscle pain", "Headache"]}
+{"name": "Camostat", "side_effects": ["Increased potassium level in blood", "Low blood platelets", "Itching", "Abnormal liver function tests", "Jaundice", "Gastrointestinal discomfort", "Nausea", "Diarrhea", "Rash", "Liver disorder"]}
+{"name": "Metoclopramide", "side_effects": ["Weakness", "Restlessness", "Fatigue"]}
+{"name": "Valacyclovir", "side_effects": ["Nausea", "Abdominal pain", "Headache"]}
+{"name": "Sertaconazole", "side_effects": ["Vaginal burning sensation", "Skin irritation", "Application site reactions (burning, irritation, itching and redness)"]}
+{"name": "Paroxetine", "side_effects": ["Tremors", "Insomnia (difficulty in sleeping)", "Confusion", "Fatigue", "Nervousness", "Increased sweating", "Constipation", "Decreased libido", "Dizziness", "Loss of appetite", "Dryness in mouth", "Nausea", "Delayed ejaculation", "Low sexual desire", "Erectile dysfunction"]}
+{"name": "Meclizine", "side_effects": ["Sleepiness"]}
+{"name": "Lafutidine", "side_effects": ["Constipation", "Increased uric acid level in blood", "Protein in urine", "Fatigue", "Muscle pain", "Increased liver enzymes", "Diarrhea", "Drowsiness", "Headache"]}
+{"name": "Pregabalin", "side_effects": ["Difficulty in paying attention", "Weight gain", "Dryness in mouth", "Blurred vision", "Edema (swelling)", "Sleepiness", "Dizziness"]}
+{"name": "Entecavir", "side_effects": ["Fatigue", "Nausea", "Stomach pain", "Diarrhea", "Rash", "Vomiting", "Headache"]}
+{"name": "Potassium Chloride", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Muscle weakness", "Flatulence", "Fatigue", "Nausea", "Paresthesia (tingling or pricking sensation)", "Abdominal pain", "Diarrhea", "Febrile response", "Vomiting"]}
+{"name": "Clobetasol", "side_effects": ["Telangiectasia", "Skin atrophy", "Skin irritation", "Dry skin", "Application site reactions (burning, irritation, itching and redness)", "Thinning of skin"]}
+{"name": "Donepezil", "side_effects": ["Weight loss", "Insomnia (difficulty in sleeping)", "Fatigue", "Diarrhea", "Rash", "Accidental injury", "Vomiting", "Urinary incontinence", "Muscle cramp", "Common cold", "Nausea"]}
+{"name": "Nalbuphine", "side_effects": ["Constipation", "Nausea", "Sleepiness", "Vomiting", "Headache", "Dizziness"]}
+{"name": "Azathioprine", "side_effects": ["Increased bleeding tendency", "Loss of appetite", "Infection", "Nausea", "Decreased white blood cell count"]}
+{"name": "Sodium aminosalicylate", "side_effects": ["Nausea", "Vomiting", "Skin rash", "Allergic reaction"]}
+{"name": "Risperidone", "side_effects": ["Sedation", "Depression", "Parkinsonism", "Insomnia (difficulty in sleeping)", "Drowsiness", "Headache"]}
+{"name": "Minocycline", "side_effects": ["Itching", "Photosensitivity", "Nausea", "Fatigue", "Diarrhea", "Vomiting", "Headache", "Dizziness"]}
+{"name": "Trimethoprim", "side_effects": ["Hives", "Rash", "Itching", "Anemia (low number of red blood cells)", "Skin rash", "Nausea", "Diarrhea", "Mouth ulcer", "Feeling sick", "Phototoxicity", "Vomiting", "Headache"]}
+{"name": "Dexlansoprazole", "side_effects": ["Flatulence", "Nausea", "Abdominal pain", "Diarrhea", "Vomiting"]}
+{"name": "Strontium Chloride", "side_effects": []}
+{"name": "Hyoscyamine", "side_effects": ["Lightheadedness", "Increased sensitivity to light", "Difficulty in urination", "Blurred vision", "Headache", "Constipation", "Flushing (sense of warmth in the face, ears, neck and trunk)", "Dryness in mouth", "Drowsiness", "Dizziness"]}
+{"name": "Haloperidol Decanoate", "side_effects": ["Muscle stiffness", "Tremors", "Weight gain", "Orthostatic hypotension (sudden lowering of blood pressure on standing)", "Sleepiness", "Urinary retention", "Abnormality of voluntary movements", "Constipation", "Dryness in mouth", "Increased prolactin level in blood"]}
+{"name": "Modafinil", "side_effects": ["Back pain", "Anxiety", "Insomnia (difficulty in sleeping)", "Nervousness", "Nausea", "Runny nose", "Diarrhea", "Indigestion", "Headache", "Dizziness"]}
+{"name": "Lidocaine", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Slow heart rate", "Tremors", "Confusion", "Convulsion", "Hypotension low blood pressure", "Edema (swelling)", "Allergic reaction", "Application site reactions (burning, irritation, itching and redness)", "Drowsiness", "Dizziness"]}
+{"name": "Betaxolol", "side_effects": ["Eye discomfort", "Increased lacrimation", "Watery eyes", "Blurred vision", "Headache"]}
+{"name": "Omeprazole", "side_effects": ["Flatulence", "Nausea", "Abdominal pain", "Stomach pain", "Diarrhea", "Vomiting", "Headache"]}
+{"name": "Levofloxacin", "side_effects": ["Constipation", "Injection site reactions (pain, swelling, redness)", "Nausea", "Diarrhea", "Headache", "Dizziness"]}
+{"name": "Ibandronic Acid", "side_effects": ["Dizziness", "Musculoskeletal (bone, muscle or joint) pain", "Heartburn", "Hypercholesterolemia (high cholesterol)", "Upper respiratory tract infection", "Urinary tract infection", "Diarrhea", "Indigestion", "Headache"]}
+{"name": "Dosulepin", "side_effects": ["Constipation", "Difficulty in urination", "Weight gain", "Orthostatic hypotension (sudden lowering of blood pressure on standing)", "Dryness in mouth", "Blurred vision", "Increased heart rate"]}
+{"name": "Sevelamer", "side_effects": ["Constipation", "Flatulence", "Upper abdominal pain", "Nausea", "Diarrhea", "Vomiting"]}
+{"name": "Moxifloxacin", "side_effects": ["Eye discomfort", "Injection site reactions (pain, swelling, redness)", "Burning sensation", "Dry eye", "Burning sensation in eye"]}
+{"name": "Buspirone", "side_effects": ["Constipation", "Dizziness", "Dryness in mouth", "Nausea", "Abdominal pain", "Diarrhea", "Sleepiness", "Vomiting", "Headache"]}
+{"name": "Isosorbide Mononitrate", "side_effects": ["Flushing (sense of warmth in the face, ears, neck and trunk)", "Orthostatic hypotension (sudden lowering of blood pressure on standing)", "Chest pain", "Abdominal pain", "Upper respiratory tract infection", "Diarrhea", "Allergic reaction", "Headache", "Dizziness"]}
+{"name": "Clobazam", "side_effects": ["Constipation", "Drooling", "Fever", "Insomnia (difficulty in sleeping)", "Difficulty in urination", "Slurred speech", "Breathing problems", "Cough", "Sleepiness", "Tiredness", "Aggressive behavior"]}
+{"name": "Epinastine", "side_effects": ["Itching", "Ocular hyperemia", "Burning sensation in eye"]}
+{"name": "Lisinopril", "side_effects": ["Increased potassium level in blood", "Dizziness", "Fatigue", "Weakness", "Cough", "Decreased blood pressure"]}
+{"name": "Imipramine", "side_effects": ["Constipation", "Difficulty in urination", "Orthostatic hypotension (sudden lowering of blood pressure on standing)", "Dryness in mouth", "Blurred vision", "Increased heart rate"]}
+{"name": "Glucosamine", "side_effects": ["Nausea", "Heartburn", "Upset stomach"]}
+{"name": "Polio Vaccine", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Induration (hardening of a normally soft tissue or organ)", "Fever"]}
+{"name": "Vardenafil", "side_effects": ["Flushing (sense of warmth in the face, ears, neck and trunk)", "Nasal congestion (stuffy nose)", "Upset stomach", "Blurred vision", "Muscle pain", "Rash", "Indigestion", "Headache", "Dizziness"]}
+{"name": "Nicorandil", "side_effects": ["Flushing (sense of warmth in the face, ears, neck and trunk)", "Palpitations", "Nausea", "Weakness", "Ulcer", "Vomiting", "Headache", "Dizziness"]}
+{"name": "Sertraline", "side_effects": ["Tremors", "Insomnia (difficulty in sleeping)", "Taste change", "Diarrhea", "Sleepiness", "Increased sweating", "Loss of appetite", "Nausea", "Delayed ejaculation", "Indigestion", "Low sexual desire", "Erectile dysfunction"]}
+{"name": "Menadione Sodium Bisulfite", "side_effects": ["Limited data available"]}
+{"name": "Cetirizine", "side_effects": ["Constipation", "Dryness in mouth", "Fatigue", "Nausea", "Muscle pain", "Edema (swelling)", "Sleepiness", "Vomiting", "Headache"]}
+{"name": "Metamizole", "side_effects": []}
+{"name": "Estriol", "side_effects": ["Vaginal irritation", "Vaginal itching"]}
+{"name": "Clomiphene", "side_effects": ["Vasomotor flushing", "Gastrointestinal disturbance", "Hot flashes", "Enlarged Ovary", "Dizziness", "Metrorrhagia (menstrual bleeding at irregular intervals)", "Enlarged ovary", "Breast enlargement in male", "Nausea", "Breast discomfort", "Bloating", "Breast pain", "Vomiting", "Headache"]}
+{"name": "Clarithromycin", "side_effects": ["Insomnia (difficulty in sleeping)", "Abdominal pain", "Taste change", "Abnormal taste", "Diarrhea", "Rash", "Vomiting", "Application site reactions (burning, irritation, itching and redness)", "Headache", "Abnormal liver function tests", "Injection site phlebitis", "Skin rash", "Nausea", "Dyspepsia", "Indigestion"]}
+{"name": "Zolpidem", "side_effects": ["Back pain", "Depression", "Dizziness", "Memory loss", "Fatigue", "Nausea", "Double vision", "Stomach pain", "Vertigo", "Sleepiness", "Vomiting", "Agitation", "Headache"]}
+{"name": "Camylofin", "side_effects": ["Excessive thirst", "Reduce bronchial secretion", "Difficulty in urination", "Dry skin", "Arrhythmia (irregular heartbeats)", "Loss of accommodation", "Constipation", "Flushing (sense of warmth in the face, ears, neck and trunk)", "Palpitations", "Dryness in mouth", "Dilatation of pupil", "Photophobia", "Increased heart rate"]}
+{"name": "Enalaprilat", "side_effects": ["Increased potassium level in blood", "Dizziness", "Fatigue", "Weakness", "Cough", "Renal impairment", "Decreased blood pressure"]}
+{"name": "Vancomycin", "side_effects": ["Decreased potassium level in blood", "Back pain", "Injection site reactions (pain, swelling, redness)", "Fatigue", "Renal injury", "Vomiting", "Wheezing", "Decreased white blood cell count (neutrophils)", "Breathlessness", "Decreased blood pressure", "Fever", "Nausea", "Hypotension low blood pressure", "Urinary tract infection", "Peripheral edema", "Red man syndrome", "Abdominal pain", "Phlebitis", "Headache", "Flushing (sense of warmth in the face, ears, neck and trunk)", "Flatulence", "Hearing loss", "Renal toxicity"]}
+{"name": "Voriconazole", "side_effects": ["Altered vision", "Eye irritation", "Slow heart rate", "Hallucination", "Blurred vision", "Burning sensation", "Rash", "Vomiting", "Headache", "Abnormal liver function tests", "Anemia (low number of red blood cells)", "Nausea", "Sinus inflammation", "Peripheral edema"]}
+{"name": "Teneligliptin", "side_effects": ["Constipation", "Nausea", "Hypoglycemia (low blood glucose level)", "Diarrhea", "Increased body temperature", "Vomiting", "Headache", "Dizziness"]}
+{"name": "Vitamin D3", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Weakness", "Metallic taste", "Muscle pain"]}
+{"name": "Chloroquine", "side_effects": ["Diarrhea", "Rash", "Vomiting", "Headache", "Loss of appetite", "Photosensitivity", "Nausea", "Upset stomach", "Weakness", "Stomach pain", "Dizziness"]}
+{"name": "Purified Vi Polysaccharide Typhoid Vaccine", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Fever", "Feeling of discomfort", "Nausea", "Diarrhea", "Headache"]}
+{"name": "Aceclofenac", "side_effects": ["Heartburn", "Loss of appetite", "Nausea", "Abdominal pain", "Diarrhea", "Increased liver enzymes", "Stomach pain/epigastric pain", "Vomiting", "Indigestion", "Dizziness"]}
+{"name": "Rosiglitazone", "side_effects": []}
+{"name": "Desloratadine", "side_effects": ["Dizziness", "Sleepiness"]}
+{"name": "Vildagliptin", "side_effects": ["Tremors", "Fatigue", "Nausea", "Hypoglycemia (low blood glucose level)", "Headache", "Dizziness"]}
+{"name": "Streptomycin", "side_effects": ["Vomiting", "Fever", "Vertigo", "Skin rash"]}
+{"name": "Dextropropoxyphene", "side_effects": []}
+{"name": "Nateglinide", "side_effects": ["Back pain", "Joint pain", "Flu-like symptoms", "Upper respiratory tract infection", "Diarrhea", "Dizziness"]}
+{"name": "Lamivudine", "side_effects": ["Fatigue", "Nausea", "Stomach pain", "Diarrhea", "Rash", "Vomiting", "Headache"]}
+{"name": "Nevirapine", "side_effects": []}
+{"name": "Methimazole", "side_effects": ["Joint pain", "Skin rash", "Nausea", "Paresthesia (tingling or pricking sensation)", "Taste change", "Hair loss", "Muscle pain", "Drowsiness", "Headache"]}
+{"name": "Sitagliptin", "side_effects": ["Hypoglycemia (low blood glucose level)", "Upper respiratory tract infection", "Hypoglycaemia (low blood sugar level) in combination with insulin or sulphonylurea", "Nasopharyngitis (inflammation of the throat and nasal passages)", "Headache"]}
+{"name": "Propranolol", "side_effects": ["Weakness", "Nausea", "Diarrhea", "Tiredness", "Vomiting", "Arrhythmia (irregular heartbeats)", "Raynaud s phenomenon"]}
+{"name": "Framycetin", "side_effects": ["Application site reactions (burning, irritation, itching and redness)"]}
+{"name": "Chlorthalidone", "side_effects": ["Nausea", "Dizziness", "Headache"]}
+{"name": "Rabeprazole", "side_effects": ["Thrombophlebitis", "Sore throat", "Dizziness", "Flatulence", "Nausea", "Stomach pain", "Diarrhea", "Vomiting", "Headache"]}
+{"name": "Diazepam", "side_effects": ["Impaired coordination", "Muscle weakness", "Drowsiness", "Fatigue"]}
+{"name": "Kanamycin", "side_effects": ["Balance disorder (loss of balance)", "Hearing loss", "Injection site pain", "Renal impairment"]}
+{"name": "Phenobarbitone", "side_effects": ["Constipation", "Excitement", "Depression", "Dizziness", "Confusion", "Fatigue", "Nausea", "Hangover", "Diarrhea", "Hyperactivity", "Drowsiness", "Headache", "Decreased blood pressure"]}
+{"name": "Imatinib mesylate", "side_effects": ["Bleeding", "Weight gain", "Fatigue", "Abdominal pain", "Breathing problems", "Cough", "Diarrhea", "Rash", "Vomiting", "Muscle cramp", "Musculoskeletal (bone, muscle or joint) pain", "Hemorrhage", "Nausea", "Edema (swelling)", "Dry eye", "Dizziness"]}
+{"name": "Codeine", "side_effects": ["Dizziness", "Nausea", "Sleepiness", "Vomiting", "Headache", "Breathlessness"]}
+{"name": "Capreomycin", "side_effects": []}
+{"name": "Bemiparin", "side_effects": []}
+{"name": "Ciprofloxacin", "side_effects": ["Eye discomfort", "Joint pain", "Urticaria", "Injection site reactions (pain, swelling, redness)", "Gastrointestinal disorder", "Ocular hyperemia", "Application site irritation", "Taste change", "Burning sensation", "Rash", "Corneal deposits", "Headache", "Dizziness"]}
+{"name": "Sumatriptan", "side_effects": ["Flushing (sense of warmth in the face, ears, neck and trunk)", "Weakness", "Peripheral neuropathy (tingling and numbness of feet and hand)", "Drowsiness", "Dizziness"]}
+{"name": "Azithromycin", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Nausea", "Abdominal pain", "Diarrhea", "Vomiting", "Application site reactions (burning, irritation, itching and redness)", "Burning eyes"]}
+{"name": "Metamizole/Dipyrone", "side_effects": []}
+{"name": "Hydroxocobalamin", "side_effects": ["Anaphylactic reaction", "Flushing (sense of warmth in the face, ears, neck and trunk)", "Allergy", "Dark colored urine", "Erythema (skin redness)"]}
+{"name": "Tadalafil", "side_effects": ["Back pain", "Respiratory tract infection", "Muscle pain", "Blurred vision", "Rash", "Headache", "Flushing (sense of warmth in the face, ears, neck and trunk)", "Nasal congestion (stuffy nose)", "Upset stomach", "Nausea", "Nasopharyngitis (inflammation of the throat and nasal passages)"]}
+{"name": "Reboxetine", "side_effects": []}
+{"name": "Fluorometholone", "side_effects": ["Eye irritation", "Burning sensation", "Watery eyes"]}
+{"name": "Tetanus Toxoid", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Fever", "Loss of appetite"]}
+{"name": "Benfotiamine", "side_effects": ["Skin rash", "Stomach discomfort"]}
+{"name": "Chlorpropamide", "side_effects": []}
+{"name": "Ketoprofen", "side_effects": ["Nausea", "Inflammation", "Erythema (skin redness)", "Vomiting", "Heartburn", "Indigestion"]}
+{"name": "Diltiazem", "side_effects": ["Lightheadedness", "Nausea", "Edema (swelling)", "Application site reactions (burning, irritation, itching and redness)", "Headache", "Dizziness"]}
+{"name": "Meningococcal Vaccine", "side_effects": ["Dizziness", "Loss of appetite", "Fatigue", "Nausea", "Irritation", "Diarrhea", "Sleepiness", "Injection site reaction", "Vomiting", "Headache"]}
+{"name": "Rotavirus vaccine (live attenuated,oral)", "side_effects": []}
+{"name": "Moclobemide", "side_effects": []}
+{"name": "Mefenamic Acid", "side_effects": ["Dizziness", "Loss of appetite", "Nausea", "Stomach pain", "Diarrhea", "Vomiting", "Indigestion", "Headache"]}
+{"name": "Atropine", "side_effects": ["Eye pain", "High blood pressure", "Stinging sensation", "Skin rash"]}
+{"name": "Recombinant Human Epidermal Growth Factor", "side_effects": ["Rash", "Skin irritation", "Pain"]}
+{"name": "Bicalutamide", "side_effects": ["Depression", "Decreased appetite", "Weight gain", "Breast tenderness", "Breast enlargement in male", "Sleepiness", "Rash", "Hot flashes", "Decreased libido", "Anemia (low number of red blood cells)", "Nausea", "Weakness", "Increased liver enzymes", "Indigestion", "Dizziness", "Abdominal pain", "Constipation", "Flatulence"]}
+{"name": "Chlorpromazine", "side_effects": ["Constipation", "Muscle stiffness", "Weight gain", "Orthostatic hypotension (sudden lowering of blood pressure on standing)", "Dryness in mouth", "Urinary retention", "Increased prolactin level in blood", "Sleepiness", "Abnormality of voluntary movements"]}
+{"name": "Ulinastatin", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Increased liver enzymes"]}
+{"name": "Clomipramine", "side_effects": []}
+{"name": "Citalopram", "side_effects": []}
+{"name": "Nicotinamide", "side_effects": ["Application site reactions (burning, irritation, itching and redness)", "Dry skin"]}
+{"name": "Magnesium Bisglycinate", "side_effects": ["Nausea", "Diarrhea", "Upset stomach"]}
+{"name": "Tobramycin", "side_effects": ["Lung disorder", "Sore throat", "Eye irritation", "Increased sputum production", "Voice change", "Taste change", "Cough", "Burning sensation", "Rash", "Application site reactions (burning, irritation, itching and redness)", "Breathlessness", "Upset stomach", "Eye redness", "Eye itching", "Coughing up blood"]}
+{"name": "Rubella vaccine (Live)", "side_effects": []}
+{"name": "Granisetron", "side_effects": ["Constipation", "Insomnia (difficulty in sleeping)", "Weakness", "Diarrhea", "Sleepiness", "Injection site pain", "Headache"]}
+{"name": "Prasugrel", "side_effects": ["Bleeding"]}
+{"name": "Varicella Vaccine  attenuated", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Fever", "Rash"]}
+{"name": "Naphazoline", "side_effects": ["Dilatation of pupil"]}
+{"name": "Digoxin", "side_effects": ["Skin rash", "Nausea", "Visual impairment", "Diarrhea", "Vomiting", "Arrhythmia (irregular heartbeats)", "Dizziness"]}
+{"name": "Dexamethasone", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Eye irritation", "Hiccup", "Cushing syndrome", "Mood changes", "Infection", "Cardiovascular complications", "Bitter taste", "Decreased sperm count", "Metabolic disorder"]}
+{"name": "Zinc Carnosine", "side_effects": ["Limited data available"]}
+{"name": "Betamethasone", "side_effects": ["Reduction in bone density", "Application site reactions (burning, irritation, itching and redness)", "Upset stomach"]}
+{"name": "Miconazole", "side_effects": ["Vulvovaginal discomfort", "Genital itching", "Pain during periods", "Skin peeling", "Vaginal burning sensation", "Dry skin", "Blisters on skin", "Application site reactions (burning, irritation, itching and redness)"]}
+{"name": "Isoniazid", "side_effects": ["Peripheral neuropathy (tingling and numbness of feet and hand)", "Hepatitis (viral infection of liver)", "Jaundice", "Increased liver enzymes"]}
+{"name": "Astemizole", "side_effects": []}
+{"name": "Capecitabine", "side_effects": ["Weakness", "Nausea", "Abdominal pain", "Diarrhea", "Blisters on fingers/feet", "Vomiting"]}
+{"name": "Acitretin", "side_effects": ["Increased levels of blood fat", "Hair loss", "Runny nose", "Dry skin", "Nosebleeds", "Lip inflammation", "Inflammation of the nose", "Joint pain", "Itching", "Dry lips", "Muscle tightness", "Dryness in mouth", "Skin peeling", "Change in finger nails", "Cracked lips", "Dry eye"]}
+{"name": "Tolterodine", "side_effects": ["Constipation", "Dryness in mouth", "Blurred vision", "Diarrhea", "Sleepiness", "Headache", "Dizziness"]}
+{"name": "Piribedil", "side_effects": ["Feeling of discomfort", "Sleepiness", "Vomiting", "Headache"]}
+{"name": "Fluocinolone acetonide", "side_effects": ["Application site reactions (burning, irritation, itching and redness)"]}
+{"name": "Aztreonam", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Nausea", "Diarrhea", "Rash", "Vomiting"]}
+{"name": "Tigecycline", "side_effects": ["Nausea", "Stomach pain", "Increased liver enzymes", "Diarrhea", "Vomiting", "Headache"]}
+{"name": "Topiramate", "side_effects": ["Memory impairment", "Speech disorder", "Fatigue", "Nervousness", "Visual impairment", "Diarrhea", "Sleepiness", "Fever", "Nausea", "Upper respiratory tract infection", "Dizziness", "Psychomotor impairment", "Weight loss", "Numbness", "Abdominal pain", "Taste change", "Loss of appetite"]}
+{"name": "Captopril", "side_effects": []}
+{"name": "Levocetirizine", "side_effects": ["Constipation", "Dizziness", "Dryness in mouth", "Fatigue", "Nausea", "Sleepiness", "Vomiting", "Nasopharyngitis (inflammation of the throat and nasal passages)", "Headache"]}
+{"name": "Nelfinavir", "side_effects": []}
+{"name": "Risedronate", "side_effects": ["Musculoskeletal (bone, muscle or joint) pain", "Heartburn", "Diarrhea", "Indigestion", "Headache"]}
+{"name": "Miglitol", "side_effects": ["Flatulence", "Skin rash", "Abdominal pain", "Diarrhea"]}
+{"name": "Olopatadine", "side_effects": ["Eye pain", "Eye discomfort", "Eye irritation", "Dryness in mouth", "Weakness", "Cough", "Sleepiness", "Bitter taste", "Nosebleeds", "Abnormal eye sensation"]}
+{"name": "Amisulpride", "side_effects": ["Weight gain", "Dystonia (involuntary muscle contractions)", "Vomiting", "Decreased blood pressure", "Constipation", "Akathisia (inability to stay still)", "Parkinsonism", "Dryness in mouth", "Nausea", "Increased prolactin level in blood"]}
+{"name": "Probenecid", "side_effects": ["Nausea", "Diarrhea", "Loss of appetite"]}
+{"name": "Mefloquine", "side_effects": ["Depression", "Insomnia (difficulty in sleeping)", "Fatigue", "Abdominal pain", "Chills", "Visual impairment", "Muscle pain", "Diarrhea", "Vertigo", "Rash", "Vomiting", "Headache", "Abnormal dreams", "Anxiety", "Fever", "Itching", "Loss of appetite", "Atrial arrhythmias altered heart rate", "Nausea", "Ringing in ear", "Dizziness"]}
+{"name": "Almotriptan", "side_effects": ["Dizziness", "Dryness in mouth", "Nausea", "Paresthesia (tingling or pricking sensation)", "Sleepiness", "Vomiting", "Headache"]}
+{"name": "Roxithromycin", "side_effects": ["Allergy", "Nausea", "Abdominal pain", "Diarrhea", "Vomiting"]}
+{"name": "Ibuprofen", "side_effects": ["Fatigue", "Abdominal pain", "Diarrhea", "Rash", "Vomiting", "Headache", "Constipation", "Flatulence", "Heartburn", "Nausea", "Stomach pain", "Dyspepsia", "Indigestion", "Dizziness"]}
+{"name": "Amlodipine", "side_effects": ["Fatigue", "Abdominal pain", "Nausea", "Sleepiness", "Headache"]}
+{"name": "Bacillus Calmette-Guerin strain", "side_effects": ["Difficulty in urination", "Urinary tract infection", "Fever"]}
+{"name": "Azelastine", "side_effects": ["Taste change", "Nasal irritation", "Watery eyes", "Bitter taste", "Burning sensation in eye"]}
+{"name": "Metformin", "side_effects": ["Flatulence", "Loss of appetite", "Nausea", "Taste change", "Abdominal pain", "Diarrhea", "Vomiting"]}
+{"name": "Vitamin E", "side_effects": ["Dizziness", "Flatulence", "Fatigue", "Nausea", "Abdominal pain", "Weakness", "Blurred vision", "Diarrhea", "Rash", "Tiredness", "Headache"]}
+{"name": "Lithium carbonate", "side_effects": ["Memory impairment", "Tremors", "Weight gain", "Hair loss", "Diarrhea", "Polyuria", "Slurred speech", "Increased white blood cell count", "Uncoordinated body movements", "Increased thirst", "Acne", "Skin rash", "Goiter (enlarged thyroid gland)", "Nausea"]}
+{"name": "Sibutramine", "side_effects": []}
+{"name": "Lurasidone", "side_effects": ["Increased saliva production", "Insomnia (difficulty in sleeping)", "Weight gain", "Upper abdominal pain", "Sleepiness", "Vomiting", "Akathisia (inability to stay still)", "Anxiety", "Parkinsonism", "Dryness in mouth", "Stomach discomfort", "Nausea", "Restlessness", "Indigestion", "Agitation"]}
+{"name": "Sodium Valproate", "side_effects": ["Depression", "Weight gain", "Double vision", "Nervousness", "Hair loss", "Blurred vision", "Diarrhea", "Sleepiness", "Vomiting", "Breathlessness", "Fever", "Bronchitis inflammation of the airways", "Increased appetite", "Abnormal thoughts", "Nausea", "Weakness", "Ecchymosis discoloration of the skin resulting from bleeding underneath", "Peripheral edema", "Indigestion", "Dizziness", "Nystagmus (involuntary eye movement)", "Weight loss", "Low blood platelets", "Tremors", "Insomnia (difficulty in sleeping)", "Abdominal pain", "Headache", "Constipation", "Impaired coordination", "Hay fever", "Memory loss", "Infection", "Flu-like symptoms"]}
+{"name": "Carbamazepine", "side_effects": ["Balance disorder (loss of balance)", "Fatigue", "Blurred vision", "Sleepiness", "Slurred speech", "Abnormality of voluntary movements", "Vomiting", "Constipation", "Itching", "Dryness in mouth", "Nausea", "Drowsiness", "Dizziness"]}
+{"name": "Norfloxacin", "side_effects": ["Low blood platelets", "Increased alanine aminotransferase", "Increased aspartate aminotransferase", "Application site irritation", "Diarrhea", "Burning sensation", "Abdominal cramp", "Decreased white blood cell count", "Headache", "Local site reactions", "Protein in urine", "Increased alkaline phosphatase level in blood", "Nausea", "Stomach pain", "Allergic reaction", "Dizziness"]}
+{"name": "Ebastine", "side_effects": ["Sleepiness", "Dryness in mouth", "Headache"]}
+{"name": "Hydrocortisone", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Ankle swelling", "Increased risk of infection", "Weight gain", "Mood changes", "Weakness", "Application site reactions (burning, irritation, itching and redness)", "Headache", "Dizziness"]}
+{"name": "Sodium Bicarbonate", "side_effects": ["Decreased potassium level in blood", "Alkalosis", "Flatulence", "Stomach cramp", "Brain swelling", "Increased sodium level in blood"]}
+{"name": "Didanosine", "side_effects": []}
+{"name": "Escitalopram Oxalate", "side_effects": ["Anorgasmia (decreased orgasm) in women", "Decreased libido", "Insomnia (difficulty in sleeping)", "Fatigue", "Nausea", "Delayed ejaculation", "Sleepiness", "Increased sweating"]}
+{"name": "Amphotericin B", "side_effects": ["Decreased potassium level in blood", "Abnormal renal function tests", "Decreased appetite", "Chills", "Diarrhea", "Nephrocalcinosis", "Vomiting", "Headache", "Increased creatinine level in blood", "Abnormal liver function tests", "Anemia (low number of red blood cells)", "Skin rash", "Nausea", "Renal tubular acidosis", "Hypotension low blood pressure", "Decreased magnesium level in blood"]}
+{"name": "Rizatriptan", "side_effects": ["Throat pain", "Dryness in mouth", "Nausea", "Neck pain", "Weakness", "Jaw pain", "Sleepiness", "Heaviness", "Dizziness"]}
+{"name": "Etoricoxib", "side_effects": ["Esophagitis", "Oral ulcer", "Stomach pain", "Diarrhea", "Increased liver enzymes", "Bronchospasm"]}
+{"name": "Pyrimethamine", "side_effects": []}
+{"name": "Paracetamol", "side_effects": ["Constipation", "Anxiety", "Itching", "Insomnia (difficulty in sleeping)", "Nausea", "Stomach pain", "Anal irritation", "Vomiting", "Indigestion", "Headache"]}
+{"name": "Benzathine penicillin G", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Allergic reaction", "Rash"]}
+{"name": "Conjugated Estrogens", "side_effects": ["Depression", "Hair loss", "Irritation", "Vaginal yeast infection", "Bloating", "Breast pain", "Abdominal cramp", "Vomiting", "Abnormal vaginal bleeding", "Headache", "Stomach cramp", "Vaginal spotting", "Nausea", "Vaginal burning sensation", "Edema (swelling)", "Leg cramps", "Vaginal itching", "Irregular vaginal bleeding", "Pelvic pain"]}
+{"name": "Enoxaparin", "side_effects": ["Low blood platelets", "Bleeding", "Breathing problems", "Diarrhea", "Headache", "Fever", "Anemia (low number of red blood cells)", "Increased liver enzymes", "Edema (swelling)", "Increased blood platelets", "Injection site pain"]}
+{"name": "Pentazocine", "side_effects": ["Constipation", "Nausea", "Sleepiness", "Vomiting", "Headache", "Dizziness"]}
+{"name": "Disodium Hydrogen Citrate", "side_effects": ["Frequent urge to urinate", "Nausea", "Stomach pain", "Diarrhea", "Tiredness", "Vomiting"]}
+{"name": "Exemestane", "side_effects": ["Insomnia (difficulty in sleeping)", "Musculoskeletal (bone, muscle or joint) pain", "Fatigue", "Nausea", "Increased sweating", "Headache"]}
+{"name": "Chlordiazepoxide", "side_effects": ["Sedation", "Lightheadedness", "Uncoordinated body movements", "Unsteadiness", "Balance disorder (loss of balance)", "Fatigue", "Drowsiness", "Dizziness"]}
+{"name": "Rubella vaccine", "side_effects": ["Sore throat", "Fever", "Injection site reactions (pain, swelling, redness)", "Rash"]}
+{"name": "Biotin", "side_effects": ["Diarrhea", "Upset stomach"]}
+{"name": "Tizanidine", "side_effects": ["Dryness in mouth", "Upset stomach", "Sleepiness", "Tiredness", "Dizziness"]}
+{"name": "Methotrexate", "side_effects": ["Low blood platelets", "Mouth sore", "Abdominal pain", "Ulcerative stomatitis", "Hair loss", "Decreased white blood cell count", "Tiredness", "Vomiting", "Decreased blood cells (red cells, white cells, and platelets)", "Loss of appetite", "Nausea", "Increased liver enzymes", "Indigestion"]}
+{"name": "Montelukast", "side_effects": ["Sore throat", "Abdominal pain", "Cough", "Runny nose", "Diarrhea", "Vomiting", "Headache", "Fever", "Nausea", "Sinus inflammation", "Ear inflammation", "Upper respiratory tract infection"]}
+{"name": "Lymecycline", "side_effects": ["Photosensitivity", "Nausea", "Abdominal pain", "Diarrhea", "Vomiting", "Headache"]}
+{"name": "Ezetimibe", "side_effects": ["Joint pain", "Respiratory tract infection", "Sinus inflammation", "Upper respiratory tract infection", "Diarrhea", "Pain in extremity"]}
+{"name": "Cyanocobalamin", "side_effects": ["Injection site reactions (pain, swelling, redness)"]}
+{"name": "Candesartan", "side_effects": []}
+{"name": "Calcium", "side_effects": ["No common side effects seen"]}
+{"name": "Ticagrelor", "side_effects": ["Bleeding", "Breathlessness"]}
+{"name": "Baclofen", "side_effects": ["Sedation", "Fatigue", "Chills", "Urinary retention", "Agitation", "Headache", "Constipation", "Increased white blood cell count", "Weakness", "Nausea", "Convulsion", "Hypotension low blood pressure", "Hypotonia decreased muscle tone", "Drowsiness", "Dizziness"]}
+{"name": "Calcium Gluconate", "side_effects": ["Injection site inflammation"]}
+{"name": "Fluticasone Furoate", "side_effects": ["Nasal ulceration", "Nasal inflammation", "Nosebleeds", "Breathlessness", "Headache"]}
+{"name": "Cefpodoxime Proxetil", "side_effects": ["Nausea", "Abdominal pain", "Diarrhea", "Rash"]}
+{"name": "Fluphenazine", "side_effects": ["Constipation", "Injection site reactions (pain, swelling, redness)", "Muscle stiffness", "Tremors", "Weight gain", "Orthostatic hypotension (sudden lowering of blood pressure on standing)", "Dryness in mouth", "Urinary retention", "Increased prolactin level in blood", "Sleepiness", "Abnormality of voluntary movements"]}
+{"name": "Lansoprazole", "side_effects": ["Flatulence", "Nausea", "Diarrhea", "Headache"]}
+{"name": "Albendazole", "side_effects": ["Sore throat", "Loss of appetite", "Nausea", "Increased liver enzymes", "Vomiting", "Dizziness"]}
+{"name": "Fosfestrol", "side_effects": ["Abdominal pain", "Breast enlargement", "Fever", "Jaundice"]}
+{"name": "Ginkgo Biloba", "side_effects": ["Bleeding disorder", "Palpitations", "Dizziness", "Gastrointestinal discomfort", "Hypersensitivity", "Headache"]}
+{"name": "Thiopental Sodium", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Skin rash", "Nausea", "Diarrhea", "Vertigo", "Vomiting", "Drowsiness"]}
+{"name": "Haemophilus Type B Conjugate Vaccine", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Vomiting", "Loss of appetite", "Diarrhea"]}
+{"name": "Darifenacin", "side_effects": ["Constipation", "Dryness in mouth", "Dry eye", "Headache", "Nasal dryness"]}
+{"name": "Penicillin V", "side_effects": ["Nausea", "Diarrhea", "Allergic reaction", "Rash", "Vomiting"]}
+{"name": "Prednisolone", "side_effects": ["Eye irritation", "Watery eyes", "Weight gain", "Behavioural changes", "Frequent urge to urinate", "Bruise", "Cough", "Blurred vision", "Irritation", "Reduction in bone density", "Burning sensation", "Easy bruise", "Behavioral changes", "Mood changes", "Upset stomach", "Growth retardation", "Upper respiratory tract infection", "Abnormal hair growth", "Irritability", "Obesity"]}
+{"name": "Buclizine", "side_effects": ["Sleepiness"]}
+{"name": "Indinavir", "side_effects": []}
+{"name": "Udenafil", "side_effects": ["Muscle pain", "Flushing (sense of warmth in the face, ears, neck and trunk)", "Blurred vision", "Rash", "Headache", "Upset stomach"]}
+{"name": "Clonazepam", "side_effects": ["Impaired coordination", "Depression", "Fatigue", "Drowsiness", "Dizziness"]}
+{"name": "Oxymetazoline", "side_effects": ["Nasal discomfort", "Irritation", "Watery eyes", "Dry throat", "Nasal congestion (stuffy nose)", "Dryness in mouth"]}
+{"name": "Hyoscine butylbromide", "side_effects": ["Dryness in mouth", "Dilatation of pupil", "Blurred vision", "Diarrhea", "Increased heart rate"]}
+{"name": "Morphine", "side_effects": ["Sedation", "Constipation", "Lightheadedness", "Sweating", "Nausea", "Sleepiness", "Vomiting", "Dizziness"]}
+{"name": "Sucralfate", "side_effects": ["Application site reactions (burning, irritation, itching and redness)", "Constipation"]}
+{"name": "Glipizide", "side_effects": ["Tremors", "Weight gain", "Nervousness", "Hypoglycemia (low blood glucose level)", "Abdominal discomfort", "Diarrhea", "Vomiting", "Headache", "Flatulence", "Nausea", "Abnormal sensation", "Dizziness"]}
+{"name": "Eszopiclone", "side_effects": []}
+{"name": "Itraconazole", "side_effects": ["Abdominal pain", "Cough", "Blurred vision", "Burning sensation", "Irritation", "Vomiting", "Application site reactions (burning, irritation, itching and redness)", "Headache", "Constipation", "Menstrual disorder", "Common cold", "Nausea", "Indigestion", "Dizziness"]}
+{"name": "Hepatitis B Vaccine (rDNA)", "side_effects": []}
+{"name": "HUMAN PREMIX", "side_effects": ["Itching", "Lipodystrophy (skin thickening or pits at the injection site)", "Hypoglycemia (low blood glucose level)", "Injection site allergic reaction", "Rash"]}
+{"name": "Haloperidol", "side_effects": ["Extrapyramidal symptoms", "Insomnia (difficulty in sleeping)", "Muscle spasm", "Agitation", "Headache"]}
+{"name": "Ciclosporin", "side_effects": ["Gingival hypertrophy gum enlargement", "Increased levels of blood fat", "Decreased appetite", "Fatigue", "Increased hair growth", "Increased glucose level in blood", "Blurred vision", "High blood pressure", "Diarrhea", "Decreased white blood cell count", "Vomiting", "Fever", "Gingival hyperplasia", "Renal dysfunction", "Nausea", "Convulsion", "Gastrointestinal disturbance", "Tremors", "Burning sensation in eye", "Paresthesia (tingling or pricking sensation)", "Stomach ulcer", "Excessive hair growth on face", "Muscle pain", "Headache", "Muscle cramp", "Abnormal liver function", "Flushing (sense of warmth in the face, ears, neck and trunk)", "Increased uric acid level in blood", "Hypertrichosis excessive hair growth", "Acne", "Loss of appetite", "Electrolyte imbalance"]}
+{"name": "Tibolone", "side_effects": ["Weight gain", "Breast tenderness", "Breast pain", "Cervical thickening", "Vaginal bleeding", "Genital itching", "Lower abdominal pain", "Vaginal discharge", "Abnormal hair growth", "Endometrial hyperplasia", "Pelvic pain"]}
+{"name": "Atazanavir", "side_effects": []}
+{"name": "Vi Capsular Polysaccharide Of Salmonella Typhi", "side_effects": ["Induration (hardening of a normally soft tissue or organ)", "Fever", "Erythema (skin redness)", "Nausea", "Muscle pain", "Diarrhea", "Tenderness", "Pain", "Headache"]}
+{"name": "Empagliflozin", "side_effects": ["Joint pain", "Increased thirst", "Frequent urge to urinate", "Nausea", "Hypoglycaemia low blood sugar level in combination with insulin or sulphonylurea", "Hypoglycemia (low blood glucose level)", "Urinary tract infection", "Vaginal yeast infection"]}
+{"name": "Live Attenuated Varicella-Zoster Virus", "side_effects": []}
+{"name": "Nimesulide", "side_effects": ["Nausea", "Diarrhea", "Vomiting"]}
+{"name": "Colchicine", "side_effects": ["Nausea", "Abdominal pain", "Diarrhea", "Vomiting"]}
+{"name": "Sulphacetamide", "side_effects": ["Stinging in the eyes", "Eye irritation"]}
+{"name": "Famotidine", "side_effects": ["Constipation", "Diarrhea", "Headache", "Dizziness"]}
+{"name": "Garenoxacin", "side_effects": ["Nausea", "Stomach pain", "Diarrhea"]}
+{"name": "Lorazepam", "side_effects": ["Weakness", "Sedation", "Balance disorder (loss of balance)", "Dizziness"]}
+{"name": "Allopurinol", "side_effects": ["Nausea", "Diarrhea", "Skin rash"]}
+{"name": "Prulifloxacin", "side_effects": ["Epigastric pain", "Abnormal liver function tests", "Nausea", "Stomach pain", "Diarrhea", "Allergic reaction"]}
+{"name": "Armodafinil", "side_effects": ["Nausea", "Dizziness", "Insomnia (difficulty in sleeping)", "Headache"]}
+{"name": "Dapsone", "side_effects": ["Oily skin", "Skin peeling", "Dry skin", "Erythema (skin redness)"]}
+{"name": "Liraglutide", "side_effects": ["Constipation", "Flatulence", "Decreased appetite", "Nausea", "Abdominal pain", "Dyspepsia", "Diarrhea", "Vomiting", "Nasopharyngitis (inflammation of the throat and nasal passages)"]}
+{"name": "Diclofenac", "side_effects": ["Eye discomfort", "Injection site reactions (pain, swelling, redness)", "Burning eyes", "Limb pain", "Application site irritation", "Vomiting", "Application site reactions (burning, irritation, itching and redness)", "Headache", "Itching", "Flatulence", "Heartburn", "Loss of appetite", "Nausea", "Anal irritation", "Anal itching", "Edema (swelling)", "Stomach pain/epigastric pain", "Pain in extremities", "Indigestion", "Black colored stool", "Dizziness"]}
+{"name": "Zinc Gluconate", "side_effects": ["Stomach inflammation", "Abdominal pain", "Nausea", "Restlessness", "Diarrhea", "Indigestion", "Vomiting", "Dehydration", "Headache", "Dizziness"]}
+{"name": "Carbimazole", "side_effects": ["Gastrointestinal disturbance", "Joint pain", "Itching", "Skin rash", "Nausea", "Paresthesia (tingling or pricking sensation)", "Headache"]}
+{"name": "Mercaptopurine", "side_effects": ["Increased bilirubin in the blood", "Low blood platelets", "Intestinal ulcer", "Increased transaminase level in blood", "Anemia (low number of red blood cells)", "Loss of appetite", "Nausea", "Diarrhea", "Rash", "Vomiting", "Decreased white blood cell count (neutrophils)"]}
+{"name": "Olanzapine", "side_effects": ["Muscle stiffness", "Tremors", "Weight gain", "Orthostatic hypotension (sudden lowering of blood pressure on standing)", "Sleepiness", "Constipation", "Dryness in mouth", "Restlessness", "Increased prolactin level in blood", "Dizziness"]}
+{"name": "Cinacalcet", "side_effects": ["Dizziness", "Loss of appetite", "Chest pain", "Nausea", "Muscle pain", "Diarrhea", "High blood pressure", "Rash", "Vomiting", "Headache"]}
+{"name": "Univestin", "side_effects": ["Nausea", "Abdominal pain", "Indigestion"]}
+{"name": "Etizolam", "side_effects": ["Sedation", "Depression", "Muscle weakness", "Tremors", "Confusion", "Muscle coordination impaired", "Visual impairment", "Slurred speech", "Fainting", "Altered libido", "Drowsiness", "Headache"]}
+{"name": "Human insulin", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Hunger pangs", "Weight gain", "Nervousness", "Hypoglycemia (low blood glucose level)", "Headache", "Anxiety", "Cold sweat", "Fast heart rate", "Injection site allergic reaction", "Shakiness"]}
+{"name": "Calcium Chloride", "side_effects": ["Tingling sensation", "Taste change", "Hot flushes"]}
+{"name": "Acenocoumarol", "side_effects": ["Hemorrhage"]}
+{"name": "Oxiconazole", "side_effects": ["Skin irritation", "Skin peeling", "Burning sensation", "Dry skin", "Blisters on skin"]}
+{"name": "Fluvastatin", "side_effects": []}
+{"name": "Ramosetron", "side_effects": ["Constipation", "Dizziness", "Injection site pain", "Headache"]}
+{"name": "Cyproheptadine", "side_effects": ["Increased appetite", "Headache", "Dizziness"]}
+{"name": "Letrozole", "side_effects": ["Joint pain", "Hot flashes", "Flushing (sense of warmth in the face, ears, neck and trunk)", "Hypercholesterolemia (high cholesterol)", "Fatigue", "Edema (swelling)", "Bone pain", "Increased sweating", "Dizziness"]}
+{"name": "Zoledronic acid", "side_effects": ["Back pain", "Fatigue", "Diarrhea", "Vomiting", "Breathlessness", "Headache", "Constipation", "Fever", "Musculoskeletal (bone, muscle or joint) pain", "Anemia (low number of red blood cells)", "Heartburn", "Nausea", "Bone pain"]}
+{"name": "Ethambutol", "side_effects": ["Visual impairment", "Color blindness"]}
+{"name": "Alfuzosin", "side_effects": ["Impotence", "Dizziness", "Nausea", "Abdominal pain", "Upper respiratory tract infection", "Tiredness", "Headache"]}
+{"name": "Ramipril", "side_effects": ["Dizziness", "Decreased blood pressure", "Fatigue", "Nausea", "Dry cough", "Vomiting", "Drowsiness", "Headache"]}
+{"name": "Leflunomide", "side_effects": ["Respiratory tract infection", "Weight loss", "Hair loss", "Diarrhea", "Rash", "Headache", "Bronchitis inflammation of the airways", "Loss of appetite", "Nausea", "Dyspepsia", "Increased liver enzymes", "Dizziness"]}
+{"name": "Mometasone", "side_effects": ["Sore throat", "Respiratory tract infection", "Sneezing", "Stinging sensation", "Nasal irritation", "Vomiting", "Nosebleeds", "Wheezing", "Headache", "Viral infection", "Itching", "Hair follicle inflammation", "Upper respiratory tract infection"]}
+{"name": "Amitriptyline", "side_effects": ["Speech disorder", "Micturition disorders", "Decreased sodium level in blood", "Weight gain", "Sweating", "Fatigue", "Sleepiness", "Aggressive behavior", "Loss of accommodation", "Decreased libido", "Abnormal ecg", "Nausea", "Atrioventricular block", "Accomodation disorder", "Dizziness", "Erectile dysfunction", "Tremors", "Confusion", "Orthostatic hypotension (sudden lowering of blood pressure on standing)", "Taste change", "Paresthesia (tingling or pricking sensation)", "Abnormality of voluntary movements", "Headache", "Constipation", "Palpitations", "Nasal congestion (stuffy nose)", "Dryness in mouth", "Increased heart rate"]}
+{"name": "Doxycycline", "side_effects": ["Anaphylactic reaction", "Photosensitivity", "Nausea", "Fast heart rate", "Hypotension low blood pressure", "Diarrhea", "Rash", "Vomiting", "Headache"]}
+{"name": "Somatostatin", "side_effects": ["Constipation", "Gallstones", "Flatulence", "Abdominal pain", "Increased glucose level in blood", "Diarrhea", "Injection site reaction", "Headache"]}
+{"name": "Solifenacin", "side_effects": ["Constipation", "Dryness in mouth", "Upset stomach", "Nausea", "Blurred vision", "Urinary tract infection"]}
+{"name": "Gliclazide", "side_effects": ["Flatulence", "Weight gain", "Upset stomach", "Nausea", "Hypoglycemia (low blood glucose level)", "Diarrhea", "Indigestion", "Headache", "Dizziness"]}
+{"name": "Doxazosin", "side_effects": ["Weakness", "Nausea", "Drowsiness", "Palpitations", "Low energy", "Headache", "Dizziness"]}
+{"name": "Oxcarbazepine", "side_effects": ["Nystagmus (involuntary eye movement)", "Tremors", "Drowsiness", "Double vision", "Fatigue", "Abnormal gait", "Vertigo", "Sleepiness", "Increased sodium level in blood", "Abnormal vision", "Vomiting", "Abnormality of voluntary movements", "Headache", "Impaired coordination", "Nausea", "Visual disturbance", "Altered walking", "Dizziness"]}
+{"name": "Fentanyl", "side_effects": ["Constipation", "Nausea", "Vomiting", "Headache", "Dizziness"]}
+{"name": "Insulin Glargine", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Peripheral edema", "Lipodystrophy (skin thickening or pits at the injection site)", "Itching", "Weight gain", "Hypoglycemia (low blood glucose level)", "Injection site allergic reaction", "Allergic reaction", "Rash"]}
+{"name": "Ursodeoxycholic Acid", "side_effects": ["Itching", "Abdominal pain", "Nausea", "Hair loss", "Diarrhea", "Rash"]}
+{"name": "Fluoxetine", "side_effects": ["Sore throat", "Depression", "Sweating", "Nervousness", "Sleepiness", "Abnormal dreams", "Nausea", "Weakness", "Indigestion", "Erectile dysfunction", "Influenza like syndrome", "Tremors", "Insomnia (difficulty in sleeping)", "Sinus infection", "Yawning", "Loss of appetite", "Dryness in mouth", "Delayed ejaculation", "Low sexual desire"]}
+{"name": "Levosulpiride", "side_effects": ["Sedation", "Insomnia (difficulty in sleeping)", "Weight gain", "Fatigue", "Breast enlargement in male", "Sleepiness", "Increased libido", "Headache", "Akathisia (inability to stay still)", "Constipation", "Menstrual disorder", "Extrapyramidal symptoms", "Maculopapular rash", "Increased liver enzymes", "Increased prolactin level in blood", "Dizziness"]}
+{"name": "Fluticasone Propionate", "side_effects": ["Throat irritation", "Bronchitis inflammation of the airways", "Voice change", "Upper respiratory tract infection", "Nasal irritation", "Nosebleeds", "Application site reactions (burning, irritation, itching and redness)", "Sinus infection", "Headache"]}
+{"name": "Estradiol", "side_effects": ["Depression", "Leukorrhea", "Breast enlargement", "Hair loss", "Leg cramps", "Bloating", "Breast pain", "Abdominal cramp", "Vomiting", "Headache", "Uterine bleeding", "Joint pain", "Itching", "Flatulence", "Vaginal spotting", "Nausea", "Urinary tract infection", "Irritable bladder"]}
+{"name": "Halobetasol", "side_effects": ["Application site reactions (burning, irritation, itching and redness)"]}
+{"name": "Measles Vaccine (Live)", "side_effects": []}
+{"name": "Atomoxetine", "side_effects": ["Decreased appetite", "Nausea", "Abdominal pain", "High blood pressure", "Sleepiness", "Vomiting", "Increased heart rate", "Headache"]}
+{"name": "Meropenem", "side_effects": ["Diarrhea", "Rash", "Vomiting", "Sepsis", "Headache", "Constipation", "Itching", "Anemia (low number of red blood cells)", "Nausea", "Injection site inflammation", "Apnea absence of breathing", "Shock"]}
+{"name": "Levodopa", "side_effects": []}
+{"name": "Sulfasalazine", "side_effects": ["Weight loss", "Loss of appetite", "Gastrointestinal discomfort", "Oligospermia (low sperm count)", "Nausea", "Diarrhea", "Vomiting", "Headache"]}
+{"name": "Ganciclovir", "side_effects": ["Eye irritation", "Fever", "Dizziness", "Skin rash", "Fatigue", "Nausea", "Stomach pain", "Diarrhea", "Vomiting", "Headache"]}
+{"name": "Gemfibrozil", "side_effects": ["Abdominal pain", "Dyspepsia", "Rash", "Diarrhea"]}
+{"name": "Nitrazepam", "side_effects": ["Sedation", "Impaired coordination", "Unsteadiness", "Fatigue", "Numbed emotions", "Drowsiness", "Dizziness"]}
+{"name": "Ranitidine", "side_effects": ["Gastrointestinal disturbance", "Constipation", "Diarrhea", "Sleepiness", "Tiredness", "Headache"]}
+{"name": "Disulfiram", "side_effects": ["Fatigue", "Metallic taste", "Drowsiness", "Headache"]}
+{"name": "Quetiapine", "side_effects": ["Weight gain", "Decreased haemoglobin level in blood", "Decreased cholesterol level in blood", "Orthostatic hypotension (sudden lowering of blood pressure on standing)", "Dyslipidemia", "Fatigue", "High blood pressure", "Sleepiness", "Increased triglyceride level in blood", "Headache", "Constipation", "Extrapyramidal symptoms", "Dryness in mouth", "Withdrawal symptoms", "Drowsiness", "Dizziness"]}
+{"name": "Insulin Aspart", "side_effects": ["Lipodystrophy (skin thickening or pits at the injection site)", "Weight gain", "Hypoglycemia (low blood glucose level)", "Upper respiratory tract infection", "Injection site allergic reaction", "Nasopharyngitis (inflammation of the throat and nasal passages)", "Headache"]}
+{"name": "Esomeprazole", "side_effects": ["Constipation", "Flatulence", "Dryness in mouth", "Nausea", "Abdominal pain", "Diarrhea", "Headache", "Dizziness"]}
+{"name": "Penicillamine", "side_effects": ["Protein in urine", "Low blood platelets"]}
+{"name": "Metoprolol Succinate", "side_effects": ["Depression", "Slow heart rate", "Fatigue", "Nausea", "Diarrhea", "Rash", "Breathlessness", "Headache", "Dizziness"]}
+{"name": "Duloxetine", "side_effects": ["Dryness in mouth", "Nausea", "Sleepiness", "Headache", "Dizziness"]}
+{"name": "Pheniramine", "side_effects": ["Sedation", "Sleepiness"]}
+{"name": "Abacavir", "side_effects": []}
+{"name": "Dutasteride", "side_effects": ["Impotence", "Decreased libido", "Breast enlargement in male", "Ejaculation disorder", "Allergic reaction", "Breast tenderness in male", "Decreased sperm count", "Low sexual desire"]}
+{"name": "Alfacalcidol", "side_effects": ["Itching", "Increased phosphate level in blood", "Abdominal pain", "Rash", "Increased calcium level in blood", "Increased calcium in urine"]}
+{"name": "Perindopril erbumine", "side_effects": ["Increased potassium level in blood", "Dizziness", "Fatigue", "Weakness", "Cough", "Decreased blood pressure"]}
+{"name": "Galantamine", "side_effects": ["Depression", "Hallucination", "Slow heart rate", "Decreased appetite", "Abdominal pain", "High blood pressure", "Diarrhea", "Sleepiness", "Fainting", "Vomiting", "Headache", "Lethargy", "Nausea", "Indigestion", "Dizziness"]}
+{"name": "Zafirlukast", "side_effects": []}
+{"name": "Balofloxacin", "side_effects": ["Abnormal liver function tests", "Nausea", "Stomach pain", "Diarrhea", "Allergic reaction"]}
+{"name": "Alendronic Acid", "side_effects": ["Musculoskeletal (bone, muscle or joint) pain", "Heartburn", "Diarrhea", "Indigestion", "Headache"]}
+{"name": "Pyrazinamide", "side_effects": ["Joint pain", "Hepatitis (viral infection of liver)", "Jaundice", "Increased liver enzymes"]}
+{"name": "Trifluoperazine", "side_effects": ["Muscle stiffness", "Tremors", "Weight gain", "Orthostatic hypotension (sudden lowering of blood pressure on standing)", "Sleepiness", "Urinary retention", "Abnormality of voluntary movements", "Constipation", "Dryness in mouth", "Increased prolactin level in blood"]}
+{"name": "Clotrimazole", "side_effects": ["Swelling", "Blister", "Application site irritation", "Skin peeling", "Blisters", "Vaginal burning sensation", "Irritation"]}
+{"name": "Caspofungin", "side_effects": ["Decreased potassium level in blood", "Fever", "Increased alkaline phospatase level in blood", "Chills", "Diarrhea", "Increased liver enzymes", "Rash"]}
+{"name": "Alprazolam", "side_effects": ["Lightheadedness", "Drowsiness"]}
+{"name": "Bupropion", "side_effects": ["Sweating", "Vomiting", "Impaired concentration", "Fever", "Nausea", "Allergic reaction", "Dizziness", "Tremors", "Insomnia (difficulty in sleeping)", "Abdominal pain", "Taste change", "Headache", "Anxiety", "Constipation", "Dryness in mouth", "Agitation"]}
+{"name": "Tenofovir Alafenamide", "side_effects": ["Back pain", "Increased creatine phosphokinase cpk level in blood", "Increased transaminase level in blood", "Fatigue", "Abdominal pain", "Cough", "Diarrhea", "Rash", "Vomiting", "Headache", "Joint pain", "Increased ldl cholesterol level in blood", "Itching", "Nausea", "Weakness", "Glycosuria", "Indigestion", "Dizziness"]}
+{"name": "Phenylephrine", "side_effects": ["Nausea", "Vomiting", "Headache"]}
+{"name": "Rifabutin", "side_effects": []}
+{"name": "Vitamin B", "side_effects": ["Gastrointestinal disturbance", "Flushing (sense of warmth in the face, ears, neck and trunk)", "Decreased white blood cell count"]}
+{"name": "Quinine", "side_effects": ["Deafness", "Abdominal pain", "Blurred vision", "Diarrhea", "Vertigo", "Increased sweating", "Vomiting", "Headache", "Flushing (sense of warmth in the face, ears, neck and trunk)", "Nausea", "Ringing in ear", "Dizziness"]}
+{"name": "Promethazine", "side_effects": ["Dizziness", "Blurred vision", "Dryness in mouth", "Headache"]}
+{"name": "Praziquantel", "side_effects": ["Fever", "Abnormal liver function tests", "Dizziness", "Nausea", "Abdominal pain", "Hair loss", "Vertigo", "Vomiting", "Headache"]}
+{"name": "Desonide", "side_effects": ["Rash", "Application site reactions (burning, irritation, itching and redness)"]}
+{"name": "Meloxicam", "side_effects": ["Nausea", "Stomach pain", "Diarrhea", "Vomiting", "Indigestion"]}
+{"name": "Oxytetracycline", "side_effects": []}
+{"name": "Phenindione", "side_effects": []}
+{"name": "Furazolidone", "side_effects": []}
+{"name": "Zinc Sulfate", "side_effects": ["Abdominal pain", "Nausea", "Gastric irritation", "Diarrhea", "Vomiting", "Indigestion"]}
+{"name": "Eberconazole", "side_effects": ["Application site reactions (burning, irritation, itching and redness)"]}
+{"name": "Loratadine", "side_effects": ["Sleepiness", "Increased appetite", "Headache"]}
+{"name": "Yellow fever virus", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Fever", "Loss of appetite", "Weakness", "Unusual crying", "Drowsiness"]}
+{"name": "Vitamin K", "side_effects": ["Increased bilirubin in the blood", "Cyanosis (bluish discoloration of the skin)", "Flushing (sense of warmth in the face, ears, neck and trunk)", "Itching", "Decreased blood pressure", "Skin erosion", "Taste change", "Skin eruptions", "Breathlessness"]}
+{"name": "Luliconazole", "side_effects": ["Skin peeling", "Dry skin", "Blisters on skin", "Application site reactions (burning, irritation, itching and redness)"]}
+{"name": "Ribavirin", "side_effects": ["Fever", "Fatigue", "Weakness", "Muscle pain", "Headache"]}
+{"name": "Indomethacin", "side_effects": ["Diarrhea", "Indigestion", "Vomiting", "Heartburn", "Loss of appetite", "Nausea", "Visual disturbance", "Stomach pain/epigastric pain", "Visual disorder", "Drowsiness", "Dizziness"]}
+{"name": "Hepatitis B Vaccine", "side_effects": ["Feeling of discomfort", "Body ache", "Decreased appetite", "Fatigue", "Blocked nose", "Meningitis", "Diarrhea", "Irritation", "Rash", "Vomiting", "Pain", "Decreased blood pressure", "Anaphylactic reaction", "Inflammation of the nose", "Fever", "Skin rash", "Weakness", "Nausea", "Convulsion", "Dizziness", "Respiratory disorder", "Abdominal pain", "Muscle pain", "Neuropathy", "Headache", "Angioedema (swelling of deeper layers of skin)", "Flushing (sense of warmth in the face, ears, neck and trunk)", "Itching", "Loss of appetite", "Paralysis", "Erythema (skin redness)"]}
+{"name": "Recombinant Human Erythropoietin Alfa", "side_effects": ["Injection site irritation", "Chills", "Cough", "High blood pressure", "Increased glucose level in blood", "Rash", "Vomiting", "Fever", "Inflammation of the mouth", "Nausea", "Muscle spasm", "Vascular occlusion", "Bone pain", "Dizziness", "Weight loss", "Insomnia (difficulty in sleeping)", "Stomatitis", "Decreased white blood cell count lymphocytes", "Blood clot in the blood vessels", "Headache", "Joint pain"]}
+{"name": "Glucagon", "side_effects": ["Nausea"]}
+{"name": "Nicotinic acid", "side_effects": ["Tingling", "Flushing (sense of warmth in the face, ears, neck and trunk)", "Itching", "Paresthesia (tingling or pricking sensation)", "Erythema (skin redness)"]}
+{"name": "Amikacin", "side_effects": ["Injection site reactions (pain, swelling, redness)", "Burning sensation", "Increased blood urea", "Application site irritation"]}
+{"name": "Amoxapine", "side_effects": []}
+{"name": "Nortriptyline", "side_effects": ["Constipation", "Difficulty in urination", "Weight gain", "Orthostatic hypotension (sudden lowering of blood pressure on standing)", "Dryness in mouth", "Blurred vision", "Increased heart rate"]}
+{"name": "Netilmicin", "side_effects": ["Ototoxicity", "Kidney damage"]}
+{"name": "Lovastatin", "side_effects": []}
+{"name": "Tricholine Citrate", "side_effects": ["Constipation"]}
+{"name": "Pantoprazole", "side_effects": ["Thrombophlebitis", "Diarrhea", "Vomiting", "Headache", "Joint pain", "Flatulence", "Nausea", "Stomach pain", "Upper respiratory tract infection", "Dizziness"]}
+{"name": "Metronidazole", "side_effects": ["Dryness in mouth", "Nausea", "Metallic taste", "Headache"]}
+{"name": "Zinc Oxide", "side_effects": ["Application site reactions (burning, irritation, itching and redness)"]}
+{"name": "Loteprednol etabonate", "side_effects": ["Eye irritation", "Burning sensation", "Watery eyes"]}
+{"name": "Benidipine", "side_effects": ["Dizziness", "Palpitations", "Fatigue", "Abdominal pain", "Nausea", "Edema (swelling)", "Sleepiness", "Headache"]}
+{"name": "Insulin Lispro", "side_effects": ["Lipodystrophy (skin thickening or pits at the injection site)", "Itching", "Hypoglycemia (low blood glucose level)", "Injection site allergic reaction", "Allergic reaction", "Rash"]}
+{"name": "Aripiprazole", "side_effects": ["Increased saliva production", "Fatigue", "Blurred vision", "Sleepiness", "Vomiting", "Akathisia (inability to stay still)", "Parkinsonism", "Nausea", "Indigestion", "Dizziness", "Tremors", "Insomnia (difficulty in sleeping)", "Headache", "Constipation", "Anxiety", "Restlessness"]}
+{"name": "Insulin Degludec", "side_effects": ["Hypoglycemia (low blood glucose level)", "Injection site reactions (pain, swelling, redness)", "Injection site allergic reaction", "Lipodystrophy (skin thickening or pits at the injection site)"]}
+{"name": "Otilonium Bromide", "side_effects": ["Nausea", "Stomach pain", "Vomiting", "Headache", "Dizziness"]}
+{"name": "Octreotide acetate", "side_effects": ["Constipation", "Flatulence", "Abdominal pain", "Nausea", "Increased glucose level in blood", "Diarrhea", "Injection site reaction", "Headache"]}
+{"name": "Canagliflozin", "side_effects": ["Constipation", "Increased thirst", "Frequent urge to urinate", "Nausea", "Urinary tract infection", "Polyuria", "Rash", "Fungal infection of vagina", "Genital fungal infection"]}
+{"name": "Rasagiline", "side_effects": ["Joint pain", "Depression", "Insomnia (difficulty in sleeping)", "Flu-like symptoms", "Cough", "Peripheral edema", "Indigestion"]}
+{"name": "Tamoxifen", "side_effects": ["Vaginal bleeding", "Hot flashes", "Vaginal discharge", "Nausea", "Fluid retention", "Mood swings"]}
+{"name": "Thioridazine", "side_effects": ["Muscle stiffness", "Tremors", "Weight gain", "Orthostatic hypotension (sudden lowering of blood pressure on standing)", "Sleepiness", "Urinary retention", "Abnormality of voluntary movements", "Constipation", "Dryness in mouth", "Increased prolactin level in blood"]}
+{"name": "Piroxicam", "side_effects": ["Dizziness", "Nausea", "Stomach pain", "Diarrhea", "Vomiting", "Indigestion", "Headache"]}
+{"name": "Tacrolimus", "side_effects": ["Eye irritation", "Tremors", "Hair follicle inflammation", "Insomnia (difficulty in sleeping)", "Infection", "Increased glucose level in blood", "High blood pressure", "Burning sensation", "Kidney damage", "Application site reactions (burning, irritation, itching and redness)", "Headache"]}
+{"name": "Mirtazapine", "side_effects": ["Increased appetite", "Weight gain", "Dryness in mouth", "Sleepiness", "Headache"]}
+{"name": "Adenosine", "side_effects": []}
+{"name": "Fosinopril", "side_effects": []}
+{"name": "Insulin Isophane", "side_effects": ["Lipodystrophy (skin thickening or pits at the injection site)", "Weight gain", "Hypoglycemia (low blood glucose level)", "Injection site allergic reaction", "Edema (swelling)"]}
+{"name": "Acyclovir", "side_effects": ["Fatigue", "Diarrhea", "Injection site reaction", "Vomiting", "Application site reactions (burning, irritation, itching and redness)", "Headache", "Fever", "Skin rash", "Nausea", "Stomach pain", "Photophobia", "Increased liver enzymes", "Dizziness"]}

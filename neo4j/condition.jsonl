@@ -1,0 +1,869 @@
+{"name": "Eye Pain", "ID": "M0542422"}
+{"name": "Drug Hypersensitivity", "ID": "M0006829"}
+{"name": "Colitis, Ulcerative", "ID": "M0004771"}
+{"name": "Proctitis", "ID": "M0017632"}
+{"name": "Sigmoid Diseases", "ID": "M0019836"}
+{"name": "Rabies", "ID": "M0018366"}
+{"name": "Migraine Disorders", "ID": "M0013864"}
+{"name": "Hypertension", "ID": "M0010859"}
+{"name": "Intestinal Diseases", "ID": "M0011569"}
+{"name": "Coronary Disease", "ID": "M0005191"}
+{"name": "Ischemic Attack, Transient", "ID": "M0003887"}
+{"name": "Angina Pectoris, Variant", "ID": "M0001181"}
+{"name": "Peripheral Vascular Diseases", "ID": "M0025176"}
+{"name": "Arrhythmias, Cardiac", "ID": "M0001715"}
+{"name": "Migraine with Aura", "ID": "M0328363"}
+{"name": "Wolff-Parkinson-White Syndrome", "ID": "M0022990"}
+{"name": "Myocardial Infarction", "ID": "M0014340"}
+{"name": "Stroke", "ID": "M0328070"}
+{"name": "Liver Diseases", "ID": "M0012644"}
+{"name": "Diabetes Mellitus, Type 2", "ID": "M0006155"}
+{"name": "Hypersensitivity", "ID": "M0010851"}
+{"name": "Diabetic Ketoacidosis", "ID": "M0025687"}
+{"name": "Thromboembolism", "ID": "M0021430"}
+{"name": "Thrombophlebitis", "ID": "M0021432"}
+{"name": "Atrial Fibrillation", "ID": "M0001926"}
+{"name": "Postoperative Complications", "ID": "M0017367"}
+{"name": "Pulmonary Embolism", "ID": "M0018126"}
+{"name": "Coronary Thrombosis", "ID": "M0005194"}
+{"name": "Venous Thrombosis", "ID": "M0029908"}
+{"name": "Hypertension, Malignant", "ID": "M0010861"}
+{"name": "Cerebral Hemorrhage", "ID": "M0003884"}
+{"name": "Hemophilia A", "ID": "M0010149"}
+{"name": "Hemorrhage", "ID": "M0010152"}
+{"name": "Gastrointestinal Hemorrhage", "ID": "M0010153"}
+{"name": "Purpura, Thrombocytopenic", "ID": "M0018187"}
+{"name": "Eclampsia", "ID": "M0006985"}
+{"name": "Emaciation", "ID": "M0007242"}
+{"name": "Endocarditis, Bacterial", "ID": "M0007393"}
+{"name": "Diverticulitis", "ID": "M0006630"}
+{"name": "Hemophilia B", "ID": "M0004363"}
+{"name": "Carcinoma", "ID": "M0003424"}
+{"name": "Aneurysm", "ID": "M0001174"}
+{"name": "Vitamin K Deficiency", "ID": "M0022808"}
+{"name": "Ascorbic Acid Deficiency", "ID": "M0001803"}
+{"name": "Postoperative Hemorrhage", "ID": "M0028512"}
+{"name": "Pre-Eclampsia", "ID": "M0017443"}
+{"name": "Pregnancy", "ID": "M0017471"}
+{"name": "Prostatic Diseases", "ID": "M0017828"}
+{"name": "Protein-Energy Malnutrition", "ID": "M0017876"}
+{"name": "Pericardial Effusion", "ID": "M0016298"}
+{"name": "Pericarditis", "ID": "M0016303"}
+{"name": "Abortion, Threatened", "ID": "M0000052"}
+{"name": "Alcoholism", "ID": "M0000661"}
+{"name": "Leukemia", "ID": "M0012382"}
+{"name": "Hypercholesterolemia", "ID": "M0010818"}
+{"name": "Hyperlipoproteinemias", "ID": "M0010833"}
+{"name": "Hypertriglyceridemia", "ID": "M0023401"}
+{"name": "Coronary Artery Disease", "ID": "M0502868"}
+{"name": "Gallbladder Diseases", "ID": "M0008958"}
+{"name": "Liver Dysfunction", "ID": "M0012645"}
+{"name": "Liver Failure", "ID": "M0025970"}
+{"name": "Kidney Failure", "ID": "M0025974"}
+{"name": "Liver Cirrhosis, Biliary", "ID": "M0012640"}
+{"name": "Hepatic Encephalopathy", "ID": "M0010200"}
+{"name": "Escherichia coli Infections", "ID": "M0007733"}
+{"name": "Skin Diseases, Bacterial", "ID": "M0026097"}
+{"name": "Bacterial Infections", "ID": "M0002126"}
+{"name": "Inflammatory Bowel Diseases", "ID": "M0023374"}
+{"name": "Intestinal Obstruction", "ID": "M0011575"}
+{"name": "Herpes Genitalis", "ID": "M0010276"}
+{"name": "Herpes Labialis", "ID": "M0010278"}
+{"name": "Herpes Simplex", "ID": "M0010279"}
+{"name": "Herpes Zoster", "ID": "M0010280"}
+{"name": "Chickenpox", "ID": "M0004041"}
+{"name": "AIDS-Related Opportunistic Infections", "ID": "M0025965"}
+{"name": "Graft vs Host Disease", "ID": "M0009578"}
+{"name": "Psoriasis", "ID": "M0017975"}
+{"name": "Lactation", "ID": "M0012156"}
+{"name": "Attention Deficit Disorder with Hyperactivity", "ID": "M0001943"}
+{"name": "Depressive Disorder", "ID": "M0006033"}
+{"name": "Narcolepsy", "ID": "M0014471"}
+{"name": "Glaucoma", "ID": "M0009260"}
+{"name": "Tics", "ID": "M0328648"}
+{"name": "Anxiety Disorders", "ID": "M0001533"}
+{"name": "Tourette Syndrome", "ID": "M0009230"}
+{"name": "Psychomotor Agitation", "ID": "M0018023"}
+{"name": "Tinea Capitis", "ID": "M0021564"}
+{"name": "Tinea Pedis", "ID": "M0021566"}
+{"name": "Porphyrias", "ID": "M0017334"}
+{"name": "Conjunctivitis, Allergic", "ID": "M0005017"}
+{"name": "Rhinitis, Allergic, Perennial", "ID": "M0019020"}
+{"name": "Epilepsies, Partial", "ID": "M0007566"}
+{"name": "Alcohol Withdrawal Delirium", "ID": "M0000652"}
+{"name": "Glaucoma, Angle-Closure", "ID": "M0024213"}
+{"name": "Psychotic Disorders", "ID": "M0018060"}
+{"name": "Nutritional and Metabolic Diseases", "ID": "M0015124"}
+{"name": "Dysentery, Bacillary", "ID": "M0006916"}
+{"name": "Diarrhea", "ID": "M0006212"}
+{"name": "Colonic Diseases, Functional", "ID": "M0004815"}
+{"name": "Enterocolitis, Pseudomembranous", "ID": "M0007479"}
+{"name": "Constipation", "ID": "M0005043"}
+{"name": "Salmonella Infections", "ID": "M0019393"}
+{"name": "Hirsutism", "ID": "M0010381"}
+{"name": "Prostatic Hyperplasia", "ID": "M0017830"}
+{"name": "Prostatic Neoplasms", "ID": "M0017833"}
+{"name": "Alopecia", "ID": "M0000757"}
+{"name": "Child", "ID": "M0004045"}
+{"name": "Intermittent Claudication", "ID": "M0011515"}
+{"name": "Graft Occlusion, Vascular", "ID": "M0009575"}
+{"name": "Heart Failure", "ID": "M0009953"}
+{"name": "Bradycardia", "ID": "M0002863"}
+{"name": "Bronchial Spasm", "ID": "M0002967"}
+{"name": "Bronchitis", "ID": "M0002972"}
+{"name": "Apnea", "ID": "M0001589"}
+{"name": "Asthma", "ID": "M0001885"}
+{"name": "Pulmonary Emphysema", "ID": "M0018129"}
+{"name": "Hyperthyroidism", "ID": "M0010871"}
+{"name": "Seizures", "ID": "M0019597"}
+{"name": "Peptic Ulcer", "ID": "M0016211"}
+{"name": "Hypercalcemia", "ID": "M0010814"}
+{"name": "Inflammation", "ID": "M0011307"}
+{"name": "Hematologic Diseases", "ID": "M0010044"}
+{"name": "Respiratory Distress Syndrome", "ID": "M0018891"}
+{"name": "Erythema Multiforme", "ID": "M0007681"}
+{"name": "Dermatitis Herpetiformis", "ID": "M0006048"}
+{"name": "Dermatitis, Atopic", "ID": "M0006050"}
+{"name": "Berylliosis", "ID": "M0002404"}
+{"name": "Brain Neoplasms", "ID": "M0002885"}
+{"name": "Uveitis", "ID": "M0022445"}
+{"name": "Thyroiditis", "ID": "M0021487"}
+{"name": "Tuberculosis, Pulmonary", "ID": "M0022131"}
+{"name": "Spondylitis, Ankylosing", "ID": "M0020377"}
+{"name": "Rheumatic Diseases", "ID": "M0019014"}
+{"name": "Mycosis Fungoides", "ID": "M0014314"}
+{"name": "Sarcoidosis", "ID": "M0019426"}
+{"name": "Pemphigus", "ID": "M0016112"}
+{"name": "Nephrotic Syndrome", "ID": "M0014639"}
+{"name": "Serum Sickness", "ID": "M0019699"}
+{"name": "Synovitis", "ID": "M0020964"}
+{"name": "Neurologic Manifestations", "ID": "M0014716"}
+{"name": "Lupus Erythematosus, Systemic", "ID": "M0012757"}
+{"name": "Multiple Sclerosis", "ID": "M0014197"}
+{"name": "Adrenal Insufficiency", "ID": "M0000484"}
+{"name": "Arthritis, Gouty", "ID": "M0023372"}
+{"name": "Arthritis, Rheumatoid", "ID": "M0001750"}
+{"name": "Infant", "ID": "M0011265"}
+{"name": "Mycoses", "ID": "M0014313"}
+{"name": "Skin Diseases, Infectious", "ID": "M0019935"}
+{"name": "HIV", "ID": "M0010470"}
+{"name": "HIV Infections", "ID": "M0023997"}
+{"name": "Hepatitis B", "ID": "M0010210"}
+{"name": "Hepatitis B, Chronic", "ID": "M0029244"}
+{"name": "Acquired Immunodeficiency Syndrome", "ID": "M0000245"}
+{"name": "Diabetic Nephropathies", "ID": "M0006160"}
+{"name": "Ventricular Dysfunction, Left", "ID": "M0027729"}
+{"name": "Hypertrophy, Left Ventricular", "ID": "M0026394"}
+{"name": "Hyperaldosteronism", "ID": "M0010808"}
+{"name": "Hypotension", "ID": "M0010927"}
+{"name": "Angioedema", "ID": "M0001197"}
+{"name": "Renal Artery Obstruction", "ID": "M0018770"}
+{"name": "Anemia, Iron-Deficiency", "ID": "M0028144"}
+{"name": "Pregnancy Complications, Hematologic", "ID": "M0017476"}
+{"name": "Hemochromatosis", "ID": "M0010098"}
+{"name": "Hemosiderosis", "ID": "M0010179"}
+{"name": "Anemia, Hemolytic", "ID": "M0001123"}
+{"name": "Anemia, Megaloblastic", "ID": "M0001134"}
+{"name": "Depression", "ID": "M0006028"}
+{"name": "Schizophrenia", "ID": "M0019489"}
+{"name": "Parkinson Disease", "ID": "M0015963"}
+{"name": "Alzheimer Disease", "ID": "M0000842"}
+{"name": "Histiocytosis", "ID": "M0023956"}
+{"name": "Sarcoma, Ewing", "ID": "M0019433"}
+{"name": "Urinary Bladder Neoplasms", "ID": "M0002635"}
+{"name": "Testicular Neoplasms", "ID": "M0021192"}
+{"name": "Uterine Neoplasms", "ID": "M0022431"}
+{"name": "Trophoblastic Neoplasms", "ID": "M0022033"}
+{"name": "Rhabdomyosarcoma", "ID": "M0019001"}
+{"name": "Sarcoma, Kaposi", "ID": "M0019437"}
+{"name": "Neuroblastoma", "ID": "M0014699"}
+{"name": "Lung Neoplasms", "ID": "M0012749"}
+{"name": "Leukemia, Myeloid, Acute", "ID": "M0023827"}
+{"name": "Gout", "ID": "M0009557"}
+{"name": "Fever", "ID": "M0008421"}
+{"name": "Pain", "ID": "M0015742"}
+{"name": "Rheumatic Fever", "ID": "M0019009"}
+{"name": "Osteoarthritis", "ID": "M0015509"}
+{"name": "Cerebral Infarction", "ID": "M0003885"}
+{"name": "Hematemesis", "ID": "M0010038"}
+{"name": "Hemorrhagic Disorders", "ID": "M0010157"}
+{"name": "Child, Preschool", "ID": "M0004082"}
+{"name": "Blood Coagulation Disorders", "ID": "M0002683"}
+{"name": "Blood Platelet Disorders", "ID": "M0002703"}
+{"name": "Pregnancy Trimester, Third", "ID": "M0017490"}
+{"name": "Nasal Polyps", "ID": "M0014487"}
+{"name": "Melena", "ID": "M0013320"}
+{"name": "Epilepsy", "ID": "M0007564"}
+{"name": "Epilepsy, Absence", "ID": "M0007577"}
+{"name": "Mood Disorders", "ID": "M0029642"}
+{"name": "Bipolar Disorder", "ID": "M0002571"}
+{"name": "Epilepsy, Complex Partial", "ID": "M0025874"}
+{"name": "Mitochondrial Diseases", "ID": "M0335637"}
+{"name": "Diffuse Cerebral Sclerosis of Schilder", "ID": "M0003893"}
+{"name": "Urea Cycle Disorders, Inborn", "ID": "M0529166"}
+{"name": "Folic Acid Deficiency", "ID": "M0008663"}
+{"name": "Neural Tube Defects", "ID": "M0014686"}
+{"name": "Anemia, Aplastic", "ID": "M0001120"}
+{"name": "Anemia, Pernicious", "ID": "M0001137"}
+{"name": "Epilepsy, Tonic-Clonic", "ID": "M0007573"}
+{"name": "Epilepsy, Temporal Lobe", "ID": "M0007578"}
+{"name": "Status Epilepticus", "ID": "M0020463"}
+{"name": "Epilepsy, Post-Traumatic", "ID": "M0007580"}
+{"name": "Delavirdine", "ID": "M0029713"}
+{"name": "Angina, Unstable", "ID": "M0001182"}
+{"name": "Myocardial Ischemia", "ID": "M0026104"}
+{"name": "Thrombocytopenia", "ID": "M0021428"}
+{"name": "Infant, Premature, Diseases", "ID": "M0011290"}
+{"name": "Hypoprothrombinemias", "ID": "M0010925"}
+{"name": "Abnormalities, Drug-Induced", "ID": "M0000014"}
+{"name": "Arthritis, Juvenile", "ID": "M0001748"}
+{"name": "Headache", "ID": "M0009824"}
+{"name": "Dysmenorrhea", "ID": "M0006924"}
+{"name": "Common Cold", "ID": "M0004864"}
+{"name": "Bursitis", "ID": "M0003070"}
+{"name": "Toothache", "ID": "M0021704"}
+{"name": "Back Pain", "ID": "M0002115"}
+{"name": "Hernia, Hiatal", "ID": "M0010264"}
+{"name": "Heartburn", "ID": "M0009980"}
+{"name": "Gastroesophageal Reflux", "ID": "M0009024"}
+{"name": "Duodenal Ulcer", "ID": "M0006885"}
+{"name": "Dyspepsia", "ID": "M0006927"}
+{"name": "Stomach Ulcer", "ID": "M0020546"}
+{"name": "Kidney Failure, Chronic", "ID": "M0012016"}
+{"name": "Bronchitis, Chronic", "ID": "M0384773"}
+{"name": "Asthma, Exercise-Induced", "ID": "M0001886"}
+{"name": "Tachycardia", "ID": "M0020996"}
+{"name": "Haemophilus Infections", "ID": "M0009740"}
+{"name": "Eye Infections, Bacterial", "ID": "M0024228"}
+{"name": "Bacteroides Infections", "ID": "M0002147"}
+{"name": "Otitis Externa", "ID": "M0015562"}
+{"name": "Rickettsia Infections", "ID": "M0019098"}
+{"name": "Streptococcal Infections", "ID": "M0020568"}
+{"name": "Meningitis, Meningococcal", "ID": "M0013369"}
+{"name": "Kidney Diseases", "ID": "M0012014"}
+{"name": "Ventricular Fibrillation", "ID": "M0022595"}
+{"name": "Tachycardia, Supraventricular", "ID": "M0021006"}
+{"name": "Atrioventricular Block", "ID": "M0009943"}
+{"name": "Pregnancy, Abdominal", "ID": "M0017497"}
+{"name": "Syncope", "ID": "M0020955"}
+{"name": "Shock, Cardiogenic", "ID": "M0019783"}
+{"name": "Sick Sinus Syndrome", "ID": "M0019828"}
+{"name": "Hyperparathyroidism", "ID": "M0010845"}
+{"name": "Hypocalcemia", "ID": "M0010891"}
+{"name": "Vitamin E Deficiency", "ID": "M0022804"}
+{"name": "Rickets", "ID": "M0019095"}
+{"name": "Vitamin D Deficiency", "ID": "M0022798"}
+{"name": "Drug Toxicity", "ID": "M0006855"}
+{"name": "Malabsorption Syndromes", "ID": "M0012908"}
+{"name": "Infant, Premature", "ID": "M0011288"}
+{"name": "Hyperglycemia", "ID": "M0010824"}
+{"name": "Diabetes Mellitus, Type 1", "ID": "M0006152"}
+{"name": "Hypoglycemia", "ID": "M0010901"}
+{"name": "Gonorrhea", "ID": "M0009553"}
+{"name": "Gastroenteritis", "ID": "M0009018"}
+{"name": "Erythrasma", "ID": "M0007683"}
+{"name": "Chancroid", "ID": "M0003985"}
+{"name": "Chlamydia Infections", "ID": "M0004107"}
+{"name": "Campylobacter Infections", "ID": "M0003245"}
+{"name": "Whooping Cough", "ID": "M0022977"}
+{"name": "Urethritis", "ID": "M0022336"}
+{"name": "Staphylococcal Infections", "ID": "M0020423"}
+{"name": "Mycoplasma Infections", "ID": "M0014307"}
+{"name": "Protozoan Infections", "ID": "M0017926"}
+{"name": "Syphilis", "ID": "M0020966"}
+{"name": "Acne Vulgaris", "ID": "M0000231"}
+{"name": "Legionnaires' Disease", "ID": "M0012293"}
+{"name": "Brucellosis", "ID": "M0002989"}
+{"name": "Meningitis, Bacterial", "ID": "M0025747"}
+{"name": "Tuberculosis", "ID": "M0022106"}
+{"name": "Leprosy", "ID": "M0012361"}
+{"name": "Hypogonadism", "ID": "M0010905"}
+{"name": "Breast Neoplasms", "ID": "M0002910"}
+{"name": "Hot Flashes", "ID": "M0029082"}
+{"name": "Primary Ovarian Insufficiency", "ID": "M0025370"}
+{"name": "Menopause, Premature", "ID": "M0013381"}
+{"name": "Menorrhagia", "ID": "M0013382"}
+{"name": "Osteoporosis, Postmenopausal", "ID": "M0024020"}
+{"name": "Endometrial Neoplasms", "ID": "M0025700"}
+{"name": "Tobacco Use", "ID": "M0581820"}
+{"name": "Cerebral Arterial Diseases", "ID": "M0003877"}
+{"name": "Neoplasms, Hormone-Dependent", "ID": "M0014599"}
+{"name": "Glaucoma, Open-Angle", "ID": "M0009261"}
+{"name": "Angina Pectoris", "ID": "M0001180"}
+{"name": "Heart Diseases", "ID": "M0009951"}
+{"name": "Bronchial Hyperreactivity", "ID": "M0025237"}
+{"name": "Pulmonary Edema", "ID": "M0018125"}
+{"name": "Pulmonary Disease, Chronic Obstructive", "ID": "M0384655"}
+{"name": "Hypokalemia", "ID": "M0010909"}
+{"name": "Lithiasis", "ID": "M0029982"}
+{"name": "Acidosis, Renal Tubular", "ID": "M0000215"}
+{"name": "Kidney Calculi", "ID": "M0012008"}
+{"name": "Hyperkalemia", "ID": "M0010828"}
+{"name": "Renal Insufficiency", "ID": "M0480487"}
+{"name": "Dehydration", "ID": "M0005757"}
+{"name": "Paralysis, Hyperkalemic Periodic", "ID": "M0328224"}
+{"name": "Urinary Tract Infections", "ID": "M0022373"}
+{"name": "Addison Disease", "ID": "M0000346"}
+{"name": "Inappropriate ADH Syndrome", "ID": "M0011185"}
+{"name": "Cholera", "ID": "M0004244"}
+{"name": "Clostridium Infections", "ID": "M0004637"}
+{"name": "Trachoma", "ID": "M0021752"}
+{"name": "Typhoid Fever", "ID": "M0022185"}
+{"name": "Pneumonia, Mycoplasma", "ID": "M0017072"}
+{"name": "Rocky Mountain Spotted Fever", "ID": "M0019235"}
+{"name": "Plague", "ID": "M0016945"}
+{"name": "Psittacosis", "ID": "M0015434"}
+{"name": "Lymphogranuloma Venereum", "ID": "M0012812"}
+{"name": "Actinomycosis", "ID": "M0000290"}
+{"name": "Infant, Newborn", "ID": "M0011285"}
+{"name": "Sinoatrial Block", "ID": "M0019897"}
+{"name": "Adams-Stokes Syndrome", "ID": "M0000337"}
+{"name": "Respiratory Depression", "ID": "M0373535"}
+{"name": "Opioid-Related Disorders", "ID": "M0014475"}
+{"name": "Vomiting", "ID": "M0022844"}
+{"name": "Substance Withdrawal Syndrome", "ID": "M0020676"}
+{"name": "Nausea", "ID": "M0014528"}
+{"name": "Pruritus", "ID": "M0017935"}
+{"name": "Pregnancy Trimester, First", "ID": "M0017488"}
+{"name": "Altitude Sickness", "ID": "M0000819"}
+{"name": "Hyponatremia", "ID": "M0010911"}
+{"name": "Excipients", "ID": "M0007997"}
+{"name": "Lung Diseases, Obstructive", "ID": "M0012746"}
+{"name": "Liver Cirrhosis", "ID": "M0012636"}
+{"name": "Acidosis", "ID": "M0000213"}
+{"name": "Adrenal Gland Diseases", "ID": "M0000482"}
+{"name": "Histoplasmosis", "ID": "M0010434"}
+{"name": "Candidiasis, Vulvovaginal", "ID": "M0003262"}
+{"name": "Coccidioidomycosis", "ID": "M0004676"}
+{"name": "Blastomycosis", "ID": "M0002647"}
+{"name": "Candidiasis, Chronic Mucocutaneous", "ID": "M0003259"}
+{"name": "Candidiasis, Oral", "ID": "M0003261"}
+{"name": "Fungemia", "ID": "M0025155"}
+{"name": "Meningitis, Cryptococcal", "ID": "M0025746"}
+{"name": "Pneumonia", "ID": "M0017064"}
+{"name": "Disseminated Intravascular Coagulation", "ID": "M0006587"}
+{"name": "Intracranial Hemorrhages", "ID": "M0328611"}
+{"name": "Wounds and Injuries", "ID": "M0023019"}
+{"name": "Skin Ulcer", "ID": "M0019944"}
+{"name": "Candidiasis, Cutaneous", "ID": "M0003260"}
+{"name": "Tinea Versicolor", "ID": "M0021568"}
+{"name": "Paracoccidioidomycosis", "ID": "M0015861"}
+{"name": "Dermatitis, Seborrheic", "ID": "M0019584"}
+{"name": "Acanthamoeba Keratitis", "ID": "M0024241"}
+{"name": "Leishmaniasis", "ID": "M0012333"}
+{"name": "Central Nervous System Fungal Infections", "ID": "M0328044"}
+{"name": "Pregnancy, Ectopic", "ID": "M0017499"}
+{"name": "Meningeal Neoplasms", "ID": "M0013360"}
+{"name": "Adnexal Diseases", "ID": "M0000457"}
+{"name": "Adrenal Cortex Diseases", "ID": "M0000478"}
+{"name": "Postoperative Nausea and Vomiting", "ID": "M0029915"}
+{"name": "Soft Tissue Infections", "ID": "M0027697"}
+{"name": "Pneumonia, Bacterial", "ID": "M0027639"}
+{"name": "Atrial Flutter", "ID": "M0001927"}
+{"name": "Congestive Heart Failure", "ID": "M0502050"}
+{"name": "Tachycardia, Ventricular", "ID": "M0026083"}
+{"name": "Lown-Ganong-Levine Syndrome", "ID": "M0012710"}
+{"name": "Muscular Dystrophy, Duchenne", "ID": "M0014253"}
+{"name": "Cough", "ID": "M0005255"}
+{"name": "Edema", "ID": "M0007051"}
+{"name": "Bartter Syndrome", "ID": "M0002194"}
+{"name": "Pellagra", "ID": "M0016099"}
+{"name": "Onychomycosis", "ID": "M0021567"}
+{"name": "Cluster Headache", "ID": "M0004652"}
+{"name": "Sepsis", "ID": "M0028155"}
+{"name": "Depressive Disorder, Major", "ID": "M0006031"}
+{"name": "Breast Feeding", "ID": "M0002907"}
+{"name": "Ventricular Premature Complexes", "ID": "M0028234"}
+{"name": "Atrial Premature Complexes", "ID": "M0028235"}
+{"name": "Heart Block", "ID": "M0009945"}
+{"name": "Long QT Syndrome", "ID": "M0012684"}
+{"name": "Cystic Fibrosis", "ID": "M0005551"}
+{"name": "Ascites", "ID": "M0001791"}
+{"name": "Polyuria", "ID": "M0017271"}
+{"name": "Anuria", "ID": "M0001524"}
+{"name": "Diabetic Neuropathies", "ID": "M0006162"}
+{"name": "Alcoholic Neuropathy", "ID": "M0328092"}
+{"name": "Vitamin B 12 Deficiency", "ID": "M0022796"}
+{"name": "Cytomegalovirus Infections", "ID": "M0005604"}
+{"name": "Cytomegalovirus Retinitis", "ID": "M0026791"}
+{"name": "Anemia", "ID": "M0001119"}
+{"name": "Neutropenia", "ID": "M0014782"}
+{"name": "Nasal Obstruction", "ID": "M0023869"}
+{"name": "Granuloma Inguinale", "ID": "M0009606"}
+{"name": "Borrelia Infections", "ID": "M0002836"}
+{"name": "Helicobacter Infections", "ID": "M0025165"}
+{"name": "Bartonella Infections", "ID": "M0002189"}
+{"name": "Hypertension, Pulmonary", "ID": "M0010865"}
+{"name": "Impotence, Vasculogenic", "ID": "M0028121"}
+{"name": "Helminthiasis", "ID": "M0010007"}
+{"name": "Ancylostomiasis", "ID": "M0001101"}
+{"name": "Ascariasis", "ID": "M0001785"}
+{"name": "Trichuriasis", "ID": "M0021941"}
+{"name": "Enterobiasis", "ID": "M0026142"}
+{"name": "Cholestasis, Extrahepatic", "ID": "M0002480"}
+{"name": "Gastrointestinal Diseases", "ID": "M0009033"}
+{"name": "Influenza, Human", "ID": "M0011309"}
+{"name": "Dyskinesia, Drug-Induced", "ID": "M0006920"}
+{"name": "Dystonia", "ID": "M0006935"}
+{"name": "Akathisia, Drug-Induced", "ID": "M0025992"}
+{"name": "Parkinson Disease, Secondary", "ID": "M0015968"}
+{"name": "Fibrocystic Breast Disease", "ID": "M0008440"}
+{"name": "Endometriosis", "ID": "M0007413"}
+{"name": "Genital Diseases, Female", "ID": "M0009154"}
+{"name": "Genital Diseases, Male", "ID": "M0009155"}
+{"name": "Granulomatosis with Polyangiitis", "ID": "M0022908"}
+{"name": "Hodgkin Disease", "ID": "M0010484"}
+{"name": "Precursor Cell Lymphoblastic Leukemia-Lymphoma", "ID": "M0502706"}
+{"name": "Ovarian Neoplasms", "ID": "M0015593"}
+{"name": "Purpura, Thrombocytopenic, Idiopathic", "ID": "M0025253"}
+{"name": "Leukemia, Myelogenous, Chronic, BCR-ABL Positive", "ID": "M0023821"}
+{"name": "Burkitt Lymphoma", "ID": "M0003058"}
+{"name": "Anemia, Hemolytic, Autoimmune", "ID": "M0001127"}
+{"name": "Red-Cell Aplasia, Pure", "ID": "M0018667"}
+{"name": "Retinoblastoma", "ID": "M0018961"}
+{"name": "Myasthenia Gravis", "ID": "M0014279"}
+{"name": "Lupus Nephritis", "ID": "M0012759"}
+{"name": "Waldenstrom Macroglobulinemia", "ID": "M0012865"}
+{"name": "Multiple Myeloma", "ID": "M0014195"}
+{"name": "Leukemia, Lymphocytic, Chronic, B-Cell", "ID": "M0023808"}
+{"name": "Bone Marrow Diseases", "ID": "M0002788"}
+{"name": "Urologic Diseases", "ID": "M0022400"}
+{"name": "Sprains and Strains", "ID": "M0020394"}
+{"name": "Urticaria", "ID": "M0022414"}
+{"name": "Digestive System Abnormalities", "ID": "M0006373"}
+{"name": "Subarachnoid Hemorrhage", "ID": "M0020646"}
+{"name": "Enterobacteriaceae Infections", "ID": "M0007472"}
+{"name": "Toxoplasmosis", "ID": "M0021732"}
+{"name": "Otitis Media", "ID": "M0015563"}
+{"name": "Nocardia Infections", "ID": "M0014935"}
+{"name": "Malaria", "ID": "M0012910"}
+{"name": "Obesity", "ID": "M0015159"}
+{"name": "Cholestasis", "ID": "M0004258"}
+{"name": "Hand Dermatoses", "ID": "M0009782"}
+{"name": "Facial Dermatoses", "ID": "M0008112"}
+{"name": "Foot Dermatoses", "ID": "M0008722"}
+{"name": "Scalp Dermatoses", "ID": "M0019465"}
+{"name": "Leg Dermatoses", "ID": "M0012283"}
+{"name": "Infections", "ID": "M0011294"}
+{"name": "Status Asthmaticus", "ID": "M0020462"}
+{"name": "Fissure in Ano", "ID": "M0008525"}
+{"name": "Esophageal Spasm, Diffuse", "ID": "M0023299"}
+{"name": "Intraoperative Complications", "ID": "M0011598"}
+{"name": "Craniocerebral Trauma", "ID": "M0009821"}
+{"name": "Shock", "ID": "M0019782"}
+{"name": "Epididymitis", "ID": "M0007560"}
+{"name": "Corneal Ulcer", "ID": "M0005185"}
+{"name": "Cystitis", "ID": "M0005558"}
+{"name": "Conjunctivitis, Bacterial", "ID": "M0005021"}
+{"name": "Otitis Media, Suppurative", "ID": "M0015566"}
+{"name": "Prostatitis", "ID": "M0017835"}
+{"name": "Proteus Infections", "ID": "M0017900"}
+{"name": "Klebsiella Infections", "ID": "M0012059"}
+{"name": "Malaria, Falciparum", "ID": "M0025570"}
+{"name": "Ventricular Dysfunction", "ID": "M0028090"}
+{"name": "Pacemaker, Artificial", "ID": "M0015732"}
+{"name": "Cyanosis", "ID": "M0005442"}
+{"name": "Poisoning", "ID": "M0017099"}
+{"name": "Schizophrenia Spectrum and Other Psychotic Disorders", "ID": "M0029660"}
+{"name": "Coma", "ID": "M0004841"}
+{"name": "Myeloproliferative Disorders", "ID": "M0014332"}
+{"name": "Intraabdominal Infections", "ID": "M0549889"}
+{"name": "Abdominal Abscess", "ID": "M0028122"}
+{"name": "Staphylococcal Skin Infections", "ID": "M0020427"}
+{"name": "Pelvic Infection", "ID": "M0000459"}
+{"name": "Septicemia", "ID": "M0019666"}
+{"name": "Pyelonephritis", "ID": "M0018195"}
+{"name": "Pain, Postoperative", "ID": "M0015751"}
+{"name": "Injections, Spinal", "ID": "M0011357"}
+{"name": "Coronary Artery Bypass", "ID": "M0001560"}
+{"name": "Delivery, Obstetric", "ID": "M0411274"}
+{"name": "Diphtheria", "ID": "M0006520"}
+{"name": "Empyema", "ID": "M0007327"}
+{"name": "Endocarditis", "ID": "M0007392"}
+{"name": "Erysipelothrix Infections", "ID": "M0007678"}
+{"name": "Botulism", "ID": "M0002845"}
+{"name": "Anthrax", "ID": "M0001315"}
+{"name": "Tetanus", "ID": "M0021200"}
+{"name": "Rat-Bite Fever", "ID": "M0018507"}
+{"name": "Pneumococcal Infections", "ID": "M0017055"}
+{"name": "Respiratory Tract Infections", "ID": "M0018919"}
+{"name": "Pasteurella Infections", "ID": "M0016001"}
+{"name": "Listeriosis", "ID": "M0012614"}
+{"name": "Meningococcal Infections", "ID": "M0013373"}
+{"name": "Dermatitis", "ID": "M0006046"}
+{"name": "Vitamin A Deficiency", "ID": "M0022791"}
+{"name": "Xerophthalmia", "ID": "M0023065"}
+{"name": "Night Blindness", "ID": "M0015129"}
+{"name": "Photosensitivity Disorders", "ID": "M0016756"}
+{"name": "Virus Diseases", "ID": "M0022758"}
+{"name": "Keratitis, Dendritic", "ID": "M0011963"}
+{"name": "Phobic Disorders", "ID": "M0016622"}
+{"name": "Neuralgia, Postherpetic", "ID": "M0480692"}
+{"name": "Rhinitis, Allergic", "ID": "M0567378"}
+{"name": "Rhinitis, Allergic, Seasonal", "ID": "M0009814"}
+{"name": "Skin Diseases", "ID": "M0019929"}
+{"name": "Acute Disease", "ID": "M0000322"}
+{"name": "Central Nervous System Infections", "ID": "M0003806"}
+{"name": "Bone Diseases, Infectious", "ID": "M0002779"}
+{"name": "Serratia Infections", "ID": "M0025671"}
+{"name": "Peritonitis, Tuberculous", "ID": "M0022129"}
+{"name": "Pseudomonas Infections", "ID": "M0017955"}
+{"name": "Gastroparesis", "ID": "M0027865"}
+{"name": "Pheochromocytoma", "ID": "M0016586"}
+{"name": "Intestinal Perforation", "ID": "M0011577"}
+{"name": "Panic Disorder", "ID": "M0025297"}
+{"name": "Stress Disorders, Post-Traumatic", "ID": "M0020602"}
+{"name": "Obsessive-Compulsive Disorder", "ID": "M0015170"}
+{"name": "Feeding and Eating Disorders", "ID": "M000601696"}
+{"name": "Vertigo", "ID": "M0022633"}
+{"name": "Motion Sickness", "ID": "M0014105"}
+{"name": "Fibromyalgia", "ID": "M0008454"}
+{"name": "Spinal Cord Injuries", "ID": "M0020312"}
+{"name": "Crohn Disease", "ID": "M0005335"}
+{"name": "Dementia", "ID": "M0005797"}
+{"name": "Autistic Disorder", "ID": "M0001983"}
+{"name": "Tularemia", "ID": "M0022145"}
+{"name": "Pneumonia, Pneumocystis", "ID": "M0017073"}
+{"name": "Esophagitis, Peptic", "ID": "M0007754"}
+{"name": "Hyperhidrosis", "ID": "M0010826"}
+{"name": "Colic", "ID": "M0004742"}
+{"name": "Urinary Bladder, Neurogenic", "ID": "M0002636"}
+{"name": "Tremor", "ID": "M0021869"}
+{"name": "Spasm", "ID": "M0020203"}
+{"name": "Muscle Rigidity", "ID": "M0014242"}
+{"name": "Rhinitis", "ID": "M0019019"}
+{"name": "Sialorrhea", "ID": "M0019820"}
+{"name": "Irritable Bowel Syndrome", "ID": "M0004816"}
+{"name": "Ileal Diseases", "ID": "M0011023"}
+{"name": "Urethral Obstruction", "ID": "M0022334"}
+{"name": "Shock, Hemorrhagic", "ID": "M0019784"}
+{"name": "Megacolon, Toxic", "ID": "M0013293"}
+{"name": "Child Behavior Disorders", "ID": "M0004052"}
+{"name": "Fatigue", "ID": "M0008254"}
+{"name": "Sleep Apnea, Obstructive", "ID": "M0328295"}
+{"name": "Esophageal Diseases", "ID": "M0007747"}
+{"name": "Burns", "ID": "M0003064"}
+{"name": "Tachycardia, Paroxysmal", "ID": "M0021001"}
+{"name": "Mouth Diseases", "ID": "M0014130"}
+{"name": "Pregnancy Trimester, Second", "ID": "M0017489"}
+{"name": "Esophagitis", "ID": "M0007753"}
+{"name": "Zollinger-Ellison Syndrome", "ID": "M0023152"}
+{"name": "Maxillary Sinusitis", "ID": "M0023883"}
+{"name": "Hyperphosphatemia", "ID": "M0506086"}
+{"name": "Hypophosphatemia", "ID": "M0026730"}
+{"name": "Sinusitis", "ID": "M0019901"}
+{"name": "Intellectual Disability", "ID": "M0013414"}
+{"name": "Heart Decompensation", "ID": "M0502049"}
+{"name": "Lennox Gastaut Syndrome", "ID": "M0590747"}
+{"name": "Enuresis", "ID": "M0007497"}
+{"name": "Affective Disorders, Psychotic", "ID": "M0000522"}
+{"name": "Angina, Stable", "ID": "M0552684"}
+{"name": "Acute Coronary Syndrome", "ID": "M0500631"}
+{"name": "Infertility, Female", "ID": "M0011304"}
+{"name": "Infertility, Male", "ID": "M0011306"}
+{"name": "Uterine Hemorrhage", "ID": "M0022428"}
+{"name": "Thyroid Diseases", "ID": "M0021478"}
+{"name": "Central Nervous System Neoplasms", "ID": "M0025244"}
+{"name": "Ovarian Cysts", "ID": "M0015589"}
+{"name": "Tonsillitis", "ID": "M0021666"}
+{"name": "Mycobacterium Infections, Nontuberculous", "ID": "M0014288"}
+{"name": "Porphyria, Acute Intermittent", "ID": "M0026010"}
+{"name": "Jaundice, Obstructive", "ID": "M0004260"}
+{"name": "Sleep Initiation and Maintenance Disorders", "ID": "M0011403"}
+{"name": "Meningitis, Pneumococcal", "ID": "M0013370"}
+{"name": "Hearing Disorders", "ID": "M0009926"}
+{"name": "Fusariosis", "ID": "M0554477"}
+{"name": "Candidiasis", "ID": "M0003258"}
+{"name": "Aspergillosis", "ID": "M0001850"}
+{"name": "Scleroderma, Systemic", "ID": "M0019543"}
+{"name": "Lupus Erythematosus, Discoid", "ID": "M0012756"}
+{"name": "Malaria, Avian", "ID": "M0012911"}
+{"name": "Amebiasis", "ID": "M0000878"}
+{"name": "Vision Disorders", "ID": "M0022771"}
+{"name": "Retinal Diseases", "ID": "M0018945"}
+{"name": "Mycobacterium Infections", "ID": "M0014287"}
+{"name": "Hypercapnia", "ID": "M0010816"}
+{"name": "Paralytic Ileus", "ID": "M0011581"}
+{"name": "Post-Exposure Prophylaxis", "ID": "M0533762"}
+{"name": "Goiter", "ID": "M0009516"}
+{"name": "Thyroid Crisis", "ID": "M0021477"}
+{"name": "Esophageal and Gastric Varices", "ID": "M0007742"}
+{"name": "Essential Tremor", "ID": "M0328393"}
+{"name": "Raynaud Disease", "ID": "M0018534"}
+{"name": "Glomerulonephritis", "ID": "M0009300"}
+{"name": "Muscle Spasticity", "ID": "M0014243"}
+{"name": "Acinetobacter Infections", "ID": "M0000230"}
+{"name": "Hyperbilirubinemia", "ID": "M0010811"}
+{"name": "Seizures, Febrile", "ID": "M0005138"}
+{"name": "Epilepsy, Benign Neonatal", "ID": "M0328386"}
+{"name": "Airway Obstruction", "ID": "M0000610"}
+{"name": "Hypereosinophilic Syndrome", "ID": "M0026741"}
+{"name": "Myelodysplastic-Myeloproliferative Diseases", "ID": "M0504879"}
+{"name": "Gastrointestinal Neoplasms", "ID": "M0009038"}
+{"name": "Blast Crisis", "ID": "M0002638"}
+{"name": "Dermatofibrosarcoma", "ID": "M0027452"}
+{"name": "Mastocytosis, Systemic", "ID": "M0405932"}
+{"name": "Leukemia, Lymphoid", "ID": "M0012388"}
+{"name": "Leukemia, Myeloid", "ID": "M0012396"}
+{"name": "Leukemia, Myeloid, Accelerated Phase", "ID": "M0023822"}
+{"name": "Pediatrics", "ID": "M0016084"}
+{"name": "Dysentery", "ID": "M0006913"}
+{"name": "Arthritis, Infectious", "ID": "M0001745"}
+{"name": "Osteomyelitis", "ID": "M0015544"}
+{"name": "Basilar-Type Migraine", "ID": "M0334698"}
+{"name": "Neisseriaceae Infections", "ID": "M0025673"}
+{"name": "Conjunctivitis", "ID": "M0005015"}
+{"name": "Keratitis", "ID": "M0011962"}
+{"name": "Eye Infections, Fungal", "ID": "M0024239"}
+{"name": "Corneal Diseases", "ID": "M0005177"}
+{"name": "Conjunctivitis, Viral", "ID": "M0005023"}
+{"name": "Premenstrual Syndrome", "ID": "M0017534"}
+{"name": "Heart Arrest", "ID": "M0009938"}
+{"name": "Thyrotoxicosis", "ID": "M0021495"}
+{"name": "Ureteral Obstruction", "ID": "M0022327"}
+{"name": "Iris Diseases", "ID": "M0011716"}
+{"name": "Tissue Adhesions", "ID": "M0000418"}
+{"name": "Lens Diseases", "ID": "M0012346"}
+{"name": "Women", "ID": "M0022994"}
+{"name": "Hiccup", "ID": "M0010343"}
+{"name": "Attention Deficit and Disruptive Behavior Disorders", "ID": "M0029636"}
+{"name": "Tobacco Use Disorder", "ID": "M0021604"}
+{"name": "Hyperemia", "ID": "M0010821"}
+{"name": "Cardiac Output, Low", "ID": "M0003453"}
+{"name": "Cardiomyopathy, Hypertrophic", "ID": "M0003464"}
+{"name": "Pericarditis, Constrictive", "ID": "M0016304"}
+{"name": "Amyloidosis", "ID": "M0001053"}
+{"name": "Brain Edema", "ID": "M0002876"}
+{"name": "Collagen Diseases", "ID": "M0004792"}
+{"name": "Shock, Septic", "ID": "M0019786"}
+{"name": "Iritis", "ID": "M0011717"}
+{"name": "Eye Infections, Viral", "ID": "M0024246"}
+{"name": "Tuberculosis, Ocular", "ID": "M0022124"}
+{"name": "Pressure Ulcer", "ID": "M0005739"}
+{"name": "Pruritus Ani", "ID": "M0017936"}
+{"name": "Chemical and Drug Induced Liver Injury", "ID": "M0527454"}
+{"name": "Colorectal Neoplasms", "ID": "M0023329"}
+{"name": "Etretinate", "ID": "M0007934"}
+{"name": "Urinary Bladder Diseases", "ID": "M0002630"}
+{"name": "Urinary Incontinence", "ID": "M0022370"}
+{"name": "Urinary Retention", "ID": "M0024540"}
+{"name": "Endometritis", "ID": "M0007414"}
+{"name": "Cellulitis", "ID": "M0003788"}
+{"name": "Bacteremia", "ID": "M0025156"}
+{"name": "Legionellosis", "ID": "M0012292"}
+{"name": "Spasms, Infantile", "ID": "M0020204"}
+{"name": "Phenylketonurias", "ID": "M0016567"}
+{"name": "Paget Disease, Extramammary", "ID": "M0015741"}
+{"name": "Esophageal Achalasia", "ID": "M0007740"}
+{"name": "Esophageal Stenosis", "ID": "M0007752"}
+{"name": "Intestinal Pseudo-Obstruction", "ID": "M0011580"}
+{"name": "Neurosyphilis", "ID": "M0014771"}
+{"name": "Malaria, Vivax", "ID": "M0025572"}
+{"name": "Coronary Vasospasm", "ID": "M0005195"}
+{"name": "Gram-Negative Bacterial Infections", "ID": "M0025725"}
+{"name": "Rhinitis, Vasomotor", "ID": "M0019023"}
+{"name": "Metabolic Acidosis", "ID": "M0544043"}
+{"name": "Bronchopulmonary Dysplasia", "ID": "M0002980"}
+{"name": "Conduct Disorder", "ID": "M0029628"}
+{"name": "Bulimia Nervosa", "ID": "M0003022"}
+{"name": "Anorexia Nervosa", "ID": "M0001279"}
+{"name": "Trigeminal Neuralgia", "ID": "M0021966"}
+{"name": "Restless Legs Syndrome", "ID": "M0018926"}
+{"name": "Tendinitis", "ID": "M0021155"}
+{"name": "Hemorrhoids", "ID": "M0010177"}
+{"name": "Dermatitis, Contact", "ID": "M0006052"}
+{"name": "Adrenal Hyperplasia, Congenital", "ID": "M0000487"}
+{"name": "Dermatomycoses", "ID": "M0006059"}
+{"name": "Skin Diseases, Viral", "ID": "M0026098"}
+{"name": "Tuberculosis, Cutaneous", "ID": "M0022111"}
+{"name": "Skin Diseases, Parasitic", "ID": "M0019937"}
+{"name": "Drug Overdose", "ID": "M0568790"}
+{"name": "Hypernatremia", "ID": "M0010837"}
+{"name": "Alkalosis", "ID": "M0000714"}
+{"name": "Zygomycosis", "ID": "M0029826"}
+{"name": "Sporotrichosis", "ID": "M0020384"}
+{"name": "Peritonitis", "ID": "M0016367"}
+{"name": "Leishmaniasis, Visceral", "ID": "M0012335"}
+{"name": "Hemiplegic migraine, familial type 1", "ID": "M0531351"}
+{"name": "Hemiplegic migraine, familial type 2", "ID": "M0531707"}
+{"name": "Ischemia", "ID": "M0011734"}
+{"name": "Glucosephosphate Dehydrogenase Deficiency", "ID": "M0009353"}
+{"name": "Antithrombin III Deficiency", "ID": "M0029883"}
+{"name": "Intracranial Hypertension", "ID": "M0029084"}
+{"name": "Vitamin B Deficiency", "ID": "M0022793"}
+{"name": "Metabolism, Inborn Errors", "ID": "M0013496"}
+{"name": "Muscle Cramp", "ID": "M0014234"}
+{"name": "Myositis", "ID": "M0014368"}
+{"name": "Low Back Pain", "ID": "M0026008"}
+{"name": "Hydatidiform Mole", "ID": "M0010673"}
+{"name": "Esophageal Neoplasms", "ID": "M0007750"}
+{"name": "Choriocarcinoma", "ID": "M0004339"}
+{"name": "Stomach Neoplasms", "ID": "M0020544"}
+{"name": "Osteosarcoma", "ID": "M0019439"}
+{"name": "Liver Diseases, Alcoholic", "ID": "M0012646"}
+{"name": "Hyperlipoproteinemia Type II", "ID": "M0010819"}
+{"name": "Hyperlipidemia, Familial Combined", "ID": "M0010832"}
+{"name": "Huntington Disease", "ID": "M0010660"}
+{"name": "Spinal Cord Ischemia", "ID": "M0328309"}
+{"name": "Cerebral Palsy", "ID": "M0003888"}
+{"name": "Spinal Cord Neoplasms", "ID": "M0020313"}
+{"name": "Spondylolysis", "ID": "M0020379"}
+{"name": "Pain, Intractable", "ID": "M0015750"}
+{"name": "Myelitis, Transverse", "ID": "M0014322"}
+{"name": "Spider Bites", "ID": "M0001654"}
+{"name": "Tetany", "ID": "M0021207"}
+{"name": "Osteoporosis", "ID": "M0015552"}
+{"name": "Moraxellaceae Infections", "ID": "M0449414"}
+{"name": "Moraxella Infections", "ID": "M0449415"}
+{"name": "Community-Acquired Infections", "ID": "M0026784"}
+{"name": "Pharyngitis", "ID": "M0016483"}
+{"name": "Brain Damage, Chronic", "ID": "M0002872"}
+{"name": "Hymenolepiasis", "ID": "M0010803"}
+{"name": "Giardiasis", "ID": "M0009224"}
+{"name": "Echinococcosis", "ID": "M0006960"}
+{"name": "Neurocysticercosis", "ID": "M0029731"}
+{"name": "Clonorchiasis", "ID": "M0004618"}
+{"name": "Toxocariasis", "ID": "M0021726"}
+{"name": "Necatoriasis", "ID": "M0014540"}
+{"name": "Opisthorchiasis", "ID": "M0015338"}
+{"name": "Cardiovascular Diseases", "ID": "M0003473"}
+{"name": "Rectal Neoplasms", "ID": "M0018657"}
+{"name": "Urinary Bladder, Overactive", "ID": "M0461241"}
+{"name": "Urinary Incontinence, Urge", "ID": "M0461242"}
+{"name": "Erysipelothrix rhusiopathiae", "ID": "M0460785"}
+{"name": "Gram-Positive Bacterial Infections", "ID": "M0025728"}
+{"name": "Bacillus anthracis", "ID": "M0002103"}
+{"name": "Keratitis, Herpetic", "ID": "M0025643"}
+{"name": "Vaccinia", "ID": "M0022460"}
+{"name": "Dysarthria", "ID": "M0006911"}
+{"name": "Epilepsies, Myoclonic", "ID": "M0328686"}
+{"name": "Tic Disorders", "ID": "M0021514"}
+{"name": "Neuralgia", "ID": "M0014687"}
+{"name": "Dyspnea", "ID": "M0006931"}
+{"name": "Gastritis", "ID": "M0009015"}
+{"name": "Stomatitis", "ID": "M0020550"}
+{"name": "Cryptococcosis", "ID": "M0005381"}
+{"name": "Glomerulosclerosis, Focal Segmental", "ID": "M0009302"}
+{"name": "radiotherapy", "ID": "M0030735"}
+{"name": "Neoplastic Processes", "ID": "M0014612"}
+{"name": "Photochemotherapy", "ID": "M0016745"}
+{"name": "Sleeplessness", "ID": "M0334961"}
+{"name": "Anxiety", "ID": "M0001531"}
+{"name": "Sweating", "ID": "M0020923"}
+{"name": "Kidneys, Artificial", "ID": "M0012029"}
+{"name": "Familial Mediterranean Fever", "ID": "M0016320"}
+{"name": "Ear Diseases", "ID": "M0006941"}
+{"name": "Esophageal Dysphagia", "ID": "M0453215"}
+{"name": "Catatonia", "ID": "M0003634"}
+{"name": "Injections, Intra-Arterial", "ID": "M0011348"}
+{"name": "Respiratory Insufficiency", "ID": "M0018897"}
+{"name": "Sleep Apnea Syndromes", "ID": "M0019963"}
+{"name": "Calculi", "ID": "M0003195"}
+{"name": "Tumor Lysis Syndrome", "ID": "M0023515"}
+{"name": "Sleep Wake Disorders", "ID": "M000601712"}
+{"name": "Polychondritis, Relapsing", "ID": "M0017161"}
+{"name": "Leprosy, Lepromatous", "ID": "M0023793"}
+{"name": "Multiple Endocrine Neoplasia Type 2a", "ID": "M0028166"}
+{"name": "Multiple Endocrine Neoplasia Type 2b", "ID": "M0028167"}
+{"name": "Photophobia", "ID": "M0328261"}
+{"name": "Keratosis", "ID": "M0011970"}
+{"name": "Lymphoma, Non-Hodgkin", "ID": "M0012822"}
+{"name": "Hyperparathyroidism, Secondary", "ID": "M0010846"}
+{"name": "Hyperparathyroidism, Primary", "ID": "M0471516"}
+{"name": "Parathyroid Neoplasms", "ID": "M0015932"}
+{"name": "Myocardial Reperfusion Injury", "ID": "M0023777"}
+{"name": "Dyskinesias", "ID": "M0014140"}
+{"name": "Blepharospasm", "ID": "M0002660"}
+{"name": "Paraparesis, Spastic", "ID": "M0023856"}
+{"name": "Nelson Syndrome", "ID": "M0014557"}
+{"name": "Urinary Bladder Neck Obstruction", "ID": "M0002634"}
+{"name": "Gastric Outlet Obstruction", "ID": "M0026129"}
+{"name": "Frail Elderly", "ID": "M0024958"}
+{"name": "Bone Neoplasms", "ID": "M0002792"}
+{"name": "Optic Neuritis", "ID": "M0015359"}
+{"name": "Pleural Effusion", "ID": "M0017043"}
+{"name": "Relapsing Fever", "ID": "M0018746"}
+{"name": "Stomach Diseases", "ID": "M0020542"}
+{"name": "High Pressure Neurological Syndrome", "ID": "M0010353"}
+{"name": "Respiratory Tract Diseases", "ID": "M0018918"}
+{"name": "Cholelithiasis", "ID": "M0004241"}
+{"name": "Cholangitis", "ID": "M0004228"}
+{"name": "Biliary Fistula", "ID": "M0002489"}
+{"name": "Cholecystitis, Acute", "ID": "M0439583"}
+{"name": "Pancreatitis", "ID": "M0015809"}
+{"name": "Bulimia", "ID": "M0003021"}
+{"name": "Measles", "ID": "M0013152"}
+{"name": "Immunologic Deficiency Syndromes", "ID": "M0011155"}
+{"name": "Bone Marrow Neoplasms", "ID": "M0028434"}
+{"name": "Lymphoma", "ID": "M0012817"}
+{"name": "Appendicitis", "ID": "M0001610"}
+{"name": "Meningitis, Haemophilus", "ID": "M0013367"}
+{"name": "Melanoma", "ID": "M0013309"}
+{"name": "Myoclonic Seizures", "ID": "M000621444"}
+{"name": "Coronary Occlusion", "ID": "M0005192"}
+{"name": "Hepatolenticular Degeneration", "ID": "M0010235"}
+{"name": "Cystinuria", "ID": "M0005557"}
+{"name": "Mercury Poisoning", "ID": "M0013450"}
+{"name": "Lead Poisoning", "ID": "M0012268"}
+{"name": "Agranulocytosis", "ID": "M0000580"}
+{"name": "Musculoskeletal Pain", "ID": "M0549551"}
+{"name": "Hepatic Insufficiency", "ID": "M0461663"}
+{"name": "Female", "ID": "M0008308"}
+{"name": "Respiratory Aspiration", "ID": "M0487803"}
+{"name": "Candidemia", "ID": "M0542149"}
+{"name": "Agoraphobia", "ID": "M0000579"}
+{"name": "Anorexia", "ID": "M0001278"}
+{"name": "Mycobacterium avium-intracellulare Infection", "ID": "M0023509"}
+{"name": "Leukopenia", "ID": "M0012421"}
+{"name": "Babesiosis", "ID": "M0002099"}
+{"name": "Hemolytic-Uremic Syndrome", "ID": "M0010145"}
+{"name": "Blackwater Fever", "ID": "M0002627"}
+{"name": "Tinnitus", "ID": "M0021571"}
+{"name": "Anaphylaxis", "ID": "M0001076"}
+{"name": "Injections, Subcutaneous", "ID": "M0011359"}
+{"name": "Cysticercosis", "ID": "M0005552"}
+{"name": "Schistosomiasis", "ID": "M0019481"}
+{"name": "Intestinal Diseases, Parasitic", "ID": "M0011570"}
+{"name": "Onchocerciasis, Ocular", "ID": "M0024245"}
+{"name": "Enteritis", "ID": "M0007466"}
+{"name": "Salmonella Infections, Animal", "ID": "M0019394"}
+{"name": "Eye Abnormalities", "ID": "M0008084"}
+{"name": "Nutrition Disorders", "ID": "M0015120"}
+{"name": "Tinea", "ID": "M0021562"}
+{"name": "Hepatitis C, Chronic", "ID": "M0029252"}
+{"name": "West Nile Fever", "ID": "M0022928"}
+{"name": "Respiratory Syncytial Virus Infections", "ID": "M0027589"}
+{"name": "Adenovirus Infections, Human", "ID": "M0000405"}
+{"name": "Hemoglobinopathies", "ID": "M0010129"}
+{"name": "Hepatitis, Autoimmune", "ID": "M0029243"}
+{"name": "Tendinopathy", "ID": "M0483885"}
+{"name": "Ductus Arteriosus, Patent", "ID": "M0006877"}
+{"name": "Enterocolitis, Necrotizing", "ID": "M0029980"}
+{"name": "Insulinoma", "ID": "M0011444"}
+{"name": "Surgical Wound Infection", "ID": "M0020904"}
+{"name": "Psychophysiologic Disorders", "ID": "M0018036"}
+{"name": "Vaginosis, Bacterial", "ID": "M0025299"}
+{"name": "Trichomonas Vaginitis", "ID": "M0021930"}
+{"name": "Rosacea", "ID": "M0019267"}
+{"name": "Abscess", "ID": "M0000059"}
+{"name": "Trichomonas Infections", "ID": "M0021928"}
+{"name": "Eczema", "ID": "M0007049"}
+{"name": "Diaper Rash", "ID": "M0006208"}
+{"name": "Cafe-au-Lait Spots", "ID": "M0028478"}
+{"name": "Sunburn", "ID": "M0020814"}
+{"name": "Skin Neoplasms", "ID": "M0019939"}
+{"name": "Pancreatic Neoplasms", "ID": "M0015803"}
+{"name": "Pituitary Neoplasms", "ID": "M0016922"}
+{"name": "Acromegaly", "ID": "M0000261"}
+{"name": "Adenoma", "ID": "M0000367"}
+{"name": "Dialysis", "ID": "M0006201"}
+{"name": "Gynecomastia", "ID": "M0009717"}
+{"name": "Puberty, Precocious", "ID": "M0018083"}
+{"name": "Carcinoma, Ductal, Breast", "ID": "M0027498"}
+{"name": "Deep Vein Thrombosis", "ID": "M0328963"}
+{"name": "Tachycardia, Atrioventricular Nodal Reentry", "ID": "M0020998"}
+{"name": "Lung Diseases", "ID": "M0012744"}
+{"name": "aliskiren", "ID": "M0414194"}
+{"name": "Herpes Zoster Ophthalmicus", "ID": "M0010281"}
+{"name": "Encephalitis, Herpes Simplex", "ID": "M0328381"}
+{"name": "Epstein-Barr Virus Infections", "ID": "M0029738"}

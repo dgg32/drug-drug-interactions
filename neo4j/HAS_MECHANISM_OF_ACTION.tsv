@@ -1,0 +1,735 @@
+from	to
+Sumatriptan	N0000175763
+Chloramphenicol	N0000000150
+Amantadine	N0000000193
+Ketotifen	N0000000190
+Raloxifene	N0000000168
+Zolpidem	N0000000196
+Desonide	N0000000134
+Baclofen	N0000000116
+Zolmitriptan	N0000000256
+Fosfestrol	N0000000100
+Imatinib mesylate	N0000020009
+Cinacalcet	N0000020081
+Enalaprilat	N0000000181
+Butorphanol	N0000000174
+Insulin Degludec	N0000000225
+Ketoconazole	N0000182141
+Zinc acetate	N0000000226
+Methotrexate	N0000000098
+Desloratadine	N0000000190
+Dexamethasone	N0000175450
+Human Rabies Immunoglobulin	N0000009949
+Verapamil	N0000182141
+Eletriptan	N0000175763
+Desonide	N0000175450
+Tenofovir Alafenamide	N0000009947
+Atenolol	N0000009923
+Chlorpromazine	N0000009915
+Enoxaparin	N0000175635
+Leflunomide	N0000000233
+Solifenacin	N0000000125
+Adenosine	N0000175788
+Fluoxetine	N0000000109
+Tibolone	N0000000100
+Clopidogrel	N0000187062
+Amphotericin B	N0000009957
+Clopidogrel	N0000182143
+Loteprednol etabonate	N0000000159
+Betaxolol	N0000000161
+Pentazocine	N0000175686
+Pentazocine	N0000175685
+Methylphenidate	N0000000102
+Palonosetron	N0000175817
+Topiramate	N0000182140
+Efavirenz	N0000182140
+Chlorthalidone	N0000181005
+Safinamide	N0000185504
+Safinamide	N0000190115
+Prasugrel	N0000182143
+Atazanavir	N0000191269
+Warfarin	N0000175964
+Phenytoin	N0000190118
+Levofloxacin	N0000020086
+Epinastine	N0000000209
+Desonide	N0000000159
+Clozapine	N0000000125
+Bromfenac	N0000000160
+Levocetirizine	N0000000190
+Amiodarone	N0000182137
+Astemizole	N0000000190
+Diazepam	N0000000118
+Letrozole	N0000000133
+Verapamil	N0000020065
+Buspirone	N0000000256
+Amantadine	N0000175542
+Hydroxocobalamin	N0000000163
+Ergotamine	N0000000209
+Felodipine	N0000020065
+Zinc Sulfate	N0000000163
+Amiodarone	N0000185503
+Pyrazinamide	N0000009915
+Rizatriptan	N0000000256
+Bemiparin	N0000175635
+Ticagrelor	N0000182141
+Nitrazepam	N0000000118
+Clobazam	N0000182137
+Acarbose	N0000010274
+Ciclosporin	N0000009915
+Glimepiride	N0000000225
+Rifabutin	N0000000233
+Acetazolamide	N0000000235
+Lithium carbonate	N0000000234
+Linezolid	N0000000150
+Dextropropoxyphene	N0000181004
+Olopatadine	N0000000190
+Risperidone	N0000000230
+Betamethasone	N0000000134
+Pantoprazole	N0000000147
+Amlodipine	N0000020065
+Tamsulosin	N0000009919
+Vancomycin	N0000000133
+Enoxaparin	N0000000107
+Phenylephrine	N0000009917
+Desvenlafaxine	N0000000109
+Mercaptopurine	N0000175074
+Omeprazole	N0000000147
+Silodosin	N0000009919
+Pyrimethamine	N0000000191
+Rasagiline	N0000175761
+Moxifloxacin	N0000020087
+Ezetimibe	N0000000223
+Mycophenolate mofetil	N0000000233
+Quinidine	N0000182137
+Clotrimazole	N0000010265
+Azithromycin	N0000000150
+Nicotinamide	N0000000231
+Betamethasone	N0000175450
+Insulin Lispro	N0000000225
+Clonazepam	N0000000196
+Baclofen	N0000000196
+Nitroglycerin	N0000000120
+Ergotamine	N0000190114
+Rosiglitazone	N0000175377
+Capreomycin	N0000009915
+Candesartan	N0000180999
+Ciclosporin	N0000175458
+Fosinopril	N0000000181
+Fluphenazine	N0000000230
+Human Rabies Immunoglobulin	N0000000135
+Hyoscyamine	N0000000125
+Midazolam	N0000000196
+Isosorbide Mononitrate	N0000185499
+Fluocinolone acetonide	N0000000159
+Fexofenadine	N0000000190
+Idoxuridine	N0000000233
+Potassium Citrate	N0000009986
+Adefovir	N0000009947
+Mycophenolate mofetil	N0000000133
+Amantadine	N0000000203
+Phenytoin	N0000000180
+Lorazepam	N0000000118
+Olanzapine	N0000000230
+Propranolol	N0000000161
+Mometasone	N0000000159
+Bemiparin	N0000000107
+Clozapine	N0000000130
+Atropine	N0000000125
+Topiramate	N0000185506
+Almotriptan	N0000000256
+Nimodipine	N0000020065
+Etoposide	N0000000176
+Triamcinolone	N0000000134
+Risperidone	N0000000190
+Digoxin	N0000000133
+Mesalazine	N0000000160
+Butorphanol	N0000000154
+Aprepitant	N0000010262
+Methylphenidate	N0000000114
+Ribavirin	N0000000133
+Atazanavir	N0000191272
+Alprazolam	N0000000196
+L-Methyl Folate	N0000000163
+Sulfasalazine	N0000000160
+Atomoxetine	N0000000102
+Carbamazepine	N0000185506
+Amiodarone	N0000000211
+Cefpodoxime Proxetil	N0000010215
+Bupropion	N0000000109
+Triamcinolone	N0000175450
+Miconazole	N0000020025
+Hydrocortisone	N0000000134
+Methotrexate	N0000000111
+Nicorandil	N0000182728
+Tigecycline	N0000000150
+Dapsone	N0000009946
+Rivastigmine	N0000000177
+Diazepam	N0000000196
+Epinastine	N0000000122
+Methylprednisolone	N0000000134
+Aprepitant	N0000182141
+Enoxaparin	N0000000169
+Ticagrelor	N0000182143
+Azathioprine	N0000000233
+Chromium	N0000000142
+Ertapenem	N0000000133
+Allopurinol	N0000000206
+Thiopental Sodium	N0000009915
+Metformin	N0000000225
+Xylometazoline	N0000009921
+Nitrazepam	N0000000196
+Fluorometholone	N0000175450
+Olanzapine	N0000000161
+Mirtazapine	N0000009919
+Hydrocortisone	N0000175450
+Triamcinolone	N0000000159
+Ranitidine	N0000000151
+Phenytoin	N0000185507
+Levodopa	N0000000203
+Methylprednisolone	N0000175450
+Amiodarone	N0000185504
+Bupropion	N0000182137
+Fluticasone Furoate	N0000175450
+Terfenadine	N0000000190
+Netilmicin	N0000000150
+Hyoscyamine	N0000000130
+Divalproex	N0000000138
+Indinavir	N0000000246
+Prednisolone	N0000175450
+Quinidine	N0000000211
+Clarithromycin	N0000000150
+Tamoxifen	N0000000168
+Clomipramine	N0000000102
+Clozapine	N0000000099
+Propranolol	N0000009923
+Sulfadiazine	N0000009946
+Norfloxacin	N0000020088
+Metronidazole	N0000009915
+Cholestyramine	N0000175365
+Ondansetron	N0000175817
+Albendazole	N0000191624
+Famotidine	N0000000151
+Buclizine	N0000000190
+Chlordiazepoxide	N0000000196
+Codeine	N0000175684
+Butorphanol	N0000175686
+Miglitol	N0000000166
+Sibutramine	N0000000109
+Butorphanol	N0000175685
+Eletriptan	N0000175764
+Chlorpromazine	N0000000230
+Quinine	N0000000233
+Paroxetine	N0000000109
+Dalteparin	N0000000169
+Haloperidol	N0000000230
+Phenylephrine	N0000000209
+Quetiapine	N0000000130
+Omeprazole	N0000182140
+Calcium Gluconate	N0000020074
+Cyproheptadine	N0000000190
+Nelfinavir	N0000190114
+Disulfiram	N0000000183
+Cilostazol	N0000175086
+Meropenem	N0000010215
+Ofloxacin	N0000020087
+Lorazepam	N0000000196
+Colchicine	N0000000239
+Rifampicin	N0000000233
+Metoclopramide	N0000175799
+Fosaprepitant	N0000010262
+Buspirone	N0000009915
+Dexamethasone	N0000000134
+Clonazepam	N0000000118
+Zinc Oxide	N0000000065
+Linagliptin	N0000175912
+Valacyclovir	N0000020060
+Midazolam	N0000000118
+Mebendazole	N0000010256
+Budesonide	N0000000159
+Voriconazole	N0000185504
+Dosulepin	N0000000102
+Clobetasol	N0000000134
+Phenytoin	N0000191267
+Isoniazid	N0000009915
+Meclizine	N0000000190
+Biotin	N0000000163
+Clobazam	N0000185506
+Timolol	N0000009924
+Calcium Chloride	N0000020074
+Deflazacort	N0000000159
+Sertaconazole	N0000009957
+Terbinafine	N0000009957
+Dapagliflozin	N0000187058
+Exemestane	N0000175080
+Halobetasol	N0000175450
+Sodium Valproate	N0000000138
+Trimethoprim	N0000187062
+Magaldrate	N0000000220
+Sertaconazole	N0000020025
+Clobetasol	N0000175450
+Entecavir	N0000009947
+Minocycline	N0000000150
+Olanzapine	N0000000125
+Imipramine	N0000000109
+Alprazolam	N0000000118
+Xylometazoline	N0000009918
+Niacinamide	N0000000163
+Perindopril erbumine	N0000000181
+Selegiline	N0000175761
+Methimazole	N0000175917
+Dexamethasone	N0000000159
+Conjugated Estrogens	N0000000100
+Itraconazole	N0000020025
+Benzathine penicillin G	N0000010215
+Meloxicam	N0000000160
+Penicillamine	N0000000087
+Metoclopramide	N0000000230
+Isosorbide Dinitrate	N0000185499
+Carbamazepine	N0000185607
+Ciprofloxacin	N0000020087
+Glibenclamide	N0000000225
+Fluticasone Propionate	N0000175450
+Zinc Gluconate	N0000000220
+Quetiapine	N0000000099
+Colchicine	N0000182141
+Mirtazapine	N0000000090
+Montelukast	N0000000083
+Zafirlukast	N0000000083
+Sumatriptan	N0000000256
+Safinamide	N0000000224
+Balsalazide	N0000000134
+Carbamazepine	N0000191266
+Fluconazole	N0000182140
+Magaldrate	N0000000226
+Amiloride	N0000000238
+Adenosine	N0000000228
+Epinastine	N0000000190
+Flupenthixol	N0000175799
+Streptomycin	N0000000150
+Methimazole	N0000000132
+Voriconazole	N0000182141
+Alfuzosin	N0000009919
+Digoxin	N0000000238
+Oxcarbazepine	N0000000180
+Phenytoin	N0000187063
+Gentamicin	N0000000150
+Heparin	N0000009963
+Fentanyl	N0000175684
+Methimazole	N0000000155
+Efavirenz	N0000185504
+Loperamide	N0000000174
+Verapamil	N0000000069
+Mirtazapine	N0000000125
+Isosorbide Mononitrate	N0000000120
+Nelfinavir	N0000000246
+Felodipine	N0000000069
+Exemestane	N0000000133
+Eletriptan	N0000000256
+Ethambutol	N0000000233
+Cetirizine	N0000000190
+Loratadine	N0000000190
+Amikacin	N0000000150
+Abacavir	N0000193954
+Selegiline	N0000000184
+Pramipexole	N0000000117
+Fluconazole	N0000020025
+Zinc Gluconate	N0000000226
+Metoprolol Succinate	N0000000161
+Pheniramine	N0000000190
+Glibenclamide	N0000000211
+Paracetamol	N0000000108
+Chlordiazepoxide	N0000000118
+Lamivudine	N0000009947
+Moxifloxacin	N0000020086
+Clarithromycin	N0000190114
+Mefenamic Acid	N0000000160
+Amlodipine	N0000000069
+Mercaptopurine	N0000000233
+Zinc Carnosine	N0000191004
+Haloperidol Decanoate	N0000000230
+Valganciclovir	N0000020060
+Betaxolol	N0000009923
+Itraconazole	N0000190113
+Olanzapine	N0000000130
+Oxymetazoline	N0000000209
+Dextropropoxyphene	N0000175684
+Verapamil	N0000185503
+Calcitriol	N0000000163
+Safinamide	N0000175761
+Amiloride	N0000181004
+Fosphenytoin	N0000000180
+Efavirenz	N0000187064
+Captopril	N0000000181
+Clobazam	N0000000196
+Nevirapine	N0000187064
+Dutasteride	N0000000126
+Betamethasone	N0000000159
+Mifepristone	N0000000115
+Mebendazole	N0000000085
+Ergotamine	N0000000203
+Amoxapine	N0000000102
+Efavirenz	N0000182141
+Tamsulosin	N0000000099
+Colchicine	N0000010256
+Iron	N0000000220
+Rasagiline	N0000000184
+Liraglutide	N0000020058
+Glucosamine	N0000009915
+Zinc acetate	N0000000163
+Miconazole	N0000009957
+Chlorpropamide	N0000000225
+Silodosin	N0000000099
+Carbamazepine	N0000187064
+Furazolidone	N0000000184
+Risperidone	N0000000099
+Olanzapine	N0000000074
+Ethinyl Estradiol	N0000000100
+Atazanavir	N0000187062
+Nimodipine	N0000000069
+Fluorometholone	N0000000134
+Glucagon	N0000010275
+Clarithromycin	N0000182141
+Probenecid	N0000000132
+Valproic Acid	N0000000138
+Duloxetine	N0000000102
+Safinamide	N0000182139
+Bicalutamide	N0000000243
+Nicorandil	N0000000215
+Diltiazem	N0000182141
+Zolmitriptan	N0000175764
+Nalbuphine	N0000000174
+Ciprofloxacin	N0000182138
+Prednisolone	N0000000134
+Morphine	N0000175684
+Metoprolol Succinate	N0000009923
+Itraconazole	N0000185503
+Amitriptyline	N0000000102
+Thioridazine	N0000000230
+Fluphenazine	N0000000099
+Human Rabies Immunoglobulin	N0000184008
+Zinc Sulfate	N0000000220
+Zolpidem	N0000000116
+Doxazosin	N0000009919
+Ketoprofen	N0000000160
+Nitroglycerin	N0000185499
+Granisetron	N0000000090
+Diclofenac	N0000000160
+Safinamide	N0000175760
+Sertraline	N0000182137
+Fenofibrate	N0000175375
+Vitamin A	N0000000170
+Olanzapine	N0000000099
+Sildenafil	N0000020026
+Amiodarone	N0000190114
+Oxiconazole	N0000020025
+Fluvastatin	N0000000121
+Methotrexate	N0000000191
+Lovastatin	N0000000121
+Darifenacin	N0000000125
+Ketorolac	N0000000160
+Armodafinil	N0000000117
+Trifluoperazine	N0000000230
+Lansoprazole	N0000000147
+Kanamycin	N0000000150
+Fluorometholone	N0000000159
+Bemiparin	N0000000169
+Hydrocortisone	N0000000159
+Luliconazole	N0000182140
+Potassium Citrate	N0000000220
+Dextromethorphan Hydrobromide	N0000182147
+Balsalazide	N0000000160
+Methylprednisolone	N0000000159
+Phytomenadione	N0000009915
+Fluticasone Furoate	N0000000159
+Acyclovir	N0000020060
+Tizanidine	N0000009918
+Colchicine	N0000009915
+Zinc Sulfate	N0000000226
+Tramadol	N0000175684
+Prednisolone	N0000000159
+Nortriptyline	N0000000102
+Zolmitriptan	N0000175763
+Sitagliptin	N0000175912
+Ketoconazole	N0000020025
+Morphine	N0000191866
+Norfloxacin	N0000020087
+Aztreonam	N0000009949
+Trimethoprim	N0000000111
+Clozapine	N0000000190
+Rabeprazole	N0000000147
+Capecitabine	N0000000098
+Aripiprazole	N0000000203
+Vitamin A	N0000000163
+Amoxapine	N0000000230
+Ganciclovir	N0000020060
+Ofloxacin	N0000020086
+Atazanavir	N0000190114
+Halobetasol	N0000000134
+Piroxicam	N0000000160
+Ibandronic Acid	N0000009958
+Glucosamine Sulfate Potassium Chloride	N0000009915
+Acitretin	N0000009915
+Phenytoin	N0000185607
+Voriconazole	N0000182140
+Bupropion	N0000000114
+Capecitabine	N0000175074
+Ciclosporin	N0000185503
+Esomeprazole	N0000000147
+Trimethoprim	N0000187061
+Phenytoin	N0000191266
+Didanosine	N0000009947
+Valganciclovir	N0000000233
+Zoledronic acid	N0000009958
+Octreotide acetate	N0000000194
+Divalproex	N0000000204
+Clobazam	N0000000118
+Citalopram	N0000000109
+Mifepristone	N0000000110
+Dalteparin	N0000000231
+Xylometazoline	N0000009922
+Oxazepam	N0000000118
+Cefpodoxime Proxetil	N0000000133
+Letrozole	N0000175080
+Hepatitis B Vaccine	N0000000082
+Nicotinamide	N0000000163
+Itraconazole	N0000009957
+Safinamide	N0000182138
+Salbutamol	N0000009922
+Theophylline	N0000000128
+Aprepitant	N0000185507
+Rizatriptan	N0000175763
+Mirtazapine	N0000009920
+Rosiglitazone	N0000175375
+Chlorpromazine	N0000000099
+Sulfasalazine	N0000000134
+Disopyramide	N0000009915
+Safinamide	N0000182140
+Halobetasol	N0000000159
+Penicillin G	N0000010215
+Aceclofenac	N0000175451
+Loteprednol etabonate	N0000175450
+Palonosetron	N0000000090
+Lithium carbonate	N0000000167
+Atazanavir	N0000182141
+Danazol	N0000000146
+Zafirlukast	N0000185504
+Griseofulvin	N0000010256
+Dosulepin	N0000000109
+Modafinil	N0000000114
+Almotriptan	N0000175764
+Clobetasol	N0000000159
+Aripiprazole	N0000000198
+Propranolol	N0000009924
+Amiodarone	N0000000069
+Demeclocycline	N0000000150
+Ciprofloxacin	N0000020086
+Tolterodine	N0000000125
+Sibutramine	N0000000114
+Buclizine	N0000000125
+Lidocaine	N0000000180
+Hydroxyzine	N0000000190
+Risperidone	N0000000130
+Carbamazepine	N0000009915
+Donepezil	N0000000177
+Levofloxacin	N0000020087
+Repaglinide	N0000000225
+Empagliflozin	N0000187058
+Naphazoline	N0000000209
+Desvenlafaxine	N0000000102
+Fluticasone Propionate	N0000000159
+Quetiapine	N0000000190
+Tetanus Toxoid	N0000009949
+Promethazine	N0000000190
+Dexlansoprazole	N0000000147
+Sodium Valproate	N0000000204
+Repaglinide	N0000175448
+Vitamin K	N0000009915
+Vardenafil	N0000020026
+Atropine	N0000175370
+Roxithromycin	N0000000150
+Caspofungin	N0000020027
+Atorvastatin	N0000000121
+Phenytoin	N0000187064
+Aceclofenac	N0000000160
+Rosiglitazone	N0000000225
+Atazanavir	N0000000246
+Pyrimethamine	N0000000111
+Tadalafil	N0000020026
+Fluconazole	N0000185504
+Quinidine	N0000000180
+Piribedil	N0000000117
+Almotriptan	N0000175763
+Calcitriol	N0000000228
+Fluocinolone acetonide	N0000000134
+Ketoconazole	N0000185503
+Tenofovir disoproxil fumarate	N0000009947
+Phenobarbitone	N0000000105
+Efavirenz	N0000190118
+Mometasone	N0000000134
+Meclizine	N0000000125
+Pregabalin	N0000009915
+Nevirapine	N0000190118
+Timolol	N0000000161
+Dalteparin	N0000175635
+Enalapril	N0000000181
+Itraconazole	N0000182141
+Folic Acid	N0000000163
+Alfuzosin	N0000000099
+Dextromethorphan Hydrobromide	N0000181819
+Chromium	N0000000082
+Sucralfate	N0000175355
+Flupenthixol	N0000000230
+Nalbuphine	N0000175686
+Nalbuphine	N0000175685
+Tobramycin	N0000000150
+Fluocinolone acetonide	N0000175450
+Oxazepam	N0000000196
+Efavirenz	N0000009948
+Azelastine	N0000000190
+Safinamide	N0000190113
+Nevirapine	N0000009948
+Lithium carbonate	N0000009915
+Mometasone	N0000175450
+Xylometazoline	N0000009917
+Acitretin	N0000190478
+Quinidine	N0000000140
+Flupenthixol	N0000009919
+Ganciclovir	N0000000233
+Esomeprazole	N0000182140
+Bupropion	N0000000102
+Warfarin	N0000000164
+Zinc Carnosine	N0000000242
+Ursodeoxycholic Acid	N0000009915
+Sertraline	N0000000109
+Niacinamide	N0000000231
+Clomiphene	N0000000168
+Neomycin	N0000000150
+Methylcobalamin	N0000000163
+Measles Vaccine (Live)	N0000010226
+Ticagrelor	N0000185503
+Alendronic Acid	N0000009958
+Insulin Glulisine	N0000000225
+Desvenlafaxine	N0000182137
+Cyproheptadine	N0000000130
+Menadione	N0000009915
+Fluconazole	N0000182141
+Benazepril	N0000000181
+Lurasidone	N0000009915
+Amiodarone	N0000000161
+Estradiol	N0000000100
+Tacrolimus	N0000175458
+Aspirin	N0000000160
+Albendazole	N0000010260
+Zolpidem	N0000000118
+Clozapine	N0000000230
+Heparin	N0000009960
+Zinc Carnosine	N0000000170
+Amiodarone	N0000182138
+Sulphacetamide	N0000009946
+Amoxapine	N0000000109
+Dalteparin	N0000000107
+Oxiconazole	N0000009957
+Disopyramide	N0000000180
+Potassium Chloride	N0000000220
+Glipizide	N0000000225
+Insulin Aspart	N0000000225
+Vitamin E	N0000000170
+Galantamine	N0000000177
+Safinamide	N0000182137
+Topiramate	N0000000180
+Lisinopril	N0000000181
+Aprepitant	N0000185506
+Pethidine	N0000175684
+Tetracycline	N0000000150
+Ciclosporin	N0000182141
+Timolol	N0000009923
+Doxycycline	N0000000150
+Fluphenazine	N0000009915
+Nepafenac	N0000000160
+Mefloquine	N0000009915
+Human insulin	N0000000225
+Dextromethorphan Hydrobromide	N0000000109
+Praziquantel	N0000000140
+Sibutramine	N0000000102
+Diltiazem	N0000020065
+Granisetron	N0000175817
+Ketoconazole	N0000009957
+Candesartan	N0000000070
+Gabapentin	N0000009915
+Duloxetine	N0000000109
+Carbamazepine	N0000000180
+Tacrolimus	N0000000133
+Enoxaparin	N0000000231
+Chloroquine	N0000000233
+Olanzapine	N0000000190
+Hyoscyamine	N0000000207
+Ondansetron	N0000000090
+Ramipril	N0000000181
+Potassium Chloride	N0000000226
+Sodium Bicarbonate	N0000000220
+Zinc Gluconate	N0000000163
+Amitriptyline	N0000000109
+Luliconazole	N0000009957
+Oxytetracycline	N0000000150
+Nateglinide	N0000000225
+Atenolol	N0000000161
+Naproxen	N0000000160
+Diltiazem	N0000000069
+Sumatriptan	N0000175764
+Amiodarone	N0000181004
+Rizatriptan	N0000175764
+Doxazosin	N0000000099
+Valproic Acid	N0000000204
+Canagliflozin	N0000187058
+Orlistat	N0000009916
+Penicillin V	N0000010215
+Ropinirole	N0000000117
+Ketoconazole	N0000190115
+Loperamide	N0000175684
+Nateglinide	N0000175448
+Hydroxyzine	N0000000207
+Amisulpride	N0000175799
+Erythromycin	N0000000150
+Pentazocine	N0000000154
+Risedronate	N0000009958
+Thioridazine	N0000000099
+Clomipramine	N0000000109
+Gemfibrozil	N0000175375
+Verapamil	N0000190114
+Amlodipine	N0000190114
+Cyclophosphamide	N0000000236
+Acarbose	N0000000166
+Clarithromycin	N0000185503
+Famciclovir	N0000020060
+Finasteride	N0000000126
+Ergotamine	N0000000130
+Sodium Bicarbonate	N0000000226
+Isosorbide Dinitrate	N0000000120
+Ibuprofen	N0000000160
+Mirtazapine	N0000000190
+Zinc acetate	N0000000220
+Safinamide	N0000175448
+Orciprenaline	N0000009922
+Budesonide	N0000175450
+Trimethoprim	N0000000191
+Abacavir	N0000009947
+Trifluoperazine	N0000000099
+Nortriptyline	N0000000109
+Levosalbutamol	N0000009922
+Reboxetine	N0000000105
+Loteprednol etabonate	N0000000134
+Insulin Glargine	N0000000225
+Sevelamer	N0000020074
+Methimazole	N0000000150
+Quetiapine	N0000000230
+Mesalazine	N0000000134
+Indomethacin	N0000000160
+Imipramine	N0000000102
+Deflazacort	N0000175450
+Imatinib mesylate	N0000175076
+Capecitabine	N0000000233
+Carbamazepine	N0000185507
+Calcium	N0000020074
+Escitalopram Oxalate	N0000000109
+Promethazine	N0000000230
+Voriconazole	N0000020025

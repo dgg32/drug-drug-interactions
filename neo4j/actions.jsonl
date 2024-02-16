@@ -1,0 +1,196 @@
+{"name": "Cyclooxygenase Inhibitors", "ID": "N0000000160"}
+{"name": "Lipoxygenase Inhibitors", "ID": "N0000000134"}
+{"name": "Antigen Neutralization", "ID": "N0000184008"}
+{"name": "Antibody-Receptor Interactions", "ID": "N0000009949"}
+{"name": "Immunologic Adjuvants", "ID": "N0000000135"}
+{"name": "Serotonin Agonists", "ID": "N0000000256"}
+{"name": "Serotonin 1d Receptor Agonists", "ID": "N0000175764"}
+{"name": "Serotonin 1b Receptor Agonists", "ID": "N0000175763"}
+{"name": "Insulin Receptor Agonists", "ID": "N0000000225"}
+{"name": "Vitamin K Inhibitors", "ID": "N0000175964"}
+{"name": "Vitamin K Epoxide Reductase Inhibitors", "ID": "N0000000164"}
+{"name": "Peroxisome Proliferator-activated Receptor alpha Agonists", "ID": "N0000175375"}
+{"name": "Protein Synthesis Inhibitors", "ID": "N0000000150"}
+{"name": "DNA Polymerase Inhibitors", "ID": "N0000020060"}
+{"name": "Enzyme Inhibitors", "ID": "N0000000133"}
+{"name": "Nucleic Acid Synthesis Inhibitors", "ID": "N0000000233"}
+{"name": "Dopamine Uptake Inhibitors", "ID": "N0000000114"}
+{"name": "Norepinephrine Uptake Inhibitors", "ID": "N0000000102"}
+{"name": "Tubulin Interactions", "ID": "N0000010256"}
+{"name": "Histamine H1 Receptor Antagonists", "ID": "N0000000190"}
+{"name": "GABA A Modulators", "ID": "N0000000118"}
+{"name": "GABA A Agonists", "ID": "N0000000196"}
+{"name": "Immunologic Factor Interactions", "ID": "N0000000082"}
+{"name": "Biological Macromolecular Activity", "ID": "N0000000142"}
+{"name": "Full Opioid Agonists", "ID": "N0000175684"}
+{"name": "Opioid Agonists", "ID": "N0000000174"}
+{"name": "5-alpha Reductase Inhibitors", "ID": "N0000000126"}
+{"name": "Phosphodiesterase 3 Inhibitors", "ID": "N0000175086"}
+{"name": "Phosphodiesterase Inhibitors", "ID": "N0000000128"}
+{"name": "Corticosteroid Hormone Receptor Agonists", "ID": "N0000175450"}
+{"name": "Glucocorticoid Receptor Agonists", "ID": "N0000000159"}
+{"name": "Nucleoside Reverse Transcriptase Inhibitors", "ID": "N0000009947"}
+{"name": "Angiotensin-converting Enzyme Inhibitors", "ID": "N0000000181"}
+{"name": "Electrolyte Activity", "ID": "N0000000220"}
+{"name": "Dopamine Antagonists", "ID": "N0000000230"}
+{"name": "Dopamine D2 Antagonists", "ID": "N0000175799"}
+{"name": "Adrenergic alpha1-Antagonists", "ID": "N0000009919"}
+{"name": "Monoamine Oxidase Inhibitors", "ID": "N0000000184"}
+{"name": "Monoamine Oxidase-B Inhibitors", "ID": "N0000175761"}
+{"name": "Topoisomerase Inhibitors", "ID": "N0000000176"}
+{"name": "GABA A Receptor Interactions", "ID": "N0000000138"}
+{"name": "GABA B Receptor Interactions", "ID": "N0000000204"}
+{"name": "Enzyme Interactions", "ID": "N0000000163"}
+{"name": "Cytochrome P450 2C9 Inducers", "ID": "N0000185507"}
+{"name": "Cytochrome P450 2C19 Inducers", "ID": "N0000185607"}
+{"name": "Cytochrome P450 2C8 Inducers", "ID": "N0000187063"}
+{"name": "Cytochrome P450 2B6 Inducers", "ID": "N0000187064"}
+{"name": "Cytochrome P450 3A Inducers", "ID": "N0000190118"}
+{"name": "Sodium Channel Interactions", "ID": "N0000000180"}
+{"name": "Cytochrome P450 2D6 Inducers", "ID": "N0000191267"}
+{"name": "Cytochrome P450 1A2 Inducers", "ID": "N0000191266"}
+{"name": "Antithrombins", "ID": "N0000000107"}
+{"name": "Enzyme Activators", "ID": "N0000000231"}
+{"name": "Serine Proteinase Inhibitors", "ID": "N0000000169"}
+{"name": "Factor Xa Inhibitors", "ID": "N0000175635"}
+{"name": "Unknown Cellular or Molecular Interaction", "ID": "N0000009915"}
+{"name": "Hydroxymethylglutaryl-CoA Reductase Inhibitors", "ID": "N0000000121"}
+{"name": "Acid-Base Activity", "ID": "N0000000226"}
+{"name": "Adrenergic beta2-Agonists", "ID": "N0000009922"}
+{"name": "Dopamine Agonists", "ID": "N0000000117"}
+{"name": "Adrenergic alpha-Antagonists", "ID": "N0000000099"}
+{"name": "P-Glycoprotein Inhibitors", "ID": "N0000185503"}
+{"name": "Cytochrome P450 2C9 Inhibitors", "ID": "N0000185504"}
+{"name": "Cytochrome P450 1A2 Inhibitors", "ID": "N0000182138"}
+{"name": "Cytochrome P450 2D6 Inhibitors", "ID": "N0000182137"}
+{"name": "Cytochrome P450 3A Inhibitors", "ID": "N0000190114"}
+{"name": "Calcium Channel Antagonists", "ID": "N0000000069"}
+{"name": "Adrenergic beta-Antagonists", "ID": "N0000000161"}
+{"name": "Sodium Channel Antagonists", "ID": "N0000181004"}
+{"name": "Potassium Channel Interactions", "ID": "N0000000211"}
+{"name": "Structural Macromolecules", "ID": "N0000000228"}
+{"name": "Estrogen Receptor Agonists", "ID": "N0000000100"}
+{"name": "Adrenergic beta1-Antagonists", "ID": "N0000009923"}
+{"name": "Adrenergic beta2-Antagonists", "ID": "N0000009924"}
+{"name": "Alkalinizing Activity", "ID": "N0000009986"}
+{"name": "Opioid Antagonists", "ID": "N0000000154"}
+{"name": "Competitive Opioid Antagonists", "ID": "N0000175686"}
+{"name": "Partial Opioid Agonists", "ID": "N0000175685"}
+{"name": "Histamine Receptor Antagonists", "ID": "N0000000207"}
+{"name": "Carbonic Anhydrase Inhibitors", "ID": "N0000000235"}
+{"name": "Neurokinin 1 Antagonists", "ID": "N0000010262"}
+{"name": "Cytochrome P450 2C19 Inhibitors", "ID": "N0000182140"}
+{"name": "Cytochrome P450 3A4 Inhibitors", "ID": "N0000182141"}
+{"name": "14-alpha Demethylase Inhibitors", "ID": "N0000020025"}
+{"name": "Thrombin Inhibitors", "ID": "N0000009963"}
+{"name": "Antithrombin Activators", "ID": "N0000009960"}
+{"name": "Cytochrome P450 3A5 Inhibitors", "ID": "N0000190115"}
+{"name": "Ergosterol Synthesis Inhibitors", "ID": "N0000009957"}
+{"name": "Progestational Hormone Receptor Antagonists", "ID": "N0000000115"}
+{"name": "Glucocorticoid Receptor Antagonists", "ID": "N0000000110"}
+{"name": "Dipeptidyl Peptidase 4 Inhibitors", "ID": "N0000175912"}
+{"name": "Serotonin 5HT-3 Antagonists", "ID": "N0000000090"}
+{"name": "Serotonin 3 Receptor Antagonists", "ID": "N0000175817"}
+{"name": "L-Calcium Channel Receptor Antagonists", "ID": "N0000020065"}
+{"name": "Uncompetitive NMDA Receptor Antagonists", "ID": "N0000181819"}
+{"name": "Sigma-1 Receptor Agonists", "ID": "N0000182147"}
+{"name": "Serotonin Uptake Inhibitors", "ID": "N0000000109"}
+{"name": "Sodium-Glucose Transporter 2 Inhibitors", "ID": "N0000187058"}
+{"name": "Serotonin Antagonists", "ID": "N0000000130"}
+{"name": "Adrenergic alpha-Agonists", "ID": "N0000000209"}
+{"name": "Dopamine Receptor Interactions", "ID": "N0000000203"}
+{"name": "Cytochrome P450 2B6 Inhibitors", "ID": "N0000182139"}
+{"name": "Breast Cancer Resistance Protein Inhibitors", "ID": "N0000190113"}
+{"name": "Potassium Channel Antagonists", "ID": "N0000175448"}
+{"name": "Monoamine Oxidase-A Inhibitors", "ID": "N0000175760"}
+{"name": "Chloride Channel Antagonists", "ID": "N0000000224"}
+{"name": "Selective Estrogen Receptor Modulators", "ID": "N0000000168"}
+{"name": "Sodium-Potassium Exchanging ATPase Interactions", "ID": "N0000000238"}
+{"name": "Adrenergic alpha2-Agonists", "ID": "N0000009918"}
+{"name": "Adrenergic alpha1-Agonists", "ID": "N0000009917"}
+{"name": "Adrenergic beta1-Agonists", "ID": "N0000009921"}
+{"name": "Phosphodiesterase 5 Inhibitors", "ID": "N0000020026"}
+{"name": "Receptor Interactions", "ID": "N0000000085"}
+{"name": "Bile-acid Binding Activity", "ID": "N0000175365"}
+{"name": "M2 Protein Inhibitors", "ID": "N0000175542"}
+{"name": "Ion Channel Interactions", "ID": "N0000000193"}
+{"name": "Androgen Receptor Agonists", "ID": "N0000000146"}
+{"name": "Alkylating Activity", "ID": "N0000000236"}
+{"name": "alpha Glucosidase Inhibitors", "ID": "N0000000166"}
+{"name": "Amylase Inhibitors", "ID": "N0000010274"}
+{"name": "Cytochrome P450 3A4 Inducers", "ID": "N0000185506"}
+{"name": "Para-Aminobenzoic Acid Inhibitors", "ID": "N0000009946"}
+{"name": "Lipase Inhibitors", "ID": "N0000009916"}
+{"name": "Guanylate Cyclase Activators", "ID": "N0000185499"}
+{"name": "Nitric Oxide Donors", "ID": "N0000000120"}
+{"name": "DNA Gyrase Inhibitors", "ID": "N0000020086"}
+{"name": "Topoisomerase 4 Inhibitors", "ID": "N0000020087"}
+{"name": "Cholinesterase Inhibitors", "ID": "N0000000177"}
+{"name": "Calcium Channel Interactions", "ID": "N0000000140"}
+{"name": "Cholinergic Muscarinic Antagonists", "ID": "N0000000125"}
+{"name": "P2Y12 Receptor Antagonists", "ID": "N0000182143"}
+{"name": "Cytochrome P450 2C8 Inhibitors", "ID": "N0000187062"}
+{"name": "Transpeptidase Inhibitors", "ID": "N0000010215"}
+{"name": "Free Radical Scavenging Activity", "ID": "N0000000170"}
+{"name": "Non-Nucleoside Reverse Transcriptase Inhibitors", "ID": "N0000009948"}
+{"name": "Organic Cation Transporter 2 Inhibitors", "ID": "N0000187061"}
+{"name": "Folic Acid Metabolism Inhibitors", "ID": "N0000000111"}
+{"name": "Dihydrofolate Reductase Inhibitors", "ID": "N0000000191"}
+{"name": "Proton Pump Inhibitors", "ID": "N0000000147"}
+{"name": "Bone Surface Interactions", "ID": "N0000009958"}
+{"name": "Phosphate Chelating Activity", "ID": "N0000020074"}
+{"name": "Adrenergic Agonists", "ID": "N0000000122"}
+{"name": "Potassium Channel Openers", "ID": "N0000182728"}
+{"name": "ATP-Binding Cassette (ABC) Transporter Interactions", "ID": "N0000000215"}
+{"name": "GABA B Agonists", "ID": "N0000000116"}
+{"name": "Tumor Necrosis Factor Receptor Blocking Activity", "ID": "N0000175451"}
+{"name": "Peroxisome Proliferator-activated Receptor gamma Agonists", "ID": "N0000175377"}
+{"name": "Thyroid Hormone Synthesis Inhibitors", "ID": "N0000175917"}
+{"name": "Uncouplers", "ID": "N0000000155"}
+{"name": "Organic Anion Transporter Interactions", "ID": "N0000000132"}
+{"name": "Sodium Chloride Symporter Inhibitors", "ID": "N0000181005"}
+{"name": "Neurotransmitter Transporter Interactions", "ID": "N0000000105"}
+{"name": "Protein Kinase Inhibitors", "ID": "N0000175076"}
+{"name": "Bcr-Abl Tyrosine Kinase Inhibitors", "ID": "N0000020009"}
+{"name": "Cholinergic Antagonists", "ID": "N0000175370"}
+{"name": "Androgen Receptor Antagonists", "ID": "N0000000243"}
+{"name": "Transcription Factor Activity", "ID": "N0000000242"}
+{"name": "Interleukin-6 Antagonists", "ID": "N0000191004"}
+{"name": "Thymidylate Synthetase Inhibitors", "ID": "N0000000098"}
+{"name": "Nucleoside Synthesis Inhibitors", "ID": "N0000175074"}
+{"name": "Interleukin 6 Receptor Antagonists", "ID": "N0000190478"}
+{"name": "HIV Protease Inhibitors", "ID": "N0000000246"}
+{"name": "Norepinephrine Transporter Interactions", "ID": "N0000000234"}
+{"name": "Serotonin Transporter Interactions", "ID": "N0000000167"}
+{"name": "Topoisomerase 2 Inhibitors", "ID": "N0000020088"}
+{"name": "Prostaglandin Receptor Antagonists", "ID": "N0000000108"}
+{"name": "Aromatase Inhibitors", "ID": "N0000175080"}
+{"name": "Leukotriene Receptor Antagonists", "ID": "N0000000083"}
+{"name": "Cellular or Molecular Interactions", "ID": "N0000000223"}
+{"name": "Angiotensin 2 Receptor Antagonists", "ID": "N0000000070"}
+{"name": "Angiotensin 2 Type 1 Receptor Antagonists", "ID": "N0000180999"}
+{"name": "beta Tubulin Interactions", "ID": "N0000010260"}
+{"name": "Cytochrome P450 1A Inducers", "ID": "N0000191624"}
+{"name": "Opioid mu-Receptor Agonists", "ID": "N0000191866"}
+{"name": "Binding Activity", "ID": "N0000175355"}
+{"name": "Calcineurin Inhibitors", "ID": "N0000175458"}
+{"name": "UDP Glucuronosyltransferases Inhibitors", "ID": "N0000191269"}
+{"name": "UGT1A1 Inhibitors", "ID": "N0000191272"}
+{"name": "P-Glycoprotein Interactions", "ID": "N0000000239"}
+{"name": "Histamine H2 Receptor Antagonists", "ID": "N0000000151"}
+{"name": "Xanthine Oxidase Inhibitors", "ID": "N0000000206"}
+{"name": "Glucagon-like Peptide-1 (GLP-1) Agonists", "ID": "N0000020058"}
+{"name": "GABA A Antagonists", "ID": "N0000000074"}
+{"name": "Increased Calcium-sensing Receptor Sensitivity", "ID": "N0000020081"}
+{"name": "Antibody Interactions", "ID": "N0000010226"}
+{"name": "Acetyl Aldehyde Dehydrogenase Inhibitors", "ID": "N0000000183"}
+{"name": "Chelating Activity", "ID": "N0000000087"}
+{"name": "Cytochrome P450 1A1 Inhibitors", "ID": "N0000193954"}
+{"name": "Squalene Monooxygenase Inhibitors", "ID": "N0000010265"}
+{"name": "Glucan Synthase Inhibitors", "ID": "N0000020027"}
+{"name": "Glucagon Receptor Interactions", "ID": "N0000010275"}
+{"name": "Physiochemical Activity", "ID": "N0000000065"}
+{"name": "Serotonin Receptor Interactions", "ID": "N0000000198"}
+{"name": "Somatostatin Receptor Agonists", "ID": "N0000000194"}
+{"name": "Adrenergic alpha2-Antagonists", "ID": "N0000009920"}
+{"name": "Adenosine Receptor Agonists", "ID": "N0000175788"}

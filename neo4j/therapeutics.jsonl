@@ -1,0 +1,57 @@
+{"name": "Ophthalmic Agents", "ID": "N0000193840"}
+{"name": "Gastrointestinal Agent", "ID": "N0000178370"}
+{"name": "Immunological Agents", "ID": "N0000193837"}
+{"name": "Antimigraine Agents", "ID": "N0000193814"}
+{"name": "Blood Glucose Regulators", "ID": "N0000193820"}
+{"name": "Cardiovascular Agent", "ID": "N0000178309"}
+{"name": "Antibacterial Agent", "ID": "N0000178296"}
+{"name": "Antiviral Agent", "ID": "N0000178304"}
+{"name": "Central Nervous System Agent", "ID": "N0000178312"}
+{"name": "Antifungal Agent", "ID": "N0000178297"}
+{"name": "Respiratory System Agent", "ID": "N0000178318"}
+{"name": "Anxiolytics", "ID": "N0000193818"}
+{"name": "Therapeutic Nutrients/Minerals/Electrolytes", "ID": "N0000193844"}
+{"name": "Antidiarrheal Agent", "ID": "N0000178373"}
+{"name": "Hormonal Agents, Suppressant (Sex Hormones/Modifiers)", "ID": "N0000193834"}
+{"name": "Hormonal Agents, Stimulant/Replacement/Modifying (Adrenal)", "ID": "N0000193827"}
+{"name": "Antipsychotic Agent", "ID": "N0000178316"}
+{"name": "Antiparkinson Agents", "ID": "N0000193816"}
+{"name": "Antineoplastic Agent", "ID": "N0000178307"}
+{"name": "Anti-inflammatory Agent", "ID": "N0000178306"}
+{"name": "Analgesics", "ID": "N0000193809"}
+{"name": "Antimanic Agent", "ID": "N0000178315"}
+{"name": "Antidepressive Agent", "ID": "N0000178314"}
+{"name": "Anti-epileptic Agent", "ID": "N0000178313"}
+{"name": "Blood Products/Modifiers/Volume Expanders", "ID": "N0000193821"}
+{"name": "Anti-anginal Agent", "ID": "N0000178310"}
+{"name": "Genitourinary Agents", "ID": "N0000193825"}
+{"name": "Anti-arrhythmic Agent", "ID": "N0000178311"}
+{"name": "Antimicrobial Agent", "ID": "N0000178300"}
+{"name": "Anti-emetic Agent", "ID": "N0000178371"}
+{"name": "Dermatological Agents", "ID": "N0000193823"}
+{"name": "Hormonal Agents, Suppressant", "ID": "N0000193836"}
+{"name": "Antitussive Agent", "ID": "N0000178319"}
+{"name": "Metabolic Bone Disease Agents", "ID": "N0000193839"}
+{"name": "Antihelminthic Agent", "ID": "N0000178298"}
+{"name": "Inflammatory Bowel Disease Agents", "ID": "N0000193838"}
+{"name": "Anticonvulsants", "ID": "N0000193811"}
+{"name": "Antidementia Agents", "ID": "N0000193812"}
+{"name": "Antirheumatic Agent", "ID": "N0000178308"}
+{"name": "Anesthetics", "ID": "N0000193810"}
+{"name": "Otic Agents", "ID": "N0000193841"}
+{"name": "Hormonal Agents, Stimulant/Replacement/Modifying (Sex Hormones/Modifiers)", "ID": "N0000193830"}
+{"name": "Sedatives/Hypnotics", "ID": "N0000193842"}
+{"name": "Antimalarial Agent", "ID": "N0000178299"}
+{"name": "Antiprotozoal Agent", "ID": "N0000178303"}
+{"name": "Antimycobacterial Agent", "ID": "N0000178301"}
+{"name": "Enzyme Replacements/Modifiers", "ID": "N0000193824"}
+{"name": "Antidotes, Deterrents, and Toxicologic Agents", "ID": "N0000178294"}
+{"name": "Diagnostic Agent", "ID": "N0000178317"}
+{"name": "Antigout Agents", "ID": "N0000193813"}
+{"name": "Antispasticity Agents", "ID": "N0000193817"}
+{"name": "Skeletal Muscle Relaxants", "ID": "N0000193843"}
+{"name": "Hormonal Agents, Suppressant (Parathyroid)", "ID": "N0000193832"}
+{"name": "Dental and Oral Agents", "ID": "N0000193822"}
+{"name": "Bipolar Agents", "ID": "N0000193819"}
+{"name": "Anti-infective Agent", "ID": "N0000178295"}
+{"name": "Hormonal Agents, Stimulant", "ID": "N0000193826"}
