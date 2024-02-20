@@ -11,7 +11,7 @@ CREATE CONSTRAINT therapeutic_index IF NOT EXISTS FOR (s:Therapeutic) REQUIRE s.
 
 CALL apoc.load.jsonArray("file:///condition.jsonl") YIELD value MERGE (c:Condition {name: value.name, id: value.ID})
 ;
-CALL apoc.load.jsonArray("file:///drug_details_4.jsonl") YIELD value MERGE (c:Medicine {name: value.name, UMLS_id: value.UMLS_ID, RXNORM_id: value.RXNORM_id, side_effects: value.side_effects})
+CALL apoc.load.jsonArray("file:///drug_details_5.jsonl") YIELD value MERGE (c:Medicine {name: value.name, UMLS_id: value.UMLS_ID, RXNORM_id: value.RXNORM_id, side_effects: value.side_effects, cid: value.cid, SMILES: value.SMILES, kegg_id: value.kegg_id})
 ;
 CALL apoc.load.jsonArray("file:///actions.jsonl") YIELD value MERGE (c:Action {name: value.name, id: value.ID})
 ;
@@ -53,4 +53,15 @@ DETACH DELETE n;
 
 
 SHOW CONSTRAINT;
+
+DROP CONSTRAINT condition_index
+;
+DROP CONSTRAINT medicine_index
+;
+DROP CONSTRAINT action_index
+;
+DROP CONSTRAINT structure_index
+;
+DROP CONSTRAINT therapeutic_index
+;
 

@@ -1,0 +1,24 @@
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Glimepiride/cids/json
+
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/3476/property/CanonicalSMILES/json
+
+https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/fastsimilarity_2d/smiles/CCC1=C(CN(C1=O)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCC(CC3)C)C/cids/JSON?Threshold=95&MaxRecords=100
+
+
+
+
+https://rest.kegg.jp/find/compound/Glimepiride
+
+
+
+https://rest.kegg.jp/get/cpd:C07669/mol
+
+
+curl  -F molfile=@/Users/dgg32/Downloads/D00593.mol http://rest.genome.jp/simcomp/
+
+
+
+curl -F smiles='CCC1=C(CN(C1=O)C(=O)NCCC2=CC=C(C=C2)S(=O)(=O)NC(=O)NC3CCC(CC3)C)C' -F cutoff=0.3 -F limit=10 http://rest.genome.jp/simcomp/
+
+
+	 
