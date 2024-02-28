@@ -65,3 +65,7 @@ DROP CONSTRAINT structure_index
 DROP CONSTRAINT therapeutic_index
 ;
 
+MATCH p=(m:Medicine)-[r:CONTRAINDICATED_WITH_DISEASE]->(c) 
+WHERE NOT (m)-[:MAY_TREAT]->(c) AND NOT (m)-[:MAY_PREVENT]->(c) 
+RETURN p LIMIT 50
+
